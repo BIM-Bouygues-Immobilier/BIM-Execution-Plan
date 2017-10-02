@@ -2,7 +2,5 @@
 
 * [Introduction](README.md)
 * [Cas d'usages](cas-dusages.md)
-* Plateforme BIM
-
-
+* [Plateforme BIM](plateforme-bim.md)
 
