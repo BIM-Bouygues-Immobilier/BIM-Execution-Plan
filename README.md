@@ -6,3 +6,19 @@ Ce BIM Execution Plan présente la méthodologie de travail autour des modèles 
 
 
 
+A quoi sert : line vers les cas d'uasge
+
+Comment utiliser ce guide ?
+
+
+
+
+
+Si vous etes architecte : line
+
+Si vous STR : 
+
+
+
+
+
