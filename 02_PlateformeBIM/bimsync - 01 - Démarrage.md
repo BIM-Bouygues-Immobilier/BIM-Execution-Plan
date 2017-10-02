@@ -2,14 +2,11 @@
 
 # Introduction
 
-Cette notice d’utilisation du Bimsync permet une première prise en main  
-de la plateforme Elle vous permettra notamment d’apprendre à accéder,  
-vous connecter et créer votre compte Bimsync.
+Cette notice d’utilisation du Bimsync permet une première prise en main de la plateforme Elle vous permettra notamment d’apprendre à accéder, vous connecter et créer votre compte Bimsync.
 
 # Invitation
 
-L’invitation à rejoindre la plateforme et le projet prend la forme d’un  
-email. Une fois l’invitation envoyé par un responsable du projet, il  
+L’invitation à rejoindre la plateforme et le projet prend la forme d’un email. Une fois l’invitation envoyé par un responsable du projet, il  
 suffit de cliquer sur le lien reçu  « Click here to accept the  
 invitation » \(1\) pour être redirigé vers la plateforme.
 
