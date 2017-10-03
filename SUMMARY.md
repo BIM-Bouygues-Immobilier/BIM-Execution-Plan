@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Cas d'usages](/03_CasUsages/README.md)
-* [Plateforme collaborative](/plateforme-bim.md)
+* [Plateforme collaborative](/02_PlateformeBIM/README.md)
   * [Démarrage](/02_PlateformeBIM/bimsync - 01 - Démarrage.md)
   * [Manipuler les modèles](/02_PlateformeBIM/bimsync - 02 - Manipuler les modèles.md)
   * [Déposer et gérer des modèles](/02_PlateformeBIM/bimsync - 03 - Déposer et gérer des modèles.md)
@@ -13,7 +13,7 @@
 
   * [Géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)
 
-    * [Modélisation de l'environnement](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Modélisation de l'environnement.md)
+    * \[Modélisation de l'environnement\]\(/04\_Recommandations de modélisation/01\_GEOMETRE/GEO\_Modélisation de l'environnement.md\)
 
     * [Partage des coordonnées](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
