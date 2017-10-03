@@ -13,7 +13,7 @@
 
   * [Géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)
 
-    * [Modélisation de l'environnement](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Modélisation de l'environnement.md)
+    * Modélisation de l'environnement
 
     * [Partage des coordonnées](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
@@ -35,11 +35,11 @@
 
     * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
 
-    * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
+    * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet IFC)
 
-    * Modélisation des surfaces
+    * [Modélisation des surfaces](/04_Recommandations de modélisation/Modélisation surfaces IFC.md)
 
-    * Export en format IFC
+    * [Export en format IFC](/04_Recommandations de modélisation/Export depuis Archicad.md)
 
   * [BET Structure \(Revit\)](/04_Recommandations de modélisation/03_BET STRUCTURE/README.md)
 
