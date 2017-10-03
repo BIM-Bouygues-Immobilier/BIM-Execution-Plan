@@ -13,7 +13,7 @@
 
   * [Géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)
 
-    * \[Modélisation de l'environnement\]\(/04\_Recommandations de modélisation/01\_GEOMETRE/GEO\_Modélisation de l'environnement.md\)
+    * Modélisation de l'environnement
 
     * [Partage des coordonnées](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
@@ -21,19 +21,19 @@
 
   * [Architectes \(Revit\)](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)
 
-    * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
+    * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
 
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
-    * Partage des coordonnées
+    * [Partage des coordonnées](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/ARC RVT_Partage des coordonnées.md)
 
-    * Modélisation des surfaces
+    * [Modélisation des surfaces](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/ARC RVT_Modélisation des surfaces.md)
 
     * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
 
   * [Architectes \(Archicad\)](/04_Recommandations de modélisation/02_ARCHITECTE ARCHICAD/README.md)
 
-    * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
+    * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
 
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
@@ -43,7 +43,7 @@
 
   * [BET Structure \(Revit\)](/04_Recommandations de modélisation/03_BET STRUCTURE/README.md)
 
-    * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
+    * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
 
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
@@ -53,7 +53,7 @@
 
   * [BET Fluides \(Revit\)](/04_Recommandations de modélisation/04_BET FLUIDES/README.md)
 
-    * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
+    * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
 
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
