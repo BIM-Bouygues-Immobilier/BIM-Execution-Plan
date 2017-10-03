@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Cas d'usages](cas-dusages.md)
+* [Cas d'usages](/03_CasUsages/README.md)
 * [Plateforme collaborative](/plateforme-bim.md)
   * [Démarrage](/02_PlateformeBIM/bimsync - 01 - Démarrage.md)
   * [Manipuler les modèles](/02_PlateformeBIM/bimsync - 02 - Manipuler les modèles.md)
@@ -9,56 +9,59 @@
   * [Déposer et gérer des documents](/02_PlateformeBIM/bimsync - 04 - Déposer et gérer des documents.md)
   * [Poser et répondre aux questions](/02_PlateformeBIM/bimsync - 05 - Poser et répondre aux questions.md)
   * [Inviter des membres et gérer un projet](/02_PlateformeBIM/bimsync - 06 - Inviter des membres et gérer un projet.md)
-* [Recommandations pour la modélisation](/04_Recommandations de modélisation/README.md)
-  * 
+* Recommandations pour la modélisation
 
-Modélisation de l'environnement
+  * Géomètres
 
-Export depuis Revit
+    * Modélisation de l'environnement
 
-Partage des coordonnées
+    * Partage des coordonnées
 
-Architectes \(Revit\)
+    * Export depuis Revit
 
-Généralités
+  * Architectes \(Revit\)
 
-Renseignement des informations de projet
+    * Généralités
 
-Partage des coordonnées
+    * Renseignement des informations de projet
 
-Modélisation des surfaces
+    * Partage des coordonnées
 
-Export depuis Revit
+    * Modélisation des surfaces
 
-Architectes \(Archicad\)
+    * Export depuis Revit
 
-Généralités
+  * Architectes \(Archicad\)
 
-Renseignement des informations de projet
+    * Généralités
 
-Modélisation des surfaces
+    * Renseignement des informations de projet
 
-Export depuis Revit
+    * Modélisation des surfaces
 
-BET Structure \(Revit\)
+    * Export en format IFC
 
-Généralités
+  * BET Structure \(Revit\)
 
-Renseignement des informations de projet
+    * Généralités
 
-Partage des coordonnées
+    * Renseignement des informations de projet
 
-Export depuis Revit
+    * Partage des coordonnées
 
-BET Fluides \(Revit\)
+    * Export depuis Revit
 
-Généralités
+  * BET Fluides \(Revit\)
 
-Renseignement des informations de projet
+    * Généralités
 
-Partage des coordonnées
+    * Renseignement des informations de projet
 
-Modélisation des réseaux
+    * Partage des coordonnées
 
-Export depuis Revit
+    * Modélisation des réseaux
+
+    * Export depuis Revit
+
+
 
