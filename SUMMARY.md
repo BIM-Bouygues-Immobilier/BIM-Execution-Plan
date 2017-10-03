@@ -9,33 +9,33 @@
   * [Déposer et gérer des documents](/02_PlateformeBIM/bimsync - 04 - Déposer et gérer des documents.md)
   * [Poser et répondre aux questions](/02_PlateformeBIM/bimsync - 05 - Poser et répondre aux questions.md)
   * [Inviter des membres et gérer un projet](/02_PlateformeBIM/bimsync - 06 - Inviter des membres et gérer un projet.md)
-* Recommandations pour la modélisation
+* [Recommandations pour la modélisation](/04_Recommandations de modélisation/README.md)
 
-  * Géomètres
+  * [Géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)
 
-    * Modélisation de l'environnement
+    * [Modélisation de l'environnement](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Modélisation de l'environnement.md)
 
-    * Partage des coordonnées
+    * [Partage des coordonnées](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
-    * Export depuis Revit
+    * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
 
-  * Architectes \(Revit\)
+  * [Architectes \(Revit\)](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)
 
-    * Généralités
+    * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
 
-    * Renseignement des informations de projet
+    * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
     * Partage des coordonnées
 
     * Modélisation des surfaces
 
-    * Export depuis Revit
+    * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
 
-  * Architectes \(Archicad\)
+  * [Architectes \(Archicad\)](/04_Recommandations de modélisation/02_ARCHITECTE ARCHICAD/README.md)
 
-    * Généralités
+    * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
 
-    * Renseignement des informations de projet
+    * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
     * Modélisation des surfaces
 
@@ -43,25 +43,25 @@
 
   * BET Structure \(Revit\)
 
-    * Généralités
+    * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
 
-    * Renseignement des informations de projet
+    * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
     * Partage des coordonnées
 
-    * Export depuis Revit
+    * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
 
   * BET Fluides \(Revit\)
 
-    * Généralités
+    * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
 
-    * Renseignement des informations de projet
+    * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
     * Partage des coordonnées
 
     * Modélisation des réseaux
 
-    * Export depuis Revit
+    * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
 
 
 
