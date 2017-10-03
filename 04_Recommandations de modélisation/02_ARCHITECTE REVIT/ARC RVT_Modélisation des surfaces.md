@@ -69,52 +69,107 @@ Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini.
 
 ### Décompositions des locaux
 
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:"Cambria Math";  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:1;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:0 0 0 0 0 0;}  
-@font-face  
-	{font-family:"Trebuchet MS";  
-	panose-1:2 11 6 3 2 2 2 2 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:swiss;  
-	mso-font-pitch:variable;  
-	mso-font-signature:1671 0 0 0 159 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	mso-pagination:widow-orphan;  
-	font-size:10.0pt;  
-	mso-bidi-font-size:12.0pt;  
-	font-family:"Trebuchet MS",sans-serif;  
-	mso-fareast-font-family:"Times New Roman";  
-	mso-bidi-font-family:"Times New Roman";  
-	color:\#0B2D77;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-size:10.0pt;  
-	mso-ansi-font-size:10.0pt;  
-	mso-bidi-font-size:10.0pt;}  
-@page WordSection1  
-	{size:612.0pt 792.0pt;  
-	margin:70.85pt 70.85pt 70.85pt 70.85pt;  
-	mso-header-margin:36.0pt;  
-	mso-footer-margin:36.0pt;  
-	mso-paper-source:0;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
+&lt;!--
 
+/\* Font Definitions \*/
+
+@font-face
+
+```
+{font-family:"Cambria Math";
+
+panose-1:2 4 5 3 5 4 6 3 2 4;
+
+mso-font-charset:1;
+
+mso-generic-font-family:roman;
+
+mso-font-pitch:variable;
+
+mso-font-signature:0 0 0 0 0 0;}
+```
+
+@font-face
+
+```
+{font-family:"Trebuchet MS";
+
+panose-1:2 11 6 3 2 2 2 2 2 4;
+
+mso-font-charset:0;
+
+mso-generic-font-family:swiss;
+
+mso-font-pitch:variable;
+
+mso-font-signature:1671 0 0 0 159 0;}
+```
+
+/\* Style Definitions \*/
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+
+```
+{mso-style-unhide:no;
+
+mso-style-qformat:yes;
+
+mso-style-parent:"";
+
+margin:0cm;
+
+margin-bottom:.0001pt;
+
+mso-pagination:widow-orphan;
+
+font-size:10.0pt;
+
+mso-bidi-font-size:12.0pt;
+
+font-family:"Trebuchet MS",sans-serif;
+
+mso-fareast-font-family:"Times New Roman";
+
+mso-bidi-font-family:"Times New Roman";
+
+color:\#0B2D77;}
+```
+
+.MsoChpDefault
+
+```
+{mso-style-type:export-only;
+
+mso-default-props:yes;
+
+font-size:10.0pt;
+
+mso-ansi-font-size:10.0pt;
+
+mso-bidi-font-size:10.0pt;}
+```
+
+@page WordSection1
+
+```
+{size:612.0pt 792.0pt;
+
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+
+mso-header-margin:36.0pt;
+
+mso-footer-margin:36.0pt;
+
+mso-paper-source:0;}
+```
+
+div.WordSection1
+
+```
+{page:WordSection1;}
+```
+
+--&gt;
 
 | **Eléments de construction** |  |
 | :--- | :--- |
