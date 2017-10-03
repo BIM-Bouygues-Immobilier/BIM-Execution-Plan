@@ -13,7 +13,7 @@
 
   * [Géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)
 
-    * [Modélisation de l'environnement](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Modélisation de l'environnement.md)
+    * \[Modélisation de l'environnement\]\(/04\_Recommandations de modélisation/01\_GEOMETRE/GEO\_Modélisation de l'environnement.md\)
 
     * [Partage des coordonnées](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
@@ -41,7 +41,7 @@
 
     * Export en format IFC
 
-  * BET Structure \(Revit\)
+  * [BET Structure \(Revit\)](/04_Recommandations de modélisation/03_BET STRUCTURE/README.md)
 
     * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
 
@@ -51,7 +51,7 @@
 
     * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
 
-  * BET Fluides \(Revit\)
+  * [BET Fluides \(Revit\)](/04_Recommandations de modélisation/04_BET FLUIDES/README.md)
 
     * [Généralités](//04_Recommandations de modélisation/Généralités RVT.md)
 
