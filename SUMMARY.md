@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Cas d'usages](/03_CasUsages/README.md)
-* [Plateforme collaborative](/plateforme-bim.md)
+* [Plateforme collaborative](/02_PlateformeBIM/README.md)
   * [Démarrage](/02_PlateformeBIM/bimsync - 01 - Démarrage.md)
   * [Manipuler les modèles](/02_PlateformeBIM/bimsync - 02 - Manipuler les modèles.md)
   * [Déposer et gérer des modèles](/02_PlateformeBIM/bimsync - 03 - Déposer et gérer des modèles.md)
@@ -13,7 +13,7 @@
 
   * [Géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)
 
-    * Modélisation de l'environnement
+    * \[Modélisation de l'environnement\]\(/04\_Recommandations de modélisation/01\_GEOMETRE/GEO\_Modélisation de l'environnement.md\)
 
     * [Partage des coordonnées](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
@@ -35,11 +35,11 @@
 
     * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
 
-    * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
+    * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet IFC)
 
-    * Modélisation des surfaces
+    * [Modélisation des surfaces](/04_Recommandations de modélisation/Modélisation surfaces IFC.md)
 
-    * Export en format IFC
+    * [Export en format IFC](/04_Recommandations de modélisation/Export depuis Archicad.md)
 
   * [BET Structure \(Revit\)](/04_Recommandations de modélisation/03_BET STRUCTURE/README.md)
 
@@ -47,7 +47,7 @@
 
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
-    * Partage des coordonnées
+    * [Partage des coordonnées](/04_Recommandations de modélisation/BET RVT_Partage des coordonnées.md)
 
     * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
 
@@ -57,7 +57,7 @@
 
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
-    * Partage des coordonnées
+    * [Partage des coordonnées](/04_Recommandations de modélisation/BET RVT_Partage des coordonnées.md)
 
     * Modélisation des réseaux
 

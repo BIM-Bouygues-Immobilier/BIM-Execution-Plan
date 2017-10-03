@@ -51,9 +51,175 @@ L’ensemble de ces surfaces SHOB/SHON/SDP est représenté à l’aide d’un p
 
 Les places de parking sont modélisées à l’aide d’une famille de la catégorie Parking. Les propriétés suivantes sont à compléter :
 
+| Propriété | Valeurs possibles | Explication |
+| :--- | :--- | :--- |
+| Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement des places de parking. |
+
 ## Surface Utile Brute Locative \(SUBL\), Surface Utile Brute Bureaux \(SUBB\), Surface Utile Nette \(SUN\) et Surface Nette Bureaux \(SNB\)
 
+### Généralités
 
+Les Surfaces Utiles Brutes Locatives \(SUBL\), Surfaces Utiles Brutes Bureaux \(SUBB\), Surfaces Utiles Nettes \(SUN\) et Surfaces Nettes Bureaux \(SNB\) sont calculées à partir de la modélisation des locaux du projet.
+
+L’ensemble des locaux du projet doivent être présents dans la maquette numérique. En plus des locaux « nobles » du programme, cette modélisation doit inclure tous les autres types de locaux, tel que les circulations, les locaux techniques, les gaines techniques, …
+
+Les locaux doivent être représentés et décomposés en locaux fonctionnels \(Bureau, Salle de Réunion, Hall, …\), même si ces locaux appartiennent à un espace physique plus important. Par exemple, un hall et une cafétéria partageant le même espace physique devront être représentés comme deux locaux distincts.
+
+Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini. En l’absence de faux-plafonds, les locaux doivent être modélisés jusqu’à la hauteur libre prévue par le programme. Les locaux doivent être identifiés par leur nom, en suivant les valeurs du tableau VI.2 Décomposition des locaux.
+
+### Décompositions des locaux
+
+&lt;!--
+
+/\* Font Definitions \*/
+
+@font-face
+
+```
+{font-family:"Cambria Math";
+
+panose-1:2 4 5 3 5 4 6 3 2 4;
+
+mso-font-charset:1;
+
+mso-generic-font-family:roman;
+
+mso-font-pitch:variable;
+
+mso-font-signature:0 0 0 0 0 0;}
+```
+
+@font-face
+
+```
+{font-family:"Trebuchet MS";
+
+panose-1:2 11 6 3 2 2 2 2 2 4;
+
+mso-font-charset:0;
+
+mso-generic-font-family:swiss;
+
+mso-font-pitch:variable;
+
+mso-font-signature:1671 0 0 0 159 0;}
+```
+
+/\* Style Definitions \*/
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+
+```
+{mso-style-unhide:no;
+
+mso-style-qformat:yes;
+
+mso-style-parent:"";
+
+margin:0cm;
+
+margin-bottom:.0001pt;
+
+mso-pagination:widow-orphan;
+
+font-size:10.0pt;
+
+mso-bidi-font-size:12.0pt;
+
+font-family:"Trebuchet MS",sans-serif;
+
+mso-fareast-font-family:"Times New Roman";
+
+mso-bidi-font-family:"Times New Roman";
+
+color:\#0B2D77;}
+```
+
+.MsoChpDefault
+
+```
+{mso-style-type:export-only;
+
+mso-default-props:yes;
+
+font-size:10.0pt;
+
+mso-ansi-font-size:10.0pt;
+
+mso-bidi-font-size:10.0pt;}
+```
+
+@page WordSection1
+
+```
+{size:612.0pt 792.0pt;
+
+margin:70.85pt 70.85pt 70.85pt 70.85pt;
+
+mso-header-margin:36.0pt;
+
+mso-footer-margin:36.0pt;
+
+mso-paper-source:0;}
+```
+
+div.WordSection1
+
+```
+{page:WordSection1;}
+```
+
+--&gt;
+
+| **Eléments de construction** |  |
+| :--- | :--- |
+|  | TERRASSES |
+|  | GAINES ASCENSEURS ET ESCALIERS |
+|  | GAINES TECHNIQUES |
+| **Partie Communes Nobles** |  |
+|  | HALL |
+|  | SALLE DE RESTAURANT ET DISTRIBUTION |
+|  | CUISINES |
+|  | CAFETERIA |
+|  | SANITAIRES SGX |
+|  | AUDITORIUM / SALLE POLYVALENTE |
+|  | FITNESS |
+|  | PALIERS D'ETAGES |
+|  | PALIERS D'ESCALIERS |
+|  | CIRCULATIONS COMMUNES |
+| **Parties Privatives** |  |
+|  | LOCAUX ET ARMOIRES TECHNIQUES UTILISATEURS |
+|  | CIRCULATIONS DE BUREAUX |
+|  | SANITAIRES PRIVATIFS |
+|  | LOCAUX MENAGES D'ETAGES |
+|  | TISANERIES |
+|  | LOCAUX BRASSAGE |
+|  | SALLES DE REUNIONS |
+|  | ZONES DE SURCHARGES RENFORCEES |
+|  | SURFACES BUREAUX |
+| **Back of house** |  |
+|  | ARCHIVES CENTRALES |
+|  | LOCAUX DIVERS COMMUNS |
+|  | LOCAUX VESTIAIRES VELO |
+|  | LOCAUX DECHETS |
+|  | LOCAUX TECHNIQUES |
+| **Stationnement** |  |
+|  | PARKING VOITURES ET DEUX MOTORISES |
+|  | LOCAUX VELO PARKING |
+|  | PALIERS INFRA |
+|  | AIRES DE LIVRAISONS COUVERTES ET FERMEES |
+
+### Modélisation dans Revit
+
+Dans Revit, ces locaux doivent être modélisé à l’aide de l’outil Pièce :
+
+![](/assets/SURFACE_02.PNG)Les propriétés suivantes sont à compléter :
+
+| Propriété | Valeurs possibles | Explication |
+| :--- | :--- | :--- |
+| Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex. sont marquée « Extérieur ». |
+| Nom | Voir « Décompositions des locaux » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
+| Décalage limite | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local. Les propriétés « Niveau » et « Limite supérieure » doivent donc également avoir la même valeur. |
 
 
 
