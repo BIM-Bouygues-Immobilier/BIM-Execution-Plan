@@ -11,7 +11,9 @@ La maquette numérique, grâce à la représentation tridimensionnelle du projet
 
 Pour que cela se produise, la maquette numérique doit représenter à tout moment l’avancement des études et de la conception. Chaque intervenant est responsable du développement de son modèle numérique et des informations qu’y sont liées et il contribue à en rendre l’utilisation propre aux autres intervenants.
 
-L’outil utilisé pour la visualisation des maquettes numérique est la plateforme collaborative Bimsync :![](/assets/CAS_01.png)
+L’outil utilisé pour la visualisation des maquettes numérique est la plateforme collaborative Bimsync \[Cfr [Plateforme collaborative](/02_PlateformeBIM/README.md)\]
+
+![](/assets/CAS_01.png)
 
 L’espace de visualisation 3D permet d’avoir un aperçu des différents modèles/métier et de les compiler afin d’en vérifier la coordination.
 
