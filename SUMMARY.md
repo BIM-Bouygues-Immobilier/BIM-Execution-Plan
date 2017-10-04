@@ -21,7 +21,7 @@
 
   * [Architectes \(Revit\)](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)
 
-    * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
+    * [Généralités](/04_Recommandations de modélisation/Généralités.md)
 
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
