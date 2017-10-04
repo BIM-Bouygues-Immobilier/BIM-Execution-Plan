@@ -36,7 +36,7 @@
     * [Partage des coordonnées](/04_Recommandations de modélisation/BET RVT_Partage des coordonnées.md)
     * Modélisation des réseaux
     * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
-    * [test](/04_Recommandations de modélisation/04_BET FLUIDES/test.md)
+    * [test](/04_Recommandations de modélisation/test.md)
 
 
 
