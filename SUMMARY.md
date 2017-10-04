@@ -2,17 +2,21 @@
 
 * [Introduction](README.md)
 * [Cas d'usages](/03_CasUsages/README.md)
+
 * [Plateforme collaborative](/02_PlateformeBIM/README.md)
-  * [Démarrage](/02_PlateformeBIM/bimsync - 01 - Démarrage.md)
-  * [Manipuler les modèles](/02_PlateformeBIM/bimsync - 02 - Manipuler les modèles.md)
-  * [Déposer et gérer des modèles](/02_PlateformeBIM/bimsync - 03 - Déposer et gérer des modèles.md)
-  * [Déposer et gérer des documents](/02_PlateformeBIM/bimsync - 04 - Déposer et gérer des documents.md)
-  * [Poser et répondre aux questions](/02_PlateformeBIM/bimsync - 05 - Poser et répondre aux questions.md)
-  * [Inviter des membres et gérer un projet](/02_PlateformeBIM/bimsync - 06 - Inviter des membres et gérer un projet.md)
+
+  * [Démarrage](/02_PlateformeBIM/Demarrage.md)
+  * Manipuler les modèles
+  * Déposer et gérer des modèles
+  * Déposer et gérer des documents
+  * Poser et répondre aux questions
+  * Inviter des membres et gérer un projet
+
 * [Recommandations pour la modélisation](/04_Recommandations de modélisation/README.md)
+
   * [Géomètres](/01_GEOMETRE/README.md)
     * Modélisation de l'environnement
-    * [Partage des coordonnées](/01_GEOMETRE/GEO_Partage des coordonnées.md)
+    * [Partage des coordonnées pour les géomètres](/01_GEOMETRE/GEO_Partage-des-coordonnées.md)
     * [Export depuis Revit](/01_GEOMETRE/GEO_Partage des coordonnées.md)
   * [Architectes \(Revit\)](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)
     * [Généralités](/04_Recommandations de modélisation/Généralités.md)
@@ -36,4 +40,6 @@
     * [Partage des coordonnées](/04_Recommandations de modélisation/BET RVT_Partage des coordonnées.md)
     * Modélisation des réseaux
     * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
+
+
 
