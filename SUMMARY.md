@@ -11,7 +11,7 @@
   * [Inviter des membres et gérer un projet](/02_PlateformeBIM/bimsync - 06 - Inviter des membres et gérer un projet.md)
 * [Recommandations pour la modélisation](/04_Recommandations de modélisation/README.md)
 
-  * [Géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)
+  * [Géomètres](/01_GEOMETRE/README.md)
 
     * \[Modélisation de l'environnement\]
 
