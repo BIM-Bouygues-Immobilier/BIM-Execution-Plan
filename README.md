@@ -10,11 +10,11 @@ Bouygues Immobilier, sur la base des démarches mises en place pour la valorisat
 
 Pour avoir accès aux cas d'usages BIM \[[cas d'usages](//03_CasUsages/README.md)\]
 
-## Comment utiliser ce guide?
+## [Comment utiliser ce guide?](//test/)
 
 Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur les opérations BIM via des maquettes numériques. Pour faciliter l'accès aux recommandations de travail, le guide est structuré par intervenant.
 
-* Si vous êtes GEOMETRES: \[[Recommandations de modélisation pour les géomètres](//04_Recommandations de modélisation/Export depuis Archicad.md)\]
+* Si vous êtes GEOMETRES: \[Recommandations de modélisation pour les géomètres\]
 * Si vous êtes ARCHITECTES \(REVIT\): \[[Recommandations de modélisation pour les architectes](//04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)\]
 * Si vous êtes ARCHITECTES \(ARCHICAD\): \[[Recommandations de modélisation pour les architectes](//04_Recommandations de modélisation/02_ARCHITECTE ARCHICAD/README.md)\]
 * Si vous êtes BET STRUCTURE: \[[Recommandations de modélisation pour les BET structure](//04_Recommandations de modélisation/03_BET STRUCTURE/README.md)\]
