@@ -1,4 +1,4 @@
-# [Recommandations pour les architectes \(Revit\)](/04_Recommandations de modélisation/test-test-test.md)
+# Recommandations pour les architectes \(Revit\)
 
 ![](/assets/ARC RVT.PNG)L'article regroupe les recommandations de modélisation pour les architectes qui utilisent le logiciel Autodesk Revit dans les opérations BIM de Bouygues Immobilier. Les sujets abordés par ces recommandations, en plus des indications générales à suivre \[Cfr [Généralités](////04_Recommandations de modélisation/Généralités RVT.md)\], sont:
 
