@@ -13,7 +13,6 @@
   * [Géomètres](/01_GEOMETRE/README.md)
     * Modélisation de l'environnement
     * Partage des coordonnées pour les géomètres
-    * [geo part](01_GEOMETRE/geo-part.md)
     * [Export depuis Revit](/01_GEOMETRE/GEO_Partage des coordonnées.md)
   * [Architectes \(Revit\)](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)
     * [Généralités](/04_Recommandations de modélisation/Généralités.md)
@@ -21,6 +20,7 @@
     * [Partage des coordonnées](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/ARC RVT_Partage des coordonnées.md)
     * [Modélisation des surfaces](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/ARC RVT_Modélisation des surfaces.md)
     * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
+    * [test test test](04_Recommandations de modélisation/test-test-test.md)
   * [Architectes \(Archicad\)](/04_Recommandations de modélisation/02_ARCHITECTE ARCHICAD/README.md)
     * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet IFC)
