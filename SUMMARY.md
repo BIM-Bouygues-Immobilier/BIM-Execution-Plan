@@ -12,7 +12,8 @@
 * [Recommandations pour la modélisation](/04_Recommandations de modélisation/README.md)
   * [Géomètres](/01_GEOMETRE/README.md)
     * Modélisation de l'environnement
-    * [Partage des coordonnées](/01_GEOMETRE/GEO_Partage des coordonnées.md)
+    * Partage des coordonnées pour les géomètres
+    * [geo part](01_GEOMETRE/geo-part.md)
     * [Export depuis Revit](/01_GEOMETRE/GEO_Partage des coordonnées.md)
   * [Architectes \(Revit\)](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)
     * [Généralités](/04_Recommandations de modélisation/Généralités.md)
@@ -36,7 +37,4 @@
     * [Partage des coordonnées](/04_Recommandations de modélisation/BET RVT_Partage des coordonnées.md)
     * Modélisation des réseaux
     * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
-    * [test](/03_CasUsages/test.md)
-
-
 
