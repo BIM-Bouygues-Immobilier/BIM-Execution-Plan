@@ -15,7 +15,7 @@
 
     * \[Modélisation de l'environnement\]\(/01\_GEOMETRE/GEO\_Modélisation de l'environnement.md\)
 
-    * [GEO Partage des coordonnées](/01_GEOMETRE/GEO_Partage des coordonnées.md)
+    * [Partage des coordonnées](/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
     * [Export depuis Revit](/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
