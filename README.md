@@ -21,7 +21,7 @@ Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur
 
 ## Comment échanger sur le projet?
 
-Afin de soutenir une démarche collaborative parmi les intervenants sur les projets, Bouygues immobilier a mis en place une plateforme d'échange de données, modèles numériques et documents.                                                                     
+Afin de soutenir une démarche collaborative parmi les intervenants sur les projets, Bouygues immobilier a mis en place une plateforme d'échange de données, modèles numériques et documents.
 
 Pour en savoir plus sur la plateforme collaborative \[[Utilisation de la plateforme Bimsync](//plateforme-bim.md)\]
 
