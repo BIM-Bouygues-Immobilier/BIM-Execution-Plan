@@ -1,4 +1,4 @@
-# Généralités
+# [Généralités](/README.md)
 
 L’ensemble des informations décrites ci-dessous devront être présentes dans les modèles déposés au format IFC.
 
