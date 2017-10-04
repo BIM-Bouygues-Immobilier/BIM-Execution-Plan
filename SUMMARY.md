@@ -13,7 +13,7 @@
 
   * [Géomètres](/01_GEOMETRE/README.md)
 
-    * \[Modélisation de l'environnement\]\(/01\_GEOMETRE/GEO\_Modélisation de l'environnement.md\)
+    * Modélisation de l'environnement
 
     * [Partage des coordonnées](/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
