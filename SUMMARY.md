@@ -32,7 +32,7 @@
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
       * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
-  * [BET Structure]
+  * [BET Fluides]
     * [BET Fluides](/04_Recommandations-de-modelisation/04_BET-Fluides/README.md) 
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
