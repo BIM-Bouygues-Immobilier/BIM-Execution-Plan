@@ -18,7 +18,7 @@ Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur
 * Si vous êtes ARCHITECTES \(REVIT\): \[[Recommandations de modélisation pour les architectes](//04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)\]
 * Si vous êtes ARCHITECTES \(ARCHICAD\): \[[Recommandations de modélisation pour les architectes](//04_Recommandations de modélisation/02_ARCHITECTE ARCHICAD/README.md)\]
 * Si vous êtes BET STRUCTURE: \[[Recommandations de modélisation pour les BET structure](//04_Recommandations de modélisation/03_BET STRUCTURE/README.md)\]
-* [Si vous êtes BET FLUIDES](//01_GEOMETRE/test.md): \[[Recommandations de modélisation pour les BET fluides](//04_Recommandations de modélisation/04_BET FLUIDES/README.md)\]
+* Si v[ous êtes BET FLUI](//04_Recommandations de modélisation/04_BET FLUIDES/test.md)DES: \[[Recommandations de modélisation pour les BET fluides](//04_Recommandations de modélisation/04_BET FLUIDES/README.md)\]
 
 ## Comment échanger sur le projet?
 
