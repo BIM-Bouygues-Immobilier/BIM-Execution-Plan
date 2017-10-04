@@ -14,7 +14,7 @@ Pour avoir accès aux cas d'usages BIM \[[cas d'usages](//03_CasUsages/README.md
 
 Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur les opérations BIM via des maquettes numériques. Pour faciliter l'accès aux recommandations de travail, le guide est structuré par intervenant.
 
-* Si vous êtes GEOMETRES: \[[Recommandations de modélisation pour les géomètres](/Recommandations pour les géomètres %28Revit%29)\]
+* Si vous êtes GEOMETRES: \[[Recommandations de modélisation pour les géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md "Géomètres")\]
 * Si vous êtes ARCHITECTES: \[[Recommandations de modélisation pour les architectes](/04_Recommandations de modélisation/02_ARCHITECTE/README.md)\]
 * Si vous êtes BET STRUCTURE: \[[Recommandations de modélisation pour les BET structure](/04_Recommandations de modélisation/03_BET STRUCTURE/README.md)\]
 * Si vous êtes BET FLUIDES: \[[Recommandations de modélisation pour les BET fluides](/04_Recommandations de modélisation/04_BET FLUIDES/README.md)\]
