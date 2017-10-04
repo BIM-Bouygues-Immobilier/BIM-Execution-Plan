@@ -34,5 +34,11 @@ La liste des révisions, ainsi que la date de dépôt et la personne dépositair
 
 ![](/assets/DOC_08.PNG)
 
+Si vous souhaitez apprendre comment déposer des modèles en format IFC \[Cfr [Déposer et gérer les modèles](/02_PlateformeBIM/Deposer-et-gerer-des-modeles.md)\]
+
+
+
+
+
 
 
