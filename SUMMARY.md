@@ -13,11 +13,11 @@
 
   * [Géomètres](/01_GEOMETRE/README.md)
 
-    * \[Modélisation de l'environnement\]
+    * [Modélisation de l'environnement](/01_GEOMETRE/GEO_Modélisation de l'environnement.md)
 
-    * [Partage des coordonnées](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Partage des coordonnées.md)
+    * [Partage des coordonnées](/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
-    * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
+    * [Export depuis Revit](/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
   * [Architectes \(Revit\)](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)
 
