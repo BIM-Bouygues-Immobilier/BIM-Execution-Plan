@@ -11,17 +11,17 @@
   * [Inviter des membres et gérer un projet](/02_PlateformeBIM/bimsync - 06 - Inviter des membres et gérer un projet.md)
 * [Recommandations pour la modélisation](/04_Recommandations de modélisation/README.md)
 
-  * [Géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)
+  * [Géomètres](/01_GEOMETRE/README.md)
 
-    * \[Modélisation de l'environnement\]\(/04\_Recommandations de modélisation/01\_GEOMETRE/GEO\_Modélisation de l'environnement.md\)
+    * Modélisation de l'environnement
 
-    * [Partage des coordonnées](/04_Recommandations de modélisation/01_GEOMETRE/GEO_Partage des coordonnées.md)
+    * [Partage des coordonnées](/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
-    * [Export depuis Revit](/04_Recommandations de modélisation/Export depuis Revit.md)
+    * [Export depuis Revit](/01_GEOMETRE/GEO_Partage des coordonnées.md)
 
   * [Architectes \(Revit\)](/04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)
 
-    * [Généralités](///04_Recommandations de modélisation/Généralités RVT.md)
+    * [Généralités](/04_Recommandations de modélisation/Généralités.md)
 
     * [Renseignement des informations de projet](/04_Recommandations de modélisation/Info projet Revit.md)
 
