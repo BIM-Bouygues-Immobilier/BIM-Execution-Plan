@@ -18,17 +18,18 @@
     * Modélisation de l'environnement
     * Partage des coordonnées pour les géomètres
     * Export depuis Revit
-  * Architectes \(Revit\)
-    * Généralités
-    * Renseignement des informations de projet
-    * Partage des coordonnées
-    * Modélisation des surfaces
-    * Export depuis Revit
-  * Architectes \(Archicad\)
-    * Généralités
-    * Renseignement des informations de projet
-    * Modélisation des surfaces
-    * Export en format IFC
+  * Architecte
+    * Architectes \(Revit\)
+      * Généralités
+      * Renseignement des informations de projet
+      * Partage des coordonnées
+      * Modélisation des surfaces
+      * Export depuis Revit
+    * Architectes \(Archicad\)
+      * Généralités
+      * Renseignement des informations de projet
+      * Modélisation des surfaces
+      * Export en format IFC
   * BET Structure 
     * Généralités
     * Renseignement des informations de projet
