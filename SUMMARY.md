@@ -6,11 +6,11 @@
 * [Plateforme collaborative](/02_PlateformeBIM/README.md)
 
   * [Démarrage](/02_PlateformeBIM/Demarrage.md)
-  * Manipuler les modèles
-  * Déposer et gérer des modèles
-  * Déposer et gérer des documents
-  * Poser et répondre aux questions
-  * Inviter des membres et gérer un projet
+  * [Manipuler les modèles](/02_PlateformeBIM/Manipuler-les-modeles.md)
+  * [Déposer et gérer des modèles](/02_PlateformeBIM/Deposer-et-gerer-des-modeles.md)
+  * [Déposer et gérer des documents](/02_PlateformeBIM/Deposer-et-gerer-des-documents.md)
+  * [Poser et répondre aux questions](/02_PlateformeBIM/Poser-et-repondre-aux-questions.md)
+  * [Inviter des membres et gérer un projet](/02_PlateformeBIM/Inviter-des-membres-et-gerer-un-projet.md)
 
 * [Recommandations pour la modélisation](/04_Recommandations de modélisation/README.md)
 
