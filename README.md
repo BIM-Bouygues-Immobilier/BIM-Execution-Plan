@@ -1,4 +1,4 @@
-# BIM Execution Plan
+# [BIM Execution Plan](//03_CasUsages/test.md)
 
 Le BIM Execution Plan permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
 
@@ -18,7 +18,7 @@ Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur
 * Si vous êtes ARCHITECTES \(REVIT\): \[[Recommandations de modélisation pour les architectes](//04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)\]
 * Si vous êtes ARCHITECTES \(ARCHICAD\): \[[Recommandations de modélisation pour les architectes](//04_Recommandations de modélisation/02_ARCHITECTE ARCHICAD/README.md)\]
 * Si vous êtes BET STRUCTURE: \[[Recommandations de modélisation pour les BET structure](//04_Recommandations de modélisation/03_BET STRUCTURE/README.md)\]
-* Si vou[s êtes BET FLUID](//04_Recommandations de modélisation/test.md)ES: \[[Recommandations de modélisation pour les BET fluides](//04_Recommandations de modélisation/04_BET FLUIDES/README.md)\]
+* Si vous êtes BET FLUIDES: \[[Recommandations de modélisation pour les BET fluides](//04_Recommandations de modélisation/04_BET FLUIDES/README.md)\]
 
 ## Comment échanger sur le projet?
 
