@@ -14,14 +14,15 @@ Pour avoir accès aux cas d'usages BIM \[[cas d'usages](//03_CasUsages/README.md
 
 Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur les opérations BIM via des maquettes numériques. Pour faciliter l'accès aux recommandations de travail, le guide est structuré par intervenant.
 
-* Si vous êtes GEOMETRES: \[[Recommandations de modélisation pour les géomètres](/04_Recommandations de modélisation/01_GEOMETRE/README.md)\]
-* Si vous êtes ARCHITECTES: \[[Recommandations de modélisation pour les architectes](/04_Recommandations de modélisation/02_ARCHITECTE/README.md)\]
-* Si vous êtes BET STRUCTURE: \[[Recommandations de modélisation pour les BET structure](/04_Recommandations de modélisation/03_BET STRUCTURE/README.md)\]
-* Si vous êtes BET FLUIDES: \[[Recommandations de modélisation pour les BET fluides](/04_Recommandations de modélisation/04_BET FLUIDES/README.md)\]
+* Si vous êtes GEOMETRES: \[[Recommandations de modélisation pour les géomètres](//04_Recommandations de modélisation/01_GEOMETRE/README.md)\]
+* Si vous êtes ARCHITECTES \(REVIT\): \[[Recommandations de modélisation pour les architectes](//04_Recommandations de modélisation/02_ARCHITECTE REVIT/README.md)\]
+* Si vous êtes ARCHITECTES \(ARCHICAD\): \[[Recommandations de modélisation pour les architectes](//04_Recommandations de modélisation/02_ARCHITECTE ARCHICAD/README.md)\]
+* Si vous êtes BET STRUCTURE: \[[Recommandations de modélisation pour les BET structure](//04_Recommandations de modélisation/03_BET STRUCTURE/README.md)\]
+* Si vous êtes BET FLUIDES: \[[Recommandations de modélisation pour les BET fluides](//04_Recommandations de modélisation/04_BET FLUIDES/README.md)\]
 
 ## Comment échanger sur le projet?
 
 Afin de soutenir une démarche collaborative parmi les intervenants sur les projets, Bouygues immobilier a mis en place une plateforme d'échange de données, modèles numériques et documents.
 
-Pour en savoir plus sur la plateforme collaborative \[[Utilisation de la plateforme Bimsync](//plateforme-bim.md)\]
+Pour en savoir plus sur la plateforme collaborative \[[Utilisation de la plateforme Bimsync](//02_PlateformeBIM/README.md)\]
 
