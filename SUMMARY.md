@@ -2,47 +2,41 @@
 
 * [Introduction](README.md)
 * [Cas d'usages](/03_CasUsages/README.md)
-
 * [Plateforme collaborative](/02_PlateformeBIM/README.md)
-
   * [Démarrage](/02_PlateformeBIM/Demarrage.md)
   * [Manipuler les modèles](/02_PlateformeBIM/Manipuler-les-modeles.md)
   * [Déposer et gérer des modèles](/02_PlateformeBIM/Deposer-et-gerer-des-modeles.md)
   * [Déposer et gérer des documents](/02_PlateformeBIM/Deposer-et-gerer-des-documents.md)
   * [Poser et répondre aux questions](/02_PlateformeBIM/Poser-et-repondre-aux-questions.md)
   * [Inviter des membres et gérer un projet](/02_PlateformeBIM/Inviter-des-membres-et-gerer-un-projet.md)
-
 * [Recommandations pour la modélisation](/04_Recommandations-de-modelisation/README.md)
-
-  * Géomètres
-    * Modélisation de l'environnement
-    * Partage des coordonnées pour les géomètres
-    * Export depuis Revit
-  * Architecte
-    * Architectes \(Revit\)
-      * Généralités
-      * Renseignement des informations de projet
-      * Partage des coordonnées
-      * Modélisation des surfaces
-      * Export depuis Revit
-    * Architectes \(Archicad\)
-      * Généralités
-      * Renseignement des informations de projet
-      * Modélisation des surfaces
-      * Export en format IFC
-  * BET Structure 
-    * Généralités
-    * Renseignement des informations de projet
-    * Partage des coordonnées
-    * Export depuis Revit
-  * BET Fluides 
-    * Généralités
-    * Renseignement des informations de projet
-    * Partage des coordonnées
-    * Modélisation des réseaux
-    * Export depuis Revit
-
-
+  * [Géomètres](/04_Recommandations-de-modelisation/01_GEOMETRE/README.md)
+    * [Modélisation de l'environnement](/04_Recommandations-de-modelisation/01_GEOMETRE/GEO_Modelisation-environnement.md)
+    * [Partage des coordonnées pour les géomètres](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
+    * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
+  * [Architecte](/04_Recommandations-de-modelisation/Architecte.md)
+    * [Architectes \(Revit\)](/04_Recommandations-de-modelisation/02_Architecte-Revit/README.md)
+      * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
+      * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
+      * [Partage des coordonnées](/04_Recommandations-de-modelisation/02_Architecte-Revit/ARC-RVT_Partage-des-coordonnees.md)
+      * [Modélisation des surfaces](/04_Recommandations-de-modelisation/02_Architecte-Revit/ARC-RVT-Modelisation-des-surfaces.md)
+      * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
+    * [Architectes \(Archicad\)](/04_Recommandations-de-modelisation/02_Architecte-Archicad/README.md)
+      * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
+      * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
+      * [Modélisation des surfaces](/04_Recommandations-de-modelisation/Modelisation-surfaces-IFC.md)
+      * [Export en format IFC](/04_Recommandations-de-modelisation/Export-depuis-Archicad.md)
+  * [BET Structure ](/04_Recommandations-de-modelisation/03_BET-Structure/README.md)
+    * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
+    * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
+    * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
+    * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
+  * [BET Fluides](/04_Recommandations-de-modelisation/04_BET-Fluides/README.md) 
+    * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
+    * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
+    * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
+    * [Modélisation des réseaux](/04_Recommandations-de-modelisation/04_BET-Fluides/MEP_Modelisation-des-reseaux.md)
+    * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
 
 
 
