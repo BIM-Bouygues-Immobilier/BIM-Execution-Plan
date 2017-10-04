@@ -7,5 +7,15 @@
 * Les indications pour la standardisation des exports en format IFC et DWG \[Cfr. [Exporter depuis Revit](//04_Recommandations de modélisation/Export depuis Revit.md)\]
 * Les indications pour la modélisation des réseaux \[Cfr. Modélisation des réseaux\]
 
+### Utilisation de la plateforme collaborative
+
+Sur tous ses projets, Bouygues Immobilier Entreprises e mis en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
+
+Pour apprendre à utiliser la plateforme \[Cfr [Plateforme collaborative](/02_PlateformeBIM/README.md)\]
+
+### Les cas d'usages BIM sur le projet de Bouygues Immobilier Entreprise
+
+Si vous souhaitez en connaitre les cas d'usages BIM de Bouygues IE \[Cfr. [Cas d'usages](/03_CasUsages/README.md)\]
+
 
 
