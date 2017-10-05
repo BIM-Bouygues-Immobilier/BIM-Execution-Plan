@@ -15,9 +15,12 @@
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
       * [Modélisation de l'environnement](/04_Recommandations-de-modelisation/01_GEOMETRE/GEO_Modelisation-environnement.md)
-
       * [Partage des coordonnées pour les géomètres](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
+    * Géomètres (Autre logicel)
+      * Généralités
+      * Renseignement des informations de projet
+      * Modélisation de l'environnement
   * [Architecte](/04_Recommandations-de-modelisation/Architecte.md)
     * [Architectes \(Revit\)](/04_Recommandations-de-modelisation/02_Architecte-Revit/README.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
@@ -30,12 +33,19 @@
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
       * [Modélisation des surfaces](/04_Recommandations-de-modelisation/Modelisation-surfaces-IFC.md)
       * [Export en format IFC](/04_Recommandations-de-modelisation/Export-depuis-Archicad.md)
+    * Architectes (Autre logicel)
+      * Généralités
+      * Renseignement des informations de projet
+      * Modélisation des surfaces
   * [BET Structure](04_Recommandations-de-modelisation/01_GEOMETRE/bet-structure.md)
     * [BET Structure \(Revit\)](/04_Recommandations-de-modelisation/03_BET-Structure-Revit/README.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
       * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
+    * BET Structure (Autre logicel)
+      * Généralités
+      * Renseignement des informations de projet
   * [BET Fluides](04_Recommandations-de-modelisation/01_GEOMETRE/bet-fluides.md)
     * [BET Fluides \(Revit\)](/04_Recommandations-de-modelisation/04_BET-Fluides-Revit/README.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
@@ -43,6 +53,9 @@
       * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
       * [Modélisation des réseaux](/04_Recommandations-de-modelisation/04_BET-Fluides-Revit/README.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
+    * BET Fluides (Autre logicel)
+      * Généralités
+      * Renseignement des informations de projet
 
 
 
