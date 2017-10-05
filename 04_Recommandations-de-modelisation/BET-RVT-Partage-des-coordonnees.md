@@ -24,13 +24,13 @@ Les modèles géométriques de chaque contributeur doivent faire référence un 
 
 ### Importer des fichiers de référence
 
-Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement – « Automatique – A l’emplacement partagé ».
+Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement « Automatique – A l’emplacement partagé ».
 
 ### Exporter des IFC et extraire des DWG
 
-* Pour l’export en format IFC : se référer à l’ « Annexe 3 - Recommandations d'export».
+* Pour l’export en format IFC : se référer aux recommandations d'export \[Cfr. [Recommandations d'export](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)\]
 
-* Pour l’extraction des livrables en format dwg : se référer à l’ « Annexe 3 - Recommandations d'export».
+* Pour l’extraction des livrables en format dwg : se référer aux recommandations d'export \[Cfr. [Recommandations d'export](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)\]
 
 
 

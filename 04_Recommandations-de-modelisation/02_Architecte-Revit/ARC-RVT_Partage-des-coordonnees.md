@@ -52,11 +52,11 @@ Il est conseillé de positionner le plan géomètre de façon à l’adapter aux
 
 1. Positionner le lien \(déplacement + rotation\) dans la position souhaité dans l’espace de travail.
 
-1. Aller dans l’onglet « gérer » ensuite « coordonnées » et choisir « importer les coordonnées »
+2. Aller dans l’onglet « gérer » ensuite « coordonnées » et choisir « importer les coordonnées »
 
-2. Sélectionner le lien géomètre.
+3. Sélectionner le lien géomètre.
 
-3. Le deuxième fichier Revit est alors en coordonnées partagées également.
+4. Le deuxième fichier Revit est alors en coordonnées partagées également.
 
 ### Les niveaux altimétriques et les trames
 
@@ -82,13 +82,13 @@ En cas de demande de déplacement, de changement de nom ou d’ajout de niveaux 
 
 #### Importer des fichiers en référence
 
-Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement – « Automatique – A l’emplacement partagé ».
+Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement « Automatique – A l’emplacement partagé ».
 
-#### Exporter des IFC et extraire des DWG
+### Exporter des IFC et extraire des DWG
 
-* Pour l’export en format IFC : se référer à l’ « Annexe 3 - Recommandations d'export».
+* Pour l’export en format IFC : se référer aux recommandations d'export \[Cfr. [Recommandations d'export](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)\]
 
-* Pour l’extraction des livrables en format dwg : se référer à l’ « Annexe 3 - Recommandations d'export».
+* Pour l’extraction des livrables en format dwg : se référer aux recommandations d'export \[Cfr. [Recommandations d'export](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)\]
 
 
 
