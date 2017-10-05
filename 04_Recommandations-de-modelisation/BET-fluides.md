@@ -6,5 +6,7 @@
 | **J'utilise un autre logiciel** |
 | [![](/assets/MEP IFC.PNG)](/04_Recommandations-de-modelisation/BET-fluides-autre-logicel.md) |
 
+---
 
+Images credits [here ](/Credit.md)
 

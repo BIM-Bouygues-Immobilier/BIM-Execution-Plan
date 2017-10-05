@@ -6,5 +6,7 @@
 | **J'utilise un autre logiciel** |
 | [![](/assets/STR IFC.PNG)](/04_Recommandations-de-modelisation/BET-structure-autre-logiciel.md) |
 
+---
 
+Images credits [here ](/Credit.md)
 

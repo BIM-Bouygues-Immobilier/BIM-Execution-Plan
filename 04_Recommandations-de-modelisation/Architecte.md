@@ -8,5 +8,7 @@
 | **J'utilise un autre logiciel** |
 | [![](/assets/ARC IFC.PNG)](/04_Recommandations-de-modelisation/Architectes-autre-logiciel.md) |
 
+---
 
+Images credits [here ](/Credit.md)
 

@@ -31,5 +31,7 @@ Si vous souhaitez chercher des sujets spécifiques dans ce document, utilisez l'
 
 ![](/assets/Recherche.PNG)
 
+---
 
+Images credits [here ](/Credit.md)
 

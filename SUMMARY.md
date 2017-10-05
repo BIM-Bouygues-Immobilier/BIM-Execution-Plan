@@ -57,5 +57,7 @@
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
 
+* [Crédits ](/Credit.md)
+
 
 

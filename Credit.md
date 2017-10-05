@@ -1,14 +1,13 @@
-NOUN PROJECT
+#### Crédits des images
 
-Grant Taylor Sizemore
+##### NOUN PROJECT
 
-Viktor Vorobyev
+* Grant Taylor Sizemore
+* Viktor Vorobyev
+* Ben Davis
+* Gregor Cresnar
+* Eynav Raphael
+* Vector market
 
-Ben Davis
 
-Gregor Cresnar
-
-Eynav Raphael
-
-Vector market
 
