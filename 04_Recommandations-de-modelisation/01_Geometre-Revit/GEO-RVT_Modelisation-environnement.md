@@ -37,13 +37,11 @@ Le point topographique de Revit est placé à un emplacement caractéristique de
 
 Le modèle de l’environnement du projet doit notamment représenter les éléments suivants :
 
-•    Une modélisation du terrain comprenant les altitudes des points caractéristiques \(terrain naturel, regards, changement de pente, …\)
+* Une modélisation du terrain comprenant les altitudes des points caractéristiques \(terrain naturel, regards, changement de pente, …\)
+* Une modélisation de l’alignement et de la largeur des voies, ainsi que leurs éléments caractéristiques \(bateaux, bordures de trottoir, emplacement de stationnement, …\)
+* Une modélisation des éléments de VRD, notamment, mobilier urbain, bornes incendies, bouches d’égouts, luminaires, poteaux électriques …
+* La modélisation de la végétation \(Arbres et arbustes principaux, surfaces de pelouses, allées, terrasses plantées,…\)
+* La modélisation en volume des constructions environnantes \(emprise au sol, hauteur, forme de la toiture, excroissances principales et significatives\)
 
-•    Une modélisation de l’alignement et de la largeur des voies, ainsi que leurs éléments caractéristiques \(bateaux, bordures de trottoir, emplacement de stationnement, …\)
 
-•    Une modélisation des éléments de VRD, notamment, mobilier urbain, bornes incendies, bouches d’égouts, luminaires, poteaux électriques …
-
-•    La modélisation de la végétation \(Arbres et arbustes principaux, surfaces de pelouses, allées, terrasses plantées,…\)
-
-•    La modélisation en volume des constructions environnantes \(emprise au sol, hauteur, forme de la toiture, excroissances principales et significatives\)
 
