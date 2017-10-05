@@ -33,10 +33,10 @@
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
       * [Modélisation des surfaces](/04_Recommandations-de-modelisation/Modelisation-surfaces-IFC.md)
       * [Export en format IFC](/04_Recommandations-de-modelisation/Export-depuis-Archicad.md)
-    * Architectes \(Autre logiciel\)
+    * [Architectes \(Autre logiciel\)](/04_Recommandations-de-modelisation/Architectes-autre-logiciel.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
-      * Modélisation des surfaces
+      * [Modélisation des surfaces](/04_Recommandations-de-modelisation/Modelisation-surfaces-IFC.md)
   * [BET Structure](04_Recommandations-de-modelisation/01_GEOMETRE/bet-structure.md)
     * [BET Structure \(Revit\)](/04_Recommandations-de-modelisation/03_BET-Structure-Revit/README.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
