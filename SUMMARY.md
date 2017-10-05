@@ -21,6 +21,7 @@
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
       * [Modélisation de l'environnement](/04_Recommandations-de-modelisation/01_Geometre-IFC/GEO-IFC_Environnement.md)
+      * [Géomètres travaillant avec logiciel CAO 2D](/04_Recommandations-de-modelisation/Geometres-2d.md)
   * [Architecte](/04_Recommandations-de-modelisation/Architecte.md)
     * [Architectes \(Revit\)](/04_Recommandations-de-modelisation/02_Architecte-Revit/README.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
@@ -56,7 +57,6 @@
     * [BET Fluides \(Autre logiciel\)](/04_Recommandations-de-modelisation/BET-fluides-autre-logicel.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
-
 * [Crédits ](/Credit.md)
 
 
