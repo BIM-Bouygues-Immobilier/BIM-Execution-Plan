@@ -1,7 +1,5 @@
 # Recommandations de modélisation pour les architectes
 
-
-
 | **J'utilise Autodesk Revit** |
 | :---: |
 | [![](/assets/ARC RVT.PNG)](/04_Recommandations-de-modelisation/02_Architecte-Revit/README.md) |

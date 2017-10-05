@@ -26,18 +26,18 @@
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
       * [Modélisation des surfaces](/04_Recommandations-de-modelisation/Modelisation-surfaces-IFC.md)
       * [Export en format IFC](/04_Recommandations-de-modelisation/Export-depuis-Archicad.md)
-  * [BET Structure]
-    * [BET Structure ](/04_Recommandations-de-modelisation/03_BET-Structure/README.md)
+  * [BET Structure](04_Recommandations-de-modelisation/01_GEOMETRE/bet-structure.md)
+    * [BET Structure \(Revit\)](/04_Recommandations-de-modelisation/03_BET-Structure-Revit/README.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
       * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
-  * [BET Fluides]
-    * [BET Fluides](/04_Recommandations-de-modelisation/04_BET-Fluides/README.md) 
+  * [BET Fluides](04_Recommandations-de-modelisation/01_GEOMETRE/bet-fluides.md)
+    * [BET Fluides \(Revit\)](/04_Recommandations-de-modelisation/04_BET-Fluides-Revit/README.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
       * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
-      * [Modélisation des réseaux](/04_Recommandations-de-modelisation/04_BET-Fluides/MEP_Modelisation-des-reseaux.md)
+      * [Modélisation des réseaux](/04_Recommandations-de-modelisation/04_BET-Fluides-Revit/README.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
 
 
