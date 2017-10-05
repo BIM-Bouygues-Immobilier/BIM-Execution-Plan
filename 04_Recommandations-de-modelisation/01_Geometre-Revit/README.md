@@ -19,3 +19,7 @@ Pour apprendre à utiliser la plateforme \[Cfr [Plateforme collaborative](/02_Pl
 
 Si vous souhaitez connaitre les cas d'usages BIM de Bouygues IE \[Cfr. [Cas d'usages](/03_CasUsages/README.md)\]
 
+---
+
+Images credits [here ](/Credit.md)
+
