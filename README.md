@@ -6,7 +6,7 @@ Ce BIM Execution Plan présente la méthodologie de travail autour des modèles 
 
 ## Pourquoi ce guide?
 
-Bouygues Immobilier, sur la base des démarches mises en place pour la valorisation de ses projets à travers l’utilisation du BIM, a identifié plusieurs objectifs généraux qui se traduisent dans des cas d'usage.
+Bouygues Immobilier, sur la base des démarches mises en place pour la valorisation de ses projets à travers l’utilisation du BIM, a identifié plusieurs objectifs généraux qui se traduisent dans des cas d'usages.
 
 Pour avoir accès aux cas d'usages BIM \[[cas d'usages](//03_CasUsages/README.md)\]
 
@@ -16,10 +16,8 @@ Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur
 
 | Géomètre | Architecte | Bureau d'étude Structure | Bureau d'étude Fluide |
 | :---: | :---: | :---: | :---: |
-| [![](/assets/noun_1195063_cc.png)](/04_Recommandations-de-modelisation/01_GEOMETRE/README.md) | [![](/assets/noun_1261411_cc.png)](/04_Recommandations-de-modelisation/Architecte.md) | [![](/assets/noun_905620_cc.png)](/04_Recommandations-de-modelisation/03_BET-Structure/README.md) | [![](/assets/noun_907762_cc.png)](/04_Recommandations-de-modelisation/04_BET-Fluides/README.md) |
-| [Recommandation de modélisation](/04_Recommandations-de-modelisation/01_GEOMETRE/README.md) | [Recommandation de modélisation](/04_Recommandations-de-modelisation/Architecte.md) | [Recommandation de modélisation](/04_Recommandations-de-modelisation/03_BET-Structure/README.md) | [Recommandation de modélisation](/04_Recommandations-de-modelisation/04_BET-Fluides/README.md) |
-
-
+| [![](/assets/noun_1082944_cc.png)](/04_Recommandations-de-modelisation/Geometres.md) | [![](/assets/noun_1261411_cc.png)](/04_Recommandations-de-modelisation/Architecte.md) | [![](/assets/noun_905620_cc.png)](/04_Recommandations-de-modelisation/BET-structure.md) | [![](/assets/noun_907762_cc.png)](/04_Recommandations-de-modelisation/BET-fluides.md) |
+| [Recommandation de modélisation](/04_Recommandations-de-modelisation/Geometres.md) | [Recommandation de modélisation](/04_Recommandations-de-modelisation/Architecte.md) | [Recommandation de modélisation](/04_Recommandations-de-modelisation/BET-structure.md) | [Recommandation de modélisation](/04_Recommandations-de-modelisation/BET-fluides.md) |
 
 ## Comment échanger sur le projet?
 
