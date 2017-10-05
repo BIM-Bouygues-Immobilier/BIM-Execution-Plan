@@ -43,7 +43,7 @@
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
       * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
-    * BET Structure \(Autre logiciel\)
+    * [BET Structure \(Autre logiciel\)](/04_Recommandations-de-modelisation/BET-structure-autre-logiciel.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
   * [BET Fluides](04_Recommandations-de-modelisation/01_GEOMETRE/bet-fluides.md)
@@ -53,7 +53,7 @@
       * [Partage des coordonnées](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
       * [Modélisation des réseaux](/04_Recommandations-de-modelisation/04_BET-Fluides-Revit/README.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
-    * BET Fluides \(Autre logicel\)
+    * [BET Fluides \(Autre logiciel\)](/04_Recommandations-de-modelisation/BET-fluides-autre-logicel.md)
       * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
       * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)
 
