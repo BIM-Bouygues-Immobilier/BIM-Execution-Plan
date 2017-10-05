@@ -10,9 +10,12 @@
   * [Poser et répondre aux questions](/02_PlateformeBIM/Poser-et-repondre-aux-questions.md)
   * [Inviter des membres et gérer un projet](/02_PlateformeBIM/Inviter-des-membres-et-gerer-un-projet.md)
 * [Recommandations pour la modélisation](/04_Recommandations-de-modelisation/README.md)
-  * Géomètres
-    * [Géomètres](/04_Recommandations-de-modelisation/01_GEOMETRE/README.md)
+  * [Géomètres](04_Recommandations-de-modelisation/geometres.md)
+    * [Géomètres \(Revit\)](/04_Recommandations-de-modelisation/01_Geometre-Revit/README.md)
+      * [Généralités](/04_Recommandations-de-modelisation/Generalites.md)
+      * [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)
       * [Modélisation de l'environnement](/04_Recommandations-de-modelisation/01_GEOMETRE/GEO_Modelisation-environnement.md)
+
       * [Partage des coordonnées pour les géomètres](/04_Recommandations-de-modelisation/BET-RVT-Partage-des-coordonnees.md)
       * [Export depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)
   * [Architecte](/04_Recommandations-de-modelisation/Architecte.md)

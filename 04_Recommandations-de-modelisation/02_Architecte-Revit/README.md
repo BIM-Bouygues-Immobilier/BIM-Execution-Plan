@@ -15,7 +15,5 @@ Pour apprendre à utiliser la plateforme \[Cfr [Plateforme collaborative](/02_Pl
 
 ### Les cas d'usages BIM sur le projet de Bouygues Immobilier Entreprise
 
-Si vous souhaitez en connaitre les cas d'usages BIM de Bouygues IE \[Cfr. [Cas d'usages](/03_CasUsages/README.md)\]
-
-
+Si vous souhaitez connaitre les cas d'usages BIM de Bouygues IE \[Cfr. [Cas d'usages](/03_CasUsages/README.md)\]
 
