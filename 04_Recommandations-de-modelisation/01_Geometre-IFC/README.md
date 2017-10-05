@@ -12,6 +12,10 @@ Les sujets abordés sont:
 * Le renseignement des informations de projet dans le modèle \[Cfr. [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-IFC.md)\]
 * Les indications pour la modélisation de la maquette environnement  \[Cfr. [Modélisation de l'environnement](/04_Recommandations-de-modelisation/01_Geometre-IFC/GEO-IFC_Environnement.md)\]
 
+### Recommandations pour les géomètres travaillant en 2D
+
+Pour les géomètres travaillant en 2D avec des logiciels type CAO, se référer à l'article \[Cfr. [Recommandations pour les géomètres travaillant en 2D](/04_Recommandations-de-modelisation/Geometres-2d.md)\]
+
 ### Utilisation de la plateforme collaborative
 
 Sur tous ses projets, Bouygues Immobilier Entreprises e mis en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
