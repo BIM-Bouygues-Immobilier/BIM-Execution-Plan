@@ -1,11 +1,11 @@
 # Recommandations pour les architectes \(Revit\)
 
-![](/assets/ARC RVT.PNG)L'article regroupe les recommandations de modélisation pour les architectes qui utilisent le logiciel Autodesk Revit dans les opérations BIM de Bouygues Immobilier. Les sujets abordés par ces recommandations, en plus des indications générales à suivre \[Cfr Généralités\], sont:
+![](/assets/ARC RVT.PNG)L'article regroupe les recommandations de modélisation pour les architectes qui utilisent le logiciel Autodesk Revit dans les opérations BIM de Bouygues Immobilier. Les sujets abordés par ces recommandations, en plus des indications générales à suivre \[Cfr [Généralités](/04_Recommandations-de-modelisation/Generalites.md)\], sont:
 
-* Le renseignement des informations de projet dans une maquette Revit \[Cfr. Renseignement des informations de projet\]
-* Les processus pour la coordination de la maquette architecturale avec les fichiers de référence du géomètre, qu'ils soient en format CAD ou en format maquette numérique \[Cfr. Partage des coordonnées\]
-* Les indications pour la standardisation des exports en format IFC et DWG \[Cfr. Exporter depuis Revit\]
-* Les indications pour la modélisation des surfaces et des parkings \[Cfr. Modélisation des surfaces\]
+* Le renseignement des informations de projet dans une maquette Revit \[Cfr. [Renseignement des informations de projet](/04_Recommandations-de-modelisation/Info-projet-Revit.md)\]
+* Les processus pour la coordination de la maquette architecturale avec les fichiers de référence du géomètre, qu'ils soient en format CAD ou en format maquette numérique \[Cfr. [Partage des coordonnées](/04_Recommandations-de-modelisation/02_Architecte-Revit/ARC-RVT_Partage-des-coordonnees.md)\]
+* Les indications pour la standardisation des exports en format IFC et DWG \[Cfr. [Exporter depuis Revit](/04_Recommandations-de-modelisation/Export-depuis-Revit.md)\]
+* Les indications pour la modélisation des surfaces et des parkings \[Cfr. [Modélisation des surfaces](/04_Recommandations-de-modelisation/02_Architecte-Revit/ARC-RVT-Modelisation-des-surfaces.md)\]
 
 ### Utilisation de la plateforme collaborative
 

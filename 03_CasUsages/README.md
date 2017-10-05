@@ -13,11 +13,11 @@ Pour que cela se produise, la maquette numérique doit représenter à tout mome
 
 L’outil utilisé pour la visualisation des maquettes numérique est la plateforme collaborative Bimsync \[Cfr [Plateforme collaborative](/02_PlateformeBIM/README.md)\]
 
-![](/assets/CAS_01.png)
+[![](/assets/CAS_01.png)](/02_PlateformeBIM/README.md)
 
 L’espace de visualisation 3D permet d’avoir un aperçu des différents modèles/métier et de les compiler afin d’en vérifier la coordination.
 
-Les modèles des différents intervenants se superposent car ils partagent le même système de coordonnées, définit sur la base du relevé géomètre \[cfr [Recommandation de modélisation de l’environnement](/04_Recommandations-de-modelisation/01_GEOMETRE/GEO_Modelisation-environnement.md)\]. Des notices spécifiques sont fournies aux intervenants avec la procédure recommandée pour le partage des coordonnées.
+Les modèles des différents intervenants se superposent car ils partagent le même système de coordonnées, définit sur la base du relevé géomètre \[Cfr [Recommandation de modélisation de l’environnement](/04_Recommandations-de-modelisation/Geometres.md)\]. Des notices spécifiques sont fournies aux intervenants avec la procédure recommandée pour le partage des coordonnées.
 
 De plus, des recommandations de modélisation sont inclues dans le présent cahier de charges pour simplifier la lisibilité des modèles dans le viewer de Bimsync \[Cfr [Recommandations de modélisation](/04_Recommandations-de-modelisation/README.md)\] .
 
@@ -29,7 +29,9 @@ Les questions sont associées à des éléments des modèles et ensuite assigné
 
 La plateforme collaborative Bimsync intègre un système d’échange des questions/réponses :
 
-![](/assets/CAS_02.png)\[Cfr [Plateforme collaborative, système de questions réponses](/02_PlateformeBIM/Poser-et-repondre-aux-questions.md)\]
+![](/assets/CAS_02.png)
+
+\[Cfr [Plateforme collaborative, système de questions réponses](/02_PlateformeBIM/Poser-et-repondre-aux-questions.md)\]
 
 ## Extraire les surfaces et des indicateurs de modèles
 
