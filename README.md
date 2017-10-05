@@ -25,3 +25,11 @@ Afin de soutenir une démarche collaborative parmi les intervenants sur les proj
 
 Pour en savoir plus sur la plateforme collaborative \[[Utilisation de la plateforme Bimsync](//02_PlateformeBIM/README.md)\]
 
+## Comment chercher des sujets?
+
+Si vous souhaitez chercher des sujets spécifiques dans ce document, utilisez l'outil de recherche:
+
+![](/assets/Recherche.PNG)
+
+
+
