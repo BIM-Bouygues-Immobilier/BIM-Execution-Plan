@@ -48,5 +48,5 @@ En cliquant sur le rectangle gris \(3\) en bas à gauche de la vue, vous pouvez 
 
 Une fois le plan de coupe sélectionné, cliquer et maintenez appuyé le bouton droit de la souris pour le déplacer :
 
-![](/02_PlateformeBIM/bimsync - 02 - Manipuler les modèles - Images/ScreenClip [5].png)
+![](/02_PlateformeBIM/bimsync - 02 - Manipuler les modèles - Images/ScreenClip [5].png)Si vous souhaitez savoir comment poser des questions sur les modèles \[Cfr. [Poser et répondre aux questions](/02_PlateformeBIM/Poser-et-repondre-aux-questions.md)\]
 
