@@ -38,7 +38,7 @@ Si la réponse ne convient pas à Simon, il peut remettre la question en « Ouve
 
 ## Sujets dans une maquette
 
-Les sujets peuvent être ajoutés directement dans une maquette partir de la vue 3D.
+Les sujets peuvent être ajoutés directement dans une maquette partir de la vue 3D \[Pour savoir comment manipuler les modèles cfr. [Manipuler les modèles](/02_PlateformeBIM/Manipuler-les-modeles.md)\].
 
 Pour créer un sujet à partir de la vue 3D, se positionner dans l’espace de visualisation et activer les modèles et les plans de coupe souhaités pour faciliter la compréhension du sujet.
 
