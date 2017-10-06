@@ -9,5 +9,5 @@ L'article détaille les recommandations de modélisations pour les intervenants 
 
 ---
 
-Images credits [here ](/Credit.md)
+Image credits [here ](/Credit.md)
 

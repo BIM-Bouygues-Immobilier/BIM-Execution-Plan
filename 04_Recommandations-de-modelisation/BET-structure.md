@@ -8,5 +8,5 @@
 
 ---
 
-Images credits [here ](/Credit.md)
+Image credits [here ](/Credit.md)
 

@@ -6,9 +6,7 @@
 | **J'utilise un autre logiciel** |
 | [![](/assets/GEO_IFC.PNG)](/04_Recommandations-de-modelisation/01_Geometre-IFC/README.md) |
 
-
-
 ---
 
-Images credits [here ](/Credit.md)
+Image credits [here ](/Credit.md)
 

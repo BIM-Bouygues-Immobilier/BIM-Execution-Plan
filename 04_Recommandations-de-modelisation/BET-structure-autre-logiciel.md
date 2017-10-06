@@ -23,5 +23,5 @@ Si vous souhaitez connaitre les cas d'usages BIM de Bouygues IE \[Cfr. [Cas d'us
 
 ---
 
-Images credits [here ](/Credit.md)
+Image credits [here ](/Credit.md)
 
