@@ -46,6 +46,8 @@ Pour confirmer votre adresse email, après avoir cliqué sur \(1\) « Vérifier 
 
 ### ![](/02_PlateformeBIM/images/ScreenClip [5].png)
 
+---
+
 ### Et maintenant?
 
 * Si vous souhaitez apprendre à naviguer et manipuler les modèles dans l'espace de visualisation 3D \[Cfr [Manipuler les modèles](/02_PlateformeBIM/Manipuler-les-modeles.md)\]
@@ -53,6 +55,7 @@ Pour confirmer votre adresse email, après avoir cliqué sur \(1\) « Vérifier 
 * Si vous souhaitez apprendre comment déposer des modèles en format IFC \[Cfr [Déposer et gérer les modèles](/02_PlateformeBIM/Deposer-et-gerer-des-modeles.md)\]
 
 * Si vous souhaitez apprendre le fonctionnement de l'espace documents \[Cfr [Déposer et gérer les documents](/02_PlateformeBIM/Deposer-et-gerer-des-documents.md)\]
+
 * Si vous souhaitez utiliser le système de questions/réponses \[Cfr [Poser et répondre aux questions](/02_PlateformeBIM/Poser-et-repondre-aux-questions.md)\]
 
 

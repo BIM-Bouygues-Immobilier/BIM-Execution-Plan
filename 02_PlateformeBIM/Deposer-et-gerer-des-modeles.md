@@ -28,9 +28,11 @@ Pour télécharger une révision d’un modèle, sélectionnez cette révision \
 
 ![](/assets/MODELE_07.PNG)Il est également possible de télécharger plusieurs modèles simultanément en sélectionnant Modèles -&gt; Exportations \(3\) -&gt; Nouvelle exportation \(4\) :
 
-![](/assets/MODELE_08.PNG)Si vous souhaitez apprendre le fonctionnement de l'espace documents \[Cfr [Déposer et gérer les documents](/02_PlateformeBIM/Deposer-et-gerer-des-documents.md)\]
+![](/assets/MODELE_08.PNG)
 
+---
 
+### Et maintenant? 
 
-
+Si vous souhaitez apprendre le fonctionnement de l'espace documents \[Cfr [Déposer et gérer les documents](/02_PlateformeBIM/Deposer-et-gerer-des-documents.md)\]
 

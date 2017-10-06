@@ -32,5 +32,9 @@ Pour ajouter des membres à cette équipe, cliquer sur Membre, sélectionner l�
 
 ![](/assets/MEM6.PNG)
 
+---
+
+### Et maintenant?
+
 Pour savoir comment échanger avec les autres membres su projet \[Cfr. [Poser et répondre aux questions](/02_PlateformeBIM/Poser-et-repondre-aux-questions.md)\]
 

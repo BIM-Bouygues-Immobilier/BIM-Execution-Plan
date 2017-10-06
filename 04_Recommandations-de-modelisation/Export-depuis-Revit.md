@@ -1,9 +1,3 @@
-# Recommandations d'export
-
-## Introduction
-
-Cette note décrit les réglages nécessaires au bon export des informations contenues dans votre modèle Revit vers les formats IFC et DWG.
-
 ## Export au format IFC, à partir de Revit
 
 ### Généralités
@@ -53,7 +47,7 @@ Il est demandé d’effectuer les réglages suivants lors de l’export :
 
 Afin que l'ensemble des catégories Revit modélisées soit exportées, il est nécessaire de modifier les catégories exportée par default en IFC :
 
-![](/assets/Export_08.png)Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face de la catégorie Revit, comme indiqué ci-dessous :
+![](/assets/Export_08.png)Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face de la catégorie Revit, comme indiqué ci-dessous :
 
 | Quadrillages = &gt; IfcGrid | Surfaces =&gt; IfcSpaces |
 | :--- | :--- |
@@ -63,15 +57,7 @@ Afin que l'ensemble des catégories Revit modélisées soit exportées, il est n
 | :--- | :--- |
 | ![](/assets/Export_11.png) | ![](/assets/Export_12.png) |
 
-### Export au format DWG, à partir de Revit
-
-L’extraction des DWG depuis Revit doit se faire :
-
-* Depuis les vues de rendu de Revit, tout le long du projet, en coordonnées partagées. 
-
-\[image de l’export DWG et de l’option en coordonnées partagés\]
-
-* Depuis les vues de rendu de Revit pour le rendu de chaque phase.  Depuis l’espace papier de Revit pour le rendu de chaque phase, afin de fournir la version .dwg des livrables diffusés en format .pdf. 
+### 
 
 
 

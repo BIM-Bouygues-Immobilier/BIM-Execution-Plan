@@ -6,6 +6,8 @@ Il vous permettra notamment d’apprendre à accéder, vous connecter et créer 
 
 [![](/02_PlateformeBIM/images/image004.png)](/02_PlateformeBIM/Demarrage.md)
 
+## Qu'est-ce que je peux faire avec Bimsync?
+
 * Si vous souhaitez démarrer à utiliser Bimsync \[Cfr [Démarrer](/02_PlateformeBIM/Demarrage.md)\]
 * Si vous souhaitez apprendre à naviguer et manipuler les modèles dans l'espace de visualisation 3D \[Cfr [Manipuler les modèles](/02_PlateformeBIM/Manipuler-les-modeles.md)\]
 * Si vous souhaitez apprendre comment déposer des modèles en format IFC \[Cfr [Déposer et gérer les modèles](/02_PlateformeBIM/Deposer-et-gerer-des-modeles.md)\]
