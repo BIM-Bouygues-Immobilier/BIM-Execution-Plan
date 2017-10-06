@@ -4,39 +4,36 @@ Cet article décrit les réglages nécessaires au bon export des informations co
 
 Pour chaque lot, il est nécessaire de déposer un seul fichier, au format IFC2X3, incluant tous les éléments nécessaires à la bonne compréhension du projet pour la phase en cours, et purgé de tous les éléments non nécessaires au sujet en cours.
 
-## Configuration de l’export
+## Configuration de l’export
 
 Ouvrir « Configuration de traduction IFC » pour créer une nouvelle configuration d’export en IFC
 
-![](/assets/ARCHICAD_01.PNG) 
+![](/assets/ARCHICAD_01.PNG)
 
 Dupliquer le traducteur général pour créer un nouveau traducteur. Vous pouvez alors renommer ce nouveau traducteur :
 
- ![](/assets/ARCHICAD_02.PNG)
+![](/assets/ARCHICAD_02.PNG)
 
 Les propriétés suivantes doivent être sélectionnée :
 
-![](/assets/ARCHICAD_03.PNG)![](/assets/ARCHICAD_04.PNG)
+![](/assets/ARCHICAD_03.PNG)![](/assets/ARCHICAD_04.PNG)
 
- Régler les unités en mètre :
+Régler les unités en mètre :
 
- ![](/assets/ARCHICAD_05.PNG)
+![](/assets/ARCHICAD_05.PNG)
 
-Cliquer sur enregistrer réglages et fermer pour sauvegarder votre configuration d’export en IFC.
+Cliquer sur enregistrer réglages et fermer pour sauvegarder votre configuration d’export en IFC.
 
 ## Export en IFC
 
 Ouvrer une vue ne contenant que les éléments que vous souhaitez exporter \(un seul bâtiment par exemple\) :
 
-![](/assets/ARCHICAD_06.PNG)
+![](/assets/ARCHICAD_06.PNG)
 
 Afficher les zones dans la vue 3D afin que ces zones soient exportée
 
-![](/assets/ARCHICAD_07.PNG) Cliquer sur enregistrer sous :
+![](/assets/ARCHICAD_07.PNG)   
+Cliquer sur enregistrer sous :
 
-![](/assets/ARCHICAD_08.png)![](/assets/ARCHICAD_09.PNG)Cliquer sur « Enregistrer »
-
-
-
-
+![](/assets/ARCHICAD_08.png)![](/assets/ARCHICAD_09.PNG)Cliquer sur « Enregistrer »
 
