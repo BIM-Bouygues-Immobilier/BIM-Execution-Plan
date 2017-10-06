@@ -35,13 +35,15 @@ Il est demandé d’effectuer les réglages suivants lors de l’export :
 | :--- | :--- |
 | ![](/assets/Export_03.png) | ![](/assets/Export_04.png) |
 
-| Property Sets | Level of Detail |
+| Property Sets \[A modifier\] | Level of Detail |
 | :--- | :--- |
 | ![](/assets/Export_05.png) | ![](/assets/Export_06.png) |
 
 | Advanced |  |
 | :--- | :--- |
 | ![](/assets/Export_07.png) |  |
+
+### NOTA USER PROPERTY SETS ET MAPPING TABLE A RAJOUTER
 
 ### Réglages des catégories à exporter
 
