@@ -13,7 +13,7 @@ Les informations du modèle Revit \(Onglet "Gérer"&gt;"Informations du projet"\
 | Nom du projet | Le nom du projet, tel que défini dans le projet Bimsync |
 | Numéro de projet | Le numéro du projet, tel que défini dans le projet Bimsync |
 
-Il est requis que le propriétés attachées au IfcBuilding des IFC extraits depuis les modèles en format natif respectent les indications suivantes. Veuillez trouver \[ICI\] les fichiers texte à importer lorsque vous allez exporter votre IFC depuis Revit afin de suivre les correspondances suivantes. 
+Il est requis que le propriétés attachées au IfcBuilding des IFC extraits depuis les modèles en format natif respectent les indications suivantes. Veuillez trouver \[[ICI](/assets/Test-fichier-texte-BEP.txt)\] les fichiers texte à importer lorsque vous allez exporter votre IFC depuis Revit afin de suivre les correspondances suivantes.
 
 | PropertySet | Property | Valeurs possibles | Explication |
 | :--- | :--- | :--- | :--- |
