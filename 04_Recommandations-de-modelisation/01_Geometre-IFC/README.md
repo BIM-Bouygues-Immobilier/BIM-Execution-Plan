@@ -2,7 +2,7 @@
 
 ![](/assets/GEO_IFC.PNG)
 
-L'article regroupe les recommandations générales de modélisation pour les géomètres qui utilisent des logiciels autres que ceux qui sont listés dans le sommaire.
+L'article regroupe les recommandations générales de modélisation pour les géomètres qui utilisent des logiciels autres que ceux qui sont listés dans la page d'accueil géomètre.
 
 Les indications fournies par ces recommandations sont d'ordre générale et seront à adapter par l'intervenant dans le logiciel utilisé. Il est demandé que chaque intervenant fournisse son propre modèle en format natif et en format IFC.
 
