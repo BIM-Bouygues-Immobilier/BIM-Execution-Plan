@@ -23,25 +23,39 @@ Ce plug-in est disponible aux adresses suivantes :
 
 Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
-| Ouvrir l’interface d’export IFC : | Modifier les réglages d’exports: |
-| :--- | :--- |
-| ![](/assets/Export_01.png) | ![](/assets/Export_02.png) |
+| Ouvrir l’interface d’export IFC : |
+| :--- |
+| ![](/assets/Export_01.png) |
+
+| Modifier les réglages d’exports: |
+| :--- |
+| ![](/assets/Export_02.png) |
 
 ### Réglages de l’export IFC
 
 Il est demandé d’effectuer les réglages suivants lors de l’export :
 
-| General | Additional contents |
-| :--- | :--- |
-| ![](/assets/Export_03.png) | ![](/assets/Export_04.png) |
+| Général  |
+| :--- |
+| ![](/assets/Export_03.png) |
 
-| Property Sets \[A modifier\] | Level of Detail |
-| :--- | :--- |
-| ![](/assets/Export_05.png) | ![](/assets/Export_06.png) |
+| Additional contents |
+| :--- |
+| ![](/assets/Export_04.png) |
 
-| Advanced |  |
-| :--- | :--- |
-| ![](/assets/Export_07.png) |  |
+
+
+| Property Sets \[A modifier\] |
+| :--- |
+| ![](/assets/Export_05.png) |
+
+| Level of Detail |
+| :--- |
+| ![](/assets/Export_06.png) |
+
+| Advanced |
+| :--- |
+| ![](/assets/Export_07.png) |
 
 ### NOTA USER PROPERTY SETS ET MAPPING TABLE A RAJOUTER
 
@@ -49,17 +63,27 @@ Il est demandé d’effectuer les réglages suivants lors de l’export :
 
 Afin que l'ensemble des catégories Revit modélisées soit exportées, il est nécessaire de modifier les catégories exportée par default en IFC :
 
-![](/assets/Export_08.png)Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face de la catégorie Revit, comme indiqué ci-dessous :
+![](/assets/Export_08.png)
 
-| Quadrillages = &gt; IfcGrid | Surfaces =&gt; IfcSpaces |
-| :--- | :--- |
-| ![](/assets/Export_09.png) | ![](/assets/Export_10.png) |
+Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face de la catégorie Revit, comme indiqué ci-dessous :
 
-| Volumes = &gt; IfcBuildingElementProxy | Parking=&gt; IfcSpaces |
-| :--- | :--- |
-| ![](/assets/Export_11.png) | ![](/assets/Export_12.png) |
 
-### 
+
+| Quadrillages = &gt; IfcGrid |
+| :--- |
+| ![](/assets/Export_09.png) |
+
+| Surfaces =&gt; IfcSpaces |
+| :--- |
+| ![](/assets/Export_10.png) |
+
+| Volumes = &gt; IfcBuildingElementProxy |
+| :--- |
+| ![](/assets/Export_11.png) |
+
+| Parking=&gt; IfcSpaces |
+| :--- |
+| ![](/assets/Export_12.png) |
 
 
 
