@@ -5,6 +5,7 @@
 Le BIM Execution Plan permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
 
 Ce BIM Execution Plan présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier Entreprise sur l’ensemble de ses opération.
+<a href="https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/assets/Test-fichier-texte-BEP.txt" download="test">Download</a>
 
 ## Pourquoi ce guide?
 
