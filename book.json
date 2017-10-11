@@ -2,10 +2,10 @@
     "plugins": ["collapsible-menu", "versions" ],
     "pluginsConfig": {
         "versions": {
-            "type": "tags"
+            "type": "branches"
         }
     },
     "variables": {
-        "hello": true
+        "bu": "logement"
     }
 }

@@ -1,12 +1,8 @@
-# BIM Execution Plan Logement
+# BIM Execution Plan {% if book.bu == "logement" %}Logement{% else %}Immobilier d'Entreprise{% endif %}
 
 Le BIM Execution Plan permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
 
 Ce BIM Execution Plan présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier Entreprise sur l’ensemble de ses opération.
-
-{% if book.hello %}
-  It is true
-{% endif %}
 
 
 ## Pourquoi ce guide?
