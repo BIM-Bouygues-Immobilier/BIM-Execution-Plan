@@ -1,6 +1,6 @@
 #Nom des surfaces
 
-{% include "../00_Referentiel/NomDesSurfaces_Logement.md" %}
+{% include "../00_Referentiel/NomDesSurfaces.md" %}
 
 # Nom des modèles
 
@@ -10,4 +10,4 @@
 
 ### Décompositions des locaux
 
-{% include "../00_Referentiel/NomDesPieces_Logement.md" %}
+{% include "../00_Referentiel/NomDesPieces.md" %}

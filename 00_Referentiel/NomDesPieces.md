@@ -1,0 +1,88 @@
+{% if book.bu == "logement" %}
+
+**Noms des pièces en logement**
+
+
+| **Eléments de construction** |  |
+| :--- | :--- |
+|  | TERRASSES |
+|  | GAINES ASCENSEURS ET ESCALIERS |
+|  | GAINES TECHNIQUES |
+| **Partie Communes Nobles** |  |
+|  | HALL |
+|  | SALLE DE RESTAURANT ET DISTRIBUTION |
+|  | CUISINES |
+|  | CAFETERIA |
+|  | SANITAIRES SGX |
+|  | AUDITORIUM / SALLE POLYVALENTE |
+|  | FITNESS |
+|  | PALIERS D'ETAGES |
+|  | PALIERS D'ESCALIERS |
+|  | CIRCULATIONS COMMUNES |
+| **Parties Privatives** |  |
+|  | LOCAUX ET ARMOIRES TECHNIQUES UTILISATEURS |
+|  | CIRCULATIONS DE BUREAUX |
+|  | SANITAIRES PRIVATIFS |
+|  | LOCAUX MENAGES D'ETAGES |
+|  | TISANERIES |
+|  | LOCAUX BRASSAGE |
+|  | SALLES DE REUNIONS |
+|  | ZONES DE SURCHARGES RENFORCEES |
+|  | SURFACES BUREAUX |
+| **Back of house** |  |
+|  | ARCHIVES CENTRALES |
+|  | LOCAUX DIVERS COMMUNS |
+|  | LOCAUX VESTIAIRES VELO |
+|  | LOCAUX DECHETS |
+|  | LOCAUX TECHNIQUES |
+| **Stationnement** |  |
+|  | PARKING VOITURES ET DEUX MOTORISES |
+|  | LOCAUX VELO PARKING |
+|  | PALIERS INFRA |
+|  | AIRES DE LIVRAISONS COUVERTES ET FERMEES |
+
+
+{% else %}
+
+**Noms des pièces en Immobilier d'Entreprise**
+
+| **Eléments de construction** |  |
+| :--- | :--- |
+|  | TERRASSES |
+|  | GAINES ASCENSEURS ET ESCALIERS |
+|  | GAINES TECHNIQUES |
+| **Partie Communes Nobles** |  |
+|  | HALL |
+|  | SALLE DE RESTAURANT ET DISTRIBUTION |
+|  | CUISINES |
+|  | CAFETERIA |
+|  | SANITAIRES SGX |
+|  | AUDITORIUM / SALLE POLYVALENTE |
+|  | FITNESS |
+|  | PALIERS D'ETAGES |
+|  | PALIERS D'ESCALIERS |
+|  | CIRCULATIONS COMMUNES |
+| **Parties Privatives** |  |
+|  | LOCAUX ET ARMOIRES TECHNIQUES UTILISATEURS |
+|  | CIRCULATIONS DE BUREAUX |
+|  | SANITAIRES PRIVATIFS |
+|  | LOCAUX MENAGES D'ETAGES |
+|  | TISANERIES |
+|  | LOCAUX BRASSAGE |
+|  | SALLES DE REUNIONS |
+|  | ZONES DE SURCHARGES RENFORCEES |
+|  | SURFACES BUREAUX |
+| **Back of house** |  |
+|  | ARCHIVES CENTRALES |
+|  | LOCAUX DIVERS COMMUNS |
+|  | LOCAUX VESTIAIRES VELO |
+|  | LOCAUX DECHETS |
+|  | LOCAUX TECHNIQUES |
+| **Stationnement** |  |
+|  | PARKING VOITURES ET DEUX MOTORISES |
+|  | LOCAUX VELO PARKING |
+|  | PALIERS INFRA |
+|  | AIRES DE LIVRAISONS COUVERTES ET FERMEES |
+
+{% endif %}
+
