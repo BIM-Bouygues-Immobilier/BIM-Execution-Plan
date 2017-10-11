@@ -2,7 +2,7 @@
     "plugins": ["collapsible-menu", "versions" ],
     "pluginsConfig": {
         "versions": {
-            "type": "branches"
+            "type": "tags"
         }
     },
     "variables": {
