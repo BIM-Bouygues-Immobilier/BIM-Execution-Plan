@@ -25,10 +25,9 @@ Ces articles regroupent les recommandations de modélisation pour les géomètre
 
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 
-* La modélisation des éléments de l'environnement doivent respecter des régles précises, décrites ici :   [Modélisation de l'environnement](/04_Recommandations-de-modelisation/01_Geometre-Revit/GEO-RVT_Modelisation-environnement.md)
+* La modélisation des éléments de l'environnement doivent respecter des régles précises, décrites ici : [Modélisation de l'environnement](02_Modelisation/01_geometre/modelisation-rvt.md)
 
 * Enfin, on précise les paramètres d'exports aux format IFC et DWG : [Exports](/02_Modelisation/00_communs/export-rvt.md)
-
 
 # Si vous utilisez un logiciel non décrit{#ifc}
 
@@ -43,5 +42,5 @@ Afin de produire les informations attendues au format IFC, il est nécéssaire d
 * La modélisation de certains éléments doivent respecter des régles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_architecte/modelisation-archicad.md)
 ---
 
-Image credits [here ](/Credit.md)
+Image credits [here ](/CREDITS.md)
 

@@ -33,4 +33,4 @@ Si vous souhaitez chercher des sujets spécifiques dans ce document, utilisez l'
 ![](/images/Recherche.PNG)
 
 ---
-Image credits [here ](/Credit.md)
+Image credits [here ](/CREDITS.md)

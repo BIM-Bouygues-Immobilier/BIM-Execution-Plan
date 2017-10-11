@@ -42,5 +42,5 @@ Afin de produire les informations attendues au format IFC, il est nécéssaire d
 
 ---
 
-Image credits [here ](/Credit.md)
+Image credits [here ](/CREDITS.md)
 
