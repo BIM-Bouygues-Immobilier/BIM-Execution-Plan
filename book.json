@@ -1,3 +1,11 @@
 {
-    "plugins": ["collapsible-menu"]
+    "plugins": ["collapsible-menu", "versions" ],
+    "pluginsConfig": {
+        "versions": {
+            "type": "tags"
+        }
+    },
+    "variables": {
+        "hello": true
+    }
 }
