@@ -1,6 +1,6 @@
 # Généralités
 
-L’ensemble des informations décrites ci-dessous devront être présentes dans les modèles déposés sur la plateforme d'échange au format IFC, indépendamment du logiciel de modélisation utilisé. 
+L’ensemble des informations décrites ci-dessous devront être présentes dans les modèles déposés sur la plateforme d'échange au format IFC, indépendamment du logiciel de modélisation utilisé.
 
 ## Découpage
 
@@ -12,15 +12,13 @@ Chaque intervenant est ensuite libre de découper son modèle en plusieurs disci
 
 Les modèles déposés contiennent un et un seul niveau \(IfcBuildingStorey\) par étage du projet, afin de permettre le regroupement des éléments du modèle par étage du projet.
 
-Tous les éléments du projet devront être modélisés au bon niveau. A l'exception des verticalités des réseaux, tous les composants seront découpés par niveau \(donc pas de voiles sur plusieurs niveaux\). 
+Tous les éléments du projet devront être modélisés au bon niveau. A l'exception des verticalités des réseaux, tous les composants seront découpés par niveau \(donc pas de voiles sur plusieurs niveaux\).
 
-Aucun niveau supplémentaire devra être modélisé \(niveau brut béton, paliers intermédiaires, …\), mais on utilisera, en fonction du logiciel de modélisation, des décalages par rapport aux niveaux ou plans de référence. 
+Aucun niveau supplémentaire devra être modélisé \(niveau brut béton, paliers intermédiaires, …\), mais on utilisera, en fonction du logiciel de modélisation, des décalages par rapport aux niveaux ou plans de référence.
 
+Néanmoins, pour faciliter la modélisation des éléments structurels, il reste possible de ne dessiner que les niveaux bruts en lieu et à la place des niveaux finis.
 
-
-Néanmoins, pour faciliter la modélisation des éléments structurels, il reste possible de ne dessiner que les niveaux bruts en lieu et place des niveaux finis.
-
-Les niveaux sont préfixés à l'aide du schéma suivant : SS2, SS1, 00, 01, 02, 03, …, TT.
+Les niveaux sont préfixés à l'aide du schéma suivant : SS2, SS1, 00, 01, 02, 03, …, TT.![](/02_Modelisation/00_communs/images/Niveaux.PNG)
 
 ## Valeurs possibles
 
