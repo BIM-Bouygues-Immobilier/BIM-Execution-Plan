@@ -10,7 +10,7 @@
     * [&gt; Revit](/02_Modelisation/01_geometre/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
       * [Informations du projet](/02_Modelisation/02_communs/info-projet-rvt.md )
-      * Géoréférencement
+      * Géoréférencement 
       * [Modélisation de l'environnement](02_Modelisation/01_geometre/modelisation-rvt.md)
       * [Export](02_Modelisation/00_communs/export-rvt.md)
     * [&gt; Autre logiciel](/02_Modelisation/01_geometre/README.md#ifc )
