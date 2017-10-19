@@ -6,7 +6,7 @@ Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de
 
 | [**J'utilise Autodesk Revit**](#revit) | [**J'utilise Archicad**](#archicad) | [**J'utilise un autre logiciel**](#ifc) |
 | :---: | :---: | :---: |
-| [![](/02_Modelisation/00_communs/images/revit.png)](#revit) | [![](/02_Modelisation/00_communs/images/archicad.png)](#archicad) | [![](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
+|[![](/02_Modelisation/00_communs/images/Revit.png)](#revit)|[![](/02_Modelisation/00_communs/images/archiCAD.png)](#archicad)| [![](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
 
 # Utilisation de la plateforme collaborative
 
@@ -51,9 +51,6 @@ Il est nécessaire de configurer son propre logiciel de modélisation afin de pr
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres.
 
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-archicad.md)
-
-* La modélisation de certains éléments doivent respecter des régles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_architecte/modelisation-archicad.md)
-
 ---
 
 Image credits [here ](/CREDITS.md)

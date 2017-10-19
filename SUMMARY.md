@@ -10,15 +10,13 @@
     * [Revit](/02_Modelisation/01_geometre/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
       * [Informations du projet](/02_Modelisation/02_communs/info-projet-rvt.md )
-      * Géoréférencement 
+      * [Géoréférencement](02_Modelisation/01_geometre/georeferencement-rvt.md)
       * [Modélisation de l'environnement](02_Modelisation/01_geometre/modelisation-rvt.md)
       * [Export](02_Modelisation/00_communs/export-rvt.md)
     * [Autre logiciel](/02_Modelisation/01_geometre/README.md#ifc )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
-      * Informations du projet
-      * Géoréférencement
+      * [Informations du projet](/02_Modelisation/02_communs/info-projet-ifc.md )
       * Modélisation de l'environnement
-      * Export
   * [Architecte](/02_Modelisation/02_architecte/README.md)
     * [Revit](/02_Modelisation/02_architecte/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
@@ -28,15 +26,14 @@
       * [Export](02_Modelisation/00_communs/export-rvt.md)
     * [Archicad](/02_Modelisation/02_architecte/README.md#archicad )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
-      * [Informations du projet](02_Modelisation/00_communs/info-projet-archicad.md)
+      * [Informations du projet](/02_Modelisation/02_communs/info-projet-ifc.md )
       * [Géoréférencement](02_Modelisation/00_communs/georeferencement-archicad.md)
       * [Modélisation des éléments](02_Modelisation/02_architecte/modelisation-archicad.md)
       * [Export](02_Modelisation/00_communs/export-archicad.md)
     * [Autre logiciel](/02_Modelisation/02_architecte/README.md#ifc)  
       * [Généralités](02_Modelisation/00_communs/generalites.md)
-      * Informations du projet
+      * [Informations du projet](/02_Modelisation/02_communs/info-projet-ifc.md )
       * Modélisation des éléments
-      * Export
   * [Bureau d'étude Structure](/02_Modelisation/03_betStructure/README.md)
     * [Revit](/02_Modelisation/03_betStructure/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
@@ -45,18 +42,18 @@
       * [Export](02_Modelisation/00_communs/export-rvt.md)
     * [Autre logiciel](/02_Modelisation/03_betStructure/README.md#ifc )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
-      * Informations du projet
+      * [Informations du projet](/02_Modelisation/02_communs/info-projet-ifc.md )
       * Géoréférencement
   * [Bureau d'étude Fluide](/02_Modelisation/04_betFluide/README.md)
     * [Revit](/02_Modelisation/04_betFluide/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
       * [Informations du projet](/02_Modelisation/02_communs/info-projet-rvt.md )
-      * [Géoréférencement](02_Modelisation/00_communs/georeferencement-rvt.md)
-      * Modélisation des éléments
+      * [Géoréférencement](02_Modelisation/00_communs/georeferencement-rvt.md )
+      * [Modélisation des éléments](/02_Modelisation/04_betFluide/modelisation-rvt.md )
       * [Export](02_Modelisation/00_communs/export-rvt.md)
     * [Autre logiciel](/02_Modelisation/04_betFluide/README.md#ifc )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
-      * Informations du projet
+      * [Informations du projet](/02_Modelisation/02_communs/info-projet-ifc.md )
       * Géoréférencement
       * Modélisation des éléments
 * [Plateforme collaborative](/03_bimsync/README.md)

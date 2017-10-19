@@ -6,16 +6,16 @@ Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de
 
 | [**J'utilise Autodesk Revit**](#revit) |[**J'utilise un autre logiciel**](#ifc) |
 | :---: |:---: |
-| [![](/02_Modelisation/00_communs/images/revit.png)](#revit)| [![](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
+|[![](/02_Modelisation/00_communs/images/Revit.png)](#revit)| [![](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
 
-# Utilisation de la plateforme collaborative
+## Utilisation de la plateforme collaborative
 
 Sur tous ses projets, Bouygues Immobilier Entreprises mets en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
 
 Pour apprendre à utiliser la plateforme : [Plateforme collaborative](/03_bimsync/README.md)
 
 
-# Recommandations de modélisation à l'aide de Revit{#revit}
+## Recommandations de modélisation à l'aide de Revit{#revit}
 
 Ces articles regroupent les recommandations de modélisation pour les géomètres qui utilisent le logiciel Autodesk Revit dans les opérations BIM de Bouygues Immobilier.
 
@@ -29,7 +29,7 @@ Ces articles regroupent les recommandations de modélisation pour les géomètre
 
 * Enfin, on précise les paramètres d'exports aux format IFC et DWG : [Exports](/02_Modelisation/00_communs/export-rvt.md)
 
-# Si vous utilisez un logiciel non décrit{#ifc}
+## Si vous utilisez un logiciel non décrit{#ifc}
 
 Afin de produire les informations attendues au format IFC, il est nécéssaire de configurer son logiciel afin de produire des fichiers IFC contenants les informations suivantes. Chaque intervenant est responsable du paramétrage de son logiciel.
 
@@ -39,7 +39,6 @@ Afin de produire les informations attendues au format IFC, il est nécéssaire d
 
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-archicad.md)
 
-* La modélisation de certains éléments doivent respecter des régles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_architecte/modelisation-archicad.md)
 ---
 
 Image credits [here ](/CREDITS.md)

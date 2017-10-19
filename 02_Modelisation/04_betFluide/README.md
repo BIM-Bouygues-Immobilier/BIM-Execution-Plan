@@ -6,7 +6,7 @@ Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de
 
 | [**J'utilise Autodesk Revit**](#revit) |[**J'utilise un autre logiciel**](#ifc) |
 | :---: |:---: |
-| [![](/02_Modelisation/00_communs/images/revit.png)](#revit)| [![](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
+| [![![](/02_Modelisation/00_communs/images/revit.png)](/02_Modelisation/00_communs/images/Revit.png)](#revit)| [![](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
 
 # Utilisation de la plateforme collaborative
 
