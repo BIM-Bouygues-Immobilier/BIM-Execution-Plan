@@ -1,4 +1,4 @@
-# Export au format IFC, à partir de Revit{#revit2ifc}
+# Export au format IFC, à partir de Revit {#revit2ifc}
 
 ## Généralités
 
@@ -31,19 +31,31 @@ Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
 Il est demandé d’effectuer les réglages suivants lors de l’export :
 
-| General | Additional contents |
-| :--- | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_03.png) | ![](/02_Modelisation/00_communs/images/Export_04.png) |
+| General |
+| :---: |
+| ![](/02_Modelisation/00_communs/images/Export_03.png) |
 
-| Property Sets \[A modifier\] | Level of Detail |
-| :--- | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_05.png) | ![](/02_Modelisation/00_communs/images/Export_06.png) |
+| Additional contents |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_04.png) |
 
-| Advanced |  |
-| :--- | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_07.png) |  |
+| Property Sets |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_05.png) |
 
-## NOTA USER PROPERTY SETS ET MAPPING TABLE A RAJOUTER
+| Level of Detail |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_06.png) |
+
+| Advanced |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_07.png) |
+
+## Renseignement de l'adresse du projet
+
+Dans l'onglet "General" de la fenêtre d'export IFC, il est également demandé de renseigner les informations liées à l'adresse du projet:
+
+
 
 ## Réglages des catégories à exporter
 
@@ -61,7 +73,7 @@ Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face 
 | :--- | :--- |
 | ![](/02_Modelisation/00_communs/images/Export_11.png) | ![](/02_Modelisation/00_communs/images/Export_12.png) |
 
-# Export au format DWG, à partir de Revit{#revit2dwg}
+# Export au format DWG, à partir de Revit {#revit2dwg}
 
 L’extraction des DWG depuis Revit doit se faire :
 
@@ -71,4 +83,7 @@ L’extraction des DWG depuis Revit doit se faire :
 
 * Depuis les vues de rendu de Revit pour le rendu de chaque phase.
 
-* Depuis l’espace papier de Revit pour le rendu de chaque phase, afin de fournir la version .dwg des livrables diffusés en format .pdf. 
+* Depuis l’espace papier de Revit pour le rendu de chaque phase, afin de fournir la version .dwg des livrables diffusés en format .pdf.
+
+
+
