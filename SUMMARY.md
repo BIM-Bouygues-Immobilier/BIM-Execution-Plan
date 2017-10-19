@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [&gt; [](/02_Modelisation/00_communs/info-projet-rvt.md )Cas d'usages](/01_CasUsages/README.md#casusages)
+* [Cas d'usages ](/01_CasUsages/README.md#casusages)
   * [Visualiser la conception en 3D](/01_CasUsages/README.md#visualisation3D)
   * [Echanger autour des modèles](/01_CasUsages/README.md#echanger)
   * [Extraire les surfaces et des indicateurs de modèles](/01_CasUsages/README.md#kpi)
