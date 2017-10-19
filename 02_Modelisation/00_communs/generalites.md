@@ -19,7 +19,6 @@ Aucun niveau supplémentaire devra être modélisé \(niveau brut béton, palier
 Néanmoins, pour faciliter la modélisation des éléments structurels, il reste possible de ne dessiner que les niveaux bruts en lieu et à la place des niveaux finis.
 
 Les niveaux sont préfixés à l'aide du schéma suivant : SS2, SS1, 00, 01, 02, 03, …, TT.![](/02_Modelisation/00_communs/images/Niveaux.PNG)
-
 ## Valeurs possibles
 
 Lorsqu’une propriété doit contenir une valeur parmi plusieurs proposées, il est impératif de saisir précisément l’une des valeurs indiquées. Les valeurs autres que celle proposées seront refusées, et l’intervenant devra déposer un nouveau modèle.
