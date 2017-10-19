@@ -1,5 +1,5 @@
 {
-    "plugins": ["collapsible-menu"],
+    "plugins": ["toggle-chapters"],
     "variables": {
         "bu": "logement"
     }
