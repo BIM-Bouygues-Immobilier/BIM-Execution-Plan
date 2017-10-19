@@ -53,9 +53,18 @@ Il est demandé d’effectuer les réglages suivants lors de l’export :
 
 ## Renseignement de l'adresse du projet
 
-Dans l'onglet "General" de la fenêtre d'export IFC, il est également demandé de renseigner les informations liées à l'adresse du projet:
+Dans l'onglet "General" de la fenêtre d'export IFC, il est également demandé de renseigner les informations liées à l'adresse du projet:![](/02_Modelisation/00_communs/images/Adresse1.PNG)![](/02_Modelisation/00_communs/images/Adresse2.PNG)Les paramètres sont à reinseigner de façon suivante:
 
-
+| Paramètre | Valeur |
+| :--- | :--- |
+| Purpose | User defined |
+| Description | Type d'intervention \(Rénovation, Nouvelle construction, ...\) |
+| User-Defined purpose | Destination \(Bureaux, Logements, Hôtel, ...\) |
+| Address line 1 | L'adresse du projet |
+| City | La ville du projet |
+| Postal code | Le code postal du projet |
+| State | La région du projet |
+| Country | France |
 
 ## Réglages des catégories à exporter
 
@@ -65,25 +74,35 @@ Afin que l'ensemble des catégories Revit modélisées soit exporté, il est né
 
 Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face de la catégorie Revit, comme indiqué ci-dessous :
 
-| Quadrillages = &gt; IfcGrid | Surfaces =&gt; IfcSpaces |
-| :--- | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_09.png) | ![](/02_Modelisation/00_communs/images/Export_10.png) |
+| Quadrillages = &gt; IfcGrid |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_09.png) |
 
-| Volumes = &gt; IfcBuildingElementProxy | Parking=&gt; IfcSpaces |
-| :--- | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_11.png) | ![](/02_Modelisation/00_communs/images/Export_12.png) |
+| Surfaces =&gt; IfcSpaces |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_10.png) |
+
+
+
+| Volumes = &gt; IfcBuildingElementProxy |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_11.png) |
+
+| Parking=&gt; IfcSpaces |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_12.png) |
 
 # Export au format DWG, à partir de Revit {#revit2dwg}
 
 L’extraction des DWG depuis Revit doit se faire :
 
-* Depuis les vues de rendu de Revit, tout le long du projet, en coordonnées partagées. 
+* Depuis les vues de rendu de Revit, en coordonnées partagées, tout le long du projet et pour le rendu de phase:
 
-\[image de l’export DWG et de l’option en coordonnées partagés\]
+
 
 * Depuis les vues de rendu de Revit pour le rendu de chaque phase.
 
-* Depuis l’espace papier de Revit pour le rendu de chaque phase, afin de fournir la version .dwg des livrables diffusés en format .pdf.
+* Depuis l’espace papier de Revit, pour le rendu de chaque phase, afin de fournir la version .dwg des livrables diffusés en format .pdf: 
 
 
 
