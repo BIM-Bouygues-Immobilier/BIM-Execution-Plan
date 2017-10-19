@@ -59,7 +59,7 @@ Dans l'onglet "General" de la fenêtre d'export IFC, il est également demandé 
 
 ## Réglages des catégories à exporter
 
-Afin que l'ensemble des catégories Revit modélisées soit exportées, il est nécessaire de modifier les catégories exportée par default en IFC :
+Afin que l'ensemble des catégories Revit modélisées soit exporté, il est nécessaire de modifier les catégories exportées par default en IFC :
 
 ![](/02_Modelisation/00_communs/images/Export_08.png)
 
