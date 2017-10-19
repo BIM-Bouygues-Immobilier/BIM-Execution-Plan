@@ -12,11 +12,44 @@
       * Géoréférencement
       * Modélisation de l'environnement
       * Export
-    * &gt; Archicad
-
+    * &gt; Autre logiciel
+      * Informations du projet
+      * Géoréférencement
+      * Modélisation de l'environnement
+      * Export
   * [Architecte](/02_Modelisation/02_architecte/README.md)
+    * &gt; Revit
+      * Informations du projet
+      * Géoréférencement
+      * Modélisation des éléments
+      * Export
+    * &gt; Archicad
+      * Informations du projet
+      * Géoréférencement
+      * Modélisation des éléments
+      * Export
+    * &gt; Autre logiciel  
+      * Informations du projet
+      * Modélisation des éléments
+      * Export
   * [Bureau d'étude Structure](/02_Modelisation/03_betStructure/README.md)
+    * &gt; Revit
+      * Informations du projet
+      * Géoréférencement
+      * Export
+    * &gt; Autre logiciel
+      * Informations du projet
+      * Géoréférencement
   * [Bureau d'étude Fluide](/02_Modelisation/04_betFluide/README.md)
+    * &gt; Revit 
+      * Informations du projet
+      * Géoréférencement
+      * Modélisation des éléments
+      * Export
+    * &gt; Autre logiciel
+      * Informations du projet
+      * Géoréférencement
+      * Modélisation des éléments
 * [&gt; Plateforme collaborative](/03_bimsync/README.md)
   * [Démarrage](/03_bimsync/demarrage.md)
   * [Manipuler les modèles](/03_bimsync/manipuler-les-modeles.md)
