@@ -23,9 +23,15 @@ Ce plug-in est disponible aux adresses suivantes :
 
 Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
-| Ouvrir l’interface d’export IFC : | Modifier les réglages d’exports: |
-| :--- | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_01.png) | ![](/02_Modelisation/00_communs/images/Export_02.png) |
+| Ouvrir l’interface d’export IFC : |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_01.png) |
+
+
+
+| Ouvrir l’interface d’export IFC : |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export_01.png) |
 
 ## Réglages de l’export IFC
 
@@ -82,8 +88,6 @@ Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face 
 | :--- |
 | ![](/02_Modelisation/00_communs/images/Export_10.png) |
 
-
-
 | Volumes = &gt; IfcBuildingElementProxy |
 | :--- |
 | ![](/02_Modelisation/00_communs/images/Export_11.png) |
@@ -96,13 +100,22 @@ Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face 
 
 L’extraction des DWG depuis Revit doit se faire :
 
+* Depuis l’espace papier de Revit, pour le rendu de chaque phase, afin de fournir la version en format .dwg des livrables diffusés en format .pdf
 * Depuis les vues de rendu de Revit, en coordonnées partagées, tout le long du projet et pour le rendu de phase:
 
+| Sélectionner "Exporter" &gt; "Format CAO" &gt; "DWG" |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export DWG 1.png) |
+
+| Ouvrir l'interface pour la modification de l'export |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export DWG 2.png) |
+
+| Sélectionner la modalité d'export en coordonnées partagées |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/Export DWG 3.png) |
 
 
-* Depuis les vues de rendu de Revit pour le rendu de chaque phase.
-
-* Depuis l’espace papier de Revit, pour le rendu de chaque phase, afin de fournir la version .dwg des livrables diffusés en format .pdf: 
 
 
 
