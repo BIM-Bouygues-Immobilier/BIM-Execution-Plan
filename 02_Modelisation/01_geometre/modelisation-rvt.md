@@ -22,7 +22,7 @@ Ce modèle contient également la modélisation en volume des différentes limit
 
 ### Modélisation dans Revit
 
-Les limites du terrains sont modélisées en plan à l’aide de l’outil « Limite de propriété » de Revit.  
+Les limites du terrains sont modélisées en plan à l’aide de l’outil « Limite de propriété » de Revit.
 ![](/02_Modelisation/01_geometre/images/GEOMETRE_ENV_01.PNG)  
 Les limites de terrain sont ensuite modélisées en 3 dimensions à l’aide de l’outil « Volume in situ » de Revit. Ce volume prend le nom de la limite modélisée :  
 ![](/02_Modelisation/01_geometre/images/GEOMETRE_ENV_02.PNG)

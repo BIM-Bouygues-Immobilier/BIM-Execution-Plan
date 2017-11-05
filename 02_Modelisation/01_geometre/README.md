@@ -14,7 +14,6 @@ Sur tous ses projets, Bouygues Immobilier Entreprises mets en place une platefor
 
 Pour apprendre à utiliser la plateforme : [Plateforme collaborative](/03_bimsync/README.md)
 
-
 ## Recommandations de modélisation à l'aide de Revit{#revit}
 
 Ces articles regroupent les recommandations de modélisation pour les géomètres qui utilisent le logiciel Autodesk Revit dans les opérations BIM de Bouygues Immobilier.
@@ -25,7 +24,7 @@ Ces articles regroupent les recommandations de modélisation pour les géomètre
 
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 
-* La modélisation des éléments de l'environnement doivent respecter des régles précises, décrites ici : [Modélisation de l'environnement](02_Modelisation/01_geometre/modelisation-rvt.md)
+* La modélisation des éléments de l'environnement doivent respecter des régles précises, décrites ici : [Modélisation de l'environnement](/02_Modelisation/01_geometre/modelisation-rvt.md)
 
 * Enfin, on précise les paramètres d'exports aux format IFC et DWG : [Exports](/02_Modelisation/00_communs/export-rvt.md)
 
