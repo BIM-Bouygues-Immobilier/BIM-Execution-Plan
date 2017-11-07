@@ -84,3 +84,16 @@ Les places de parking sont modélisées à l’aide d’une famille de la catég
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement des places de parking. |
+
+## Modélisation des murs
+
+Les propriétés suivantes sont à compléter pour tout les types de murs :
+
+![](/02_Modelisation/02_architecte/images/TypeDeMur.png)
+
+| Propriété | Valeurs possibles | Explication |
+| :--- | :--- | :--- |
+| Nom du type | Voir « Nom des murs »  |  |
+| Keynote | Suivant fichier texte joint | Cette propriété permet d'identifier le mur dans le CCTP. |
+
+{% include "../../00_Referentiel/NomDesMurs.md" %}
