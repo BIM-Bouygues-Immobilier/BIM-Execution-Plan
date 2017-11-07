@@ -30,6 +30,7 @@ Chaque surface dessinée dans ce plan doit alors avoir les propriétés suivante
 
 {% include "../../00_Referentiel/NomDesSurfaces.md"  %}
 
+
 ## Modélisation des pièces{#piece}
 
 ### Généralités
@@ -53,8 +54,22 @@ Les propriétés suivantes sont à compléter :
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex. sont marquée « Extérieur ». |
-| Nom | Voir « Décompositions des locaux » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
+| Nom | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
 | Décalage limite | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local. Les propriétés « Niveau » et « Limite supérieure » doivent donc également avoir la même valeur. |
+
+{% if book.bu == "logement" %}
+### Zones
+
+Afin de regrouper ces pièces en zones, il est nécéssaire d'ajouter les propriétés suivantes à l'aide d'un paramètre partagé :
+
+| Propriété | Valeurs possibles | Explication |
+| :--- | :--- | :--- |
+| ZoneDescription | Voir « Nom des zones » | Cette propriété permet de regrouper plusiseurs pièces en une seule zone, par exemple un appartement. Ce paramètre peut n'être saisi qu'une seule fois par zone. |
+| ZoneName | Un numéro unique | Cette propriété permet d'identifier la zone.|
+
+{% endif %}
+
+{% include "../../00_Referentiel/NomDesZones.md"  %}
 
 ### Nom des pièces
 
