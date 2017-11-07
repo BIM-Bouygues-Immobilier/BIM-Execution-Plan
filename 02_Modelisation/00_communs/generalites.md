@@ -2,13 +2,22 @@
 
 L’ensemble des informations décrites ci-dessous devront être présentes dans les modèles déposés sur la plateforme d'échange au format IFC, indépendamment du logiciel de modélisation utilisé.
 
+##Livrables
+
+Les modèles numériques du projet sont livrées sur la plateforme, suivant les jalons donnés, sous deux formats :
+
+* Au format IFC2x3, en suivant la procédure d'export pour [Revit](/02_Modelisation/00_communs/export-rvt.md) et pour [ArchiCAD](/02_Modelisation/00_communs/export-archicad.md).
+* Au format natif du logiciel utilisé pour la modélisation. Il sera purgé, et seuls les éléments propres au projet seront conservés
+
+Les deux formats doivent être produits en même temps afin de garantir leur cohérence au même état de définition du bâtiment.
+
 ## Découpage
 
 Chaque intervenant produira à minima un modèle par bâtiment.
 
 Chaque intervenant est ensuite libre de découper son modèle en plusieurs disciplines en fonction de ses contraintes de modélisations. Par exemple, un modèle Fluides peut ainsi être séparé en 3 modèles distincts, Climatisation, Plomberie et Electricité. De la même manière, un modèle Architecte peut être séparé en 2 modèles, Façades et Intérieur\). L'intervenant demandera alors au BIM Manager la création des modèles correspondants sur la plateforme d’échange bimsync.
 
-Les modèles sont nommés de la façon suivante : 
+Les modèles sont nommés de la façon suivante : CODE DISCIPLINE - CODE BATIMENT
 
 {% include "../../00_Referentiel/NomDesModeles.md"  %}
 
