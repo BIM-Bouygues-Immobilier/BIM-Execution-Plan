@@ -1,6 +1,7 @@
 ### Nom des types de murs
 
-Nom du type|Description
+**Nom du type**|**Description**
+:--- | :---
 MUR-GEN|Mur générique (par défaut)
 MUR-EXT-REV-BOIS-épaisseur  cm|Bardage bois
 MUR-EXT-REV-COMPOSITE-épaisseur  cm|Bardage composite

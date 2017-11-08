@@ -3,7 +3,7 @@
 
 ### Typologie des logements
 
-Nom du logement|Description
+**Nom du logement**|**Description**
 :--- | :---
 T1|Zone Logement T1
 T2|Zone Logement T2

@@ -28,7 +28,7 @@ Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Sur
 
 L’ensemble de ces surfaces SHOB/SHON/SDP est modélisé à l’aide de l'outil Zone :
 
-![](/02_Modelisation/02_architecte/images/Zones.pn)
+![](/02_Modelisation/02_architecte/images/Zones.png)
 
 Chaque Zone dessinée doit alors avoir les propriétés suivantes :
 

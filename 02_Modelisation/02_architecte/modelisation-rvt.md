@@ -60,12 +60,14 @@ Les propriétés suivantes sont à compléter :
 {% if book.bu == "logement" %}
 ### Logements
 
-Les pièces d'un logement doivent être regroupées. Pour cela, il est nécéssaire d'ajouter les propriétés suivantes à l'aide de deux paramètres partagés :
+Les pièces d'un logement doivent être regroupées ensembles. Pour cela, il est nécéssaire d'ajouter les propriétés suivantes à l'aide de deux paramètres partagés :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| ZoneName | Le numéro de l'appartement (unique) | Cette propriété permet de regrouper les pièces d'un logement.|
+| ZoneName | Le numéro du logements (unique) | Cette propriété permet de regrouper les pièces d'un logement.|
 | ZoneDescription | Voir « Typologie des logements » | Cette propriété permet de préciser la typologie du logement (T1, T2, ...).|
+
+![](/02_Modelisation/02_architecte/images/RegroupementEnLogements.png)
 
 {% endif %}
 
