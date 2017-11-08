@@ -58,18 +58,18 @@ Les propriétés suivantes sont à compléter :
 | Décalage limite | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local. Les propriétés « Niveau » et « Limite supérieure » doivent donc également avoir la même valeur. |
 
 {% if book.bu == "logement" %}
-### Zones
+### Logements
 
-Afin de regrouper ces pièces en zones, il est nécéssaire d'ajouter les propriétés suivantes à l'aide d'un paramètre partagé :
+Les pièces d'un logement doivent être regroupées. Pour cela, il est nécéssaire d'ajouter les propriétés suivantes à l'aide de deux paramètres partagés :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| ZoneDescription | Voir « Nom des zones » | Cette propriété permet de regrouper plusiseurs pièces en une seule zone, par exemple un appartement. Ce paramètre peut n'être saisi qu'une seule fois par zone. |
-| ZoneName | Un numéro unique | Cette propriété permet d'identifier la zone.|
+| ZoneName | Le numéro de l'appartement (unique) | Cette propriété permet de regrouper les pièces d'un logement.|
+| ZoneDescription | Voir « Typologie des logements » | Cette propriété permet de préciser la typologie du logement (T1, T2, ...).|
 
 {% endif %}
 
-{% include "../../00_Referentiel/NomDesZones.md"  %}
+{% include "../../00_Referentiel/TypologieDesLogements.md"  %}
 
 ### Nom des pièces
 
