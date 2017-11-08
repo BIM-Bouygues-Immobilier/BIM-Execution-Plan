@@ -28,7 +28,7 @@ Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Sur
 
 L’ensemble de ces surfaces SHOB/SHON/SDP est modélisé à l’aide de l'outil Zone :
 
-![](/02_Modelisation/02_architecte/images/Zones.PNG)
+![](/02_Modelisation/02_architecte/images/Zones.pn)
 
 Chaque Zone dessinée doit alors avoir les propriétés suivantes :
 
@@ -51,7 +51,7 @@ La propriété « Description » est accessible en faisant un clic-droit sur une
 
 ### Généralités
 
-Les Surfaces Utiles Brutes Locatives \(SUBL\), Surfaces Utiles Brutes Bureaux \(SUBB\), Surfaces Utiles Nettes \(SUN\) et Surfaces Nettes Bureaux \(SNB\) sont calculées à partir de la modélisation des pièces du projet.
+Les Surfaces Utiles Brutes Locatives \(SUBL\), Surfaces Utiles Brutes Bureaux \(SUBB\), Surfaces Utiles Nettes \(SUN\) et Surfaces Nettes Bureaux \(SNB\) sont calculées à partir de la modélisation des locaux du projet.
 
 L’ensemble des locaux du projet doivent être présents dans la maquette numérique. En plus des locaux « nobles » du programme, cette modélisation doit inclure tous les autres types de locaux, tel que les circulations, les locaux techniques, les gaines techniques, …
 
@@ -63,20 +63,21 @@ Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini.
 
 Dans ArchiCAD, ces locaux doivent être modélisé à l’aide de l’outil Zone :
 
-![](/02_Modelisation/02_architecte/images/SURFACE_02.PNG)
+![](/02_Modelisation/02_architecte/images/Zones.png)
 
 Les propriétés suivantes sont à compléter :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex. sont marquée « Extérieur ». |
+| Catégorie de Zone | Rooms| Toutes les zones sont dans la catégorie Rooms |
+| Description | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex.\) sont marquée « Extérieur » |
 | Nom | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
-| Décalage limite | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local. Les propriétés « Niveau » et « Limite supérieure » doivent donc également avoir la même valeur. |
+| Hauteur | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local.|
 
 {% if book.bu == "logement" %}
 ### Zones
 
-Afin de regrouper ces pièces en zones, il est nécéssaire d'ajouter les propriétés suivantes à l'aide d'un paramètre partagé :
+Afin de regrouper ces pièces, il est nécéssaire d'ajouter les propriétés suivantes à l'aide d'un paramètre partagé :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
@@ -93,23 +94,10 @@ Afin de regrouper ces pièces en zones, il est nécéssaire d'ajouter les propri
 
 ## Modélisation des places de parking{#parking}
 
-### Modélisation dans Revit
+### Modélisation
 
-Les places de parking sont modélisées à l’aide d’une famille de la catégorie Parking. Les propriétés suivantes sont à compléter :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement des places de parking. |
-
-## Modélisation des murs
-
-Les propriétés suivantes sont à compléter pour tout les types de murs :
-
-![](/02_Modelisation/02_architecte/images/TypeDeMur.png)
+Les places de parking sont modélisées à l’aide de l'objet Parking. Les propriétés suivantes sont à compléter :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Nom du type | Voir « Nom des murs »  |  |
-| Keynote | Suivant fichier texte joint | Cette propriété permet d'identifier le mur dans le CCTP. |
-
-{% include "../../00_Referentiel/NomDesMurs.md" %}
+| Description| Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement des places de parking. |
