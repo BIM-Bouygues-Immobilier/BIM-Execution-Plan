@@ -15,15 +15,28 @@ Les modèles géométriques de chaque contributeur doivent faire référence un 
 1. Insérer le modèle du géomètre en LienRevit d’ « Origine à Origine ».
 ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 01.PNG)
 2. Tourner/déplacer le modèle dans la position souhaitée
-4. Aller dans l’onglet « gérer » ensuite « coordonnées » et choisir « importer les coordonnées »
-5. Sélectionner le lien IE\_AFFAIRE\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt
+![](/02_Modelisation/02_architecte/images/Coordonnées partagées 02.PNG)
+4. Aller dans l’onglet « Gérer » ensuite « Coordonnées » et choisir « Importer les coordonnées »
+![](/02_Modelisation/02_architecte/images/Coordonnées partagées 03.png)
+5. Sélectionner le lien du géomètre
 6. Le fichier de travail Revit est alors en coordonnées partagées également.
+
+## Création du fichier de référence
+L’architecte est responsable de la création d'un fichier de référence .RVT qui doit être mis en coordonnées partagés avec la méthodologie décrite dans le paragraphe précédent. 
+Dans ce fichier Revit XXX_QUADRILLAGES_NIVEAUX_PHASE.rvt en coordonnées partagées, l’architecte crée/copie les quadrillages et les niveaux du projet. 
+Par ailleurs, le niveau de référence pour tous les intervenants est le niveau fini, comme décrit dans les [Recommandations de modélisation](/02_Modelisation/02_architecte/modelisation-rvt.md ). 
+L’architecte, via la plateforme collaborative, met ensuite à disposition de tous les intervenants du projet ce fichier dans le dossier :  
+DOCUMENTS>00-Programme et base documentaire. 
+En cas de demande de déplacement, de changement de nom ou d’ajout de niveaux et nouvelles files par la MOE :
+-	L’architecte est le partenaire qui a la responsabilité de les intégrer dans le fichier XXX_QUADRILLAGES_NIVEAUX_PHASE.rvt. 
+-	Ce-dernier sera mis à jour en conséquence et transmis à l’ensemble des intervenants concernés. Chacun des contributeurs BIM a alors la responsabilité de mettre à jour son fichier. 
 
 ## Importer et exporter
 
 ### Importer des fichiers de référence
 
 Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement « Automatique – A l’emplacement partagé ».
+
 
 ### Exporter des IFC et extraire des DWG
 
