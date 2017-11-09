@@ -10,13 +10,13 @@ Les modèles géométriques de chaque contributeur doivent faire référence un 
 
 ### Partage du point d'origine
 
-1. Insérer le modèle de référence IE\_AFFAIRE\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt. en LienRevit d’ « Origine à Origine ».
+1. Insérer le modèle de référence XXX\_AFFAIRE\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt. en LienRevit d’ « Origine à Origine ».
 
 2. Tourner/déplacer le modèle dans la position souhaitée
 
 3. Aller dans l’onglet « gérer » ensuite « coordonnées » et choisir « importer les coordonnées »
 
-4. Sélectionner le lien IE\_AFFAIRE\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt.
+4. Sélectionner le lien XXX\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt.
 
 5. Le fichier de travail Revit est alors en coordonnées partagées également.
 
@@ -25,6 +25,14 @@ Les modèles géométriques de chaque contributeur doivent faire référence un 
 ### Importer des fichiers de référence
 
 Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement « Automatique – A l’emplacement partagé ».
+
+| Lier un fichier .dwg |
+| :--- |
+| ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 06.PNG) |
+
+| Lier un fichier .rvt |
+| :--- |
+| ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 05.PNG) |
 
 ### Exporter des IFC et extraire des DWG
 

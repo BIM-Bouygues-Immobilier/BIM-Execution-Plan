@@ -8,8 +8,6 @@ Les prescriptions ci-dessous sont indicatives, et n’enlèvent pas au prestatai
 
 Les modèles géométriques de chaque contributeur doivent faire référence un système commun de coordonnées relatif à la position géographique.
 
-### Partage du point d'origine géomètre à partir d'un fichier CAD
-
 ### Partage du point d'origine géomètre à partir d'une maquette revit
 
 1. Insérer le modèle du géomètre en LienRevit d’ « Origine à Origine ».
@@ -20,6 +18,14 @@ Les modèles géométriques de chaque contributeur doivent faire référence un 
    ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 03.png)
 4. Sélectionner le lien du géomètre
 5. Le fichier de travail Revit est alors en coordonnées partagées également.
+
+### Partage du point d'origine géomètre à partir d'un fichier CAD
+
+1. Insérer le fichier du géomètre en LienCAO d'« origine à Origine».  
+2. Tourner/déplacer le lien dans l'espace de dessin dans la position souhaitée.
+3. Aller dans l’onglet « Gérer » ensuite « Coordonnées » et choisir « Importer les coordonnées »
+4. Sélectionner le lien CAO
+5. Le fichier de travail Revit est maintenant en coordonnées partagés avec le plan géomètre. 
 
 ## Création du fichier de référence
 
