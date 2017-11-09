@@ -2,7 +2,7 @@
 
 Les indications de modélisation ci-dessous dépendent du logiciel utilisé. Ces indications permettent de produire les mêmes informations quel que soit le logiciel utilisé.
 
-Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de Bouygues IE : [Cas d'usages](/01_CasUsages/README.md)
+Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de Bouygues Immobilier: [Cas d'usages](/01_CasUsages/README.md)
 
 | [**J'utilise Autodesk Revit**](#revit) |[**J'utilise un autre logiciel**](#ifc) |
 | :---: |:---: |
@@ -10,7 +10,7 @@ Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de
 
 # Utilisation de la plateforme collaborative
 
-Sur tous ses projets, Bouygues Immobilier Entreprises mets en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
+Sur tous ses projets, Bouygues Immobilier met en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
 
 Pour apprendre à utiliser la plateforme : [Plateforme collaborative](/03_bimsync/README.md)
 
@@ -24,9 +24,9 @@ Ces articles regroupent les recommandations de modélisation pour les bureaux d'
 
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 
-* Les indications pour la modélisation des réseaux : [Modélisation des réseaux](/04_Recommandations-de-modelisation/04_BET-Fluides-Revit/MEP_Modelisation-des-reseaux.md)
+* Les indications pour la modélisation des réseaux : [Modélisation des réseaux](/02_Modelisation/04_betFluide/modelisation-rvt.md)
 
-* Enfin, on précise les paramètres d'exports aux format IFC et DWG : [Exports](/02_Modelisation/00_communs/export-rvt.md)
+* Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-rvt.md)
 
 # Si vous utilisez un logiciel non décrit{#ifc}
 
@@ -38,7 +38,7 @@ Afin de produire les informations attendues au format IFC, il est nécéssaire d
 
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-archicad.md)
 
-* La modélisation de certains éléments doivent respecter des régles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_architecte/modelisation-archicad.md)
+* La modélisation de certains éléments doivent respecter des régles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_betFluides/modelisation-ifc-fluides.md)
 
 ---
 
