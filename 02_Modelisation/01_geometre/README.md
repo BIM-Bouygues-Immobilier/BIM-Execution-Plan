@@ -20,23 +20,24 @@ Ces articles regroupent les recommandations de modélisation pour les géomètre
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
 
-* Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/00_communs/georeferencement-rvt.md)
+* Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/01_geometre/georeferencement-rvt.md)
 
-* Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
+* Les modèles déposés sur la plateforme collaborative Bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 
 * La modélisation des éléments de l'environnement doivent respecter des régles précises, décrites ici : [Modélisation de l'environnement](/02_Modelisation/01_geometre/modelisation-rvt.md)
 
-* Enfin, on précise les paramètres d'exports aux format IFC et DWG : [Exports](/02_Modelisation/00_communs/export-rvt.md)
+* Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-rvt.md)
 
 ## Si vous utilisez un logiciel non décrit{#ifc}
 
-Afin de produire les informations attendues au format IFC, il est nécéssaire de configurer son logiciel afin de produire des fichiers IFC contenants les informations suivantes. Chaque intervenant est responsable du paramétrage de son logiciel.
+Il est nécessaire de configurer son logiciel afin de produire les informations attedues au format IFC.
+Chaque intervenant est responsable du paramétrage de son logiciel.
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
 
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres.
 
-* Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-archicad.md)
+* Les modèles déposés sur la plateforme collaborative Bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
 
 ---
 

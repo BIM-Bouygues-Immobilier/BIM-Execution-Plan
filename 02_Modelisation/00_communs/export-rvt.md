@@ -8,7 +8,8 @@ Pour chaque lot, il est nécessaire de déposer un seul fichier, au format IFC2X
 
 ## Plug-in d’export IFC
 
-Pour export, il est nécessaire d’utiliser la dernière version du plug-in d’export IFC disponible gratuitement sur l’Autodesk App Store. Ce plug-in améliore la qualité de l’export depuis Revit vers le format IFC.
+Pour l'export, il est nécessaire d’utiliser la dernière version du plug-in d’export IFC disponible gratuitement sur l’Autodesk App Store. 
+Ce plug-in améliore la qualité de l’export depuis Revit vers le format IFC.
 
 Ce plug-in est disponible aux adresses suivantes :
 
