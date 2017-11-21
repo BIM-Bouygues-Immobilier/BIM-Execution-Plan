@@ -2,7 +2,7 @@
 
 Les indications de modélisation ci-dessous dépendent du logiciel utilisé. Ces indications permettent de produire les mêmes informations quel que soit le logiciel utilisé.
 
-Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de Bouygues IE : [Cas d'usages](/01_CasUsages/README.md)
+Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de Bouygues Immobilier: [Cas d'usages](/01_CasUsages/README.md)
 
 | [**J'utilise Autodesk Revit**](#revit) |[**J'utilise un autre logiciel**](#ifc) |
 | :---: |:---: |
@@ -10,7 +10,7 @@ Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de
 
 # Utilisation de la plateforme collaborative
 
-Sur tous ses projets, Bouygues Immobilier Entreprises mets en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
+Sur tous ses projets, Bouygues Immobilier met en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
 
 Pour apprendre à utiliser la plateforme : [Plateforme collaborative](/03_bimsync/README.md)
 
