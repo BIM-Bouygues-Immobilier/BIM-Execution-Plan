@@ -34,11 +34,10 @@ Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire,
 | :--- |
 | ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 05.PNG) |
 
-### Exporter des IFC et extraire des DWG
+### Exporter des IFC 
 
-* Pour l’export en format IFC : se référer aux recommandations d'export : [Recommandations d'export](/02_Modelisation/00_communs/export-rvt.md#revit2ifc)
+Pour l’export en format IFC, se référer aux recommandations d'export : [Recommandations d'export](/02_Modelisation/00_communs/export-rvt.md#revit2ifc)
 
-* Pour l’extraction des livrables en format dwg : se référer aux recommandations d'export : [Recommandations d'export](/02_Modelisation/00_communs/export-rvt.md#revit2dwg)
 
 
 

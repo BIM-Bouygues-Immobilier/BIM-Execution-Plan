@@ -29,8 +29,8 @@ Les modèles géométriques de chaque contributeur doivent faire référence un 
 
 ## Création du fichier de référence
 
-L’architecte est responsable de la création d'un fichier de référence .RVT qui doit être mis en coordonnées partagés avec la méthodologie décrite dans le paragraphe précédent.  
-Dans ce fichier Revit XXX\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt en coordonnées partagées, l’architecte crée/copie les quadrillages et les niveaux du projet.  
+L’architecte est responsable de la création d'un fichier de référence .RVT du projet qui doit être mis en coordonnées partagés avec la méthodologie décrite dans le paragraphe précédent.  
+Dans ce fichier Revit XXX\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt, l’architecte crée/copie les quadrillages et les niveaux du projet.  
 Par ailleurs, le niveau de référence pour tous les intervenants est le niveau fini, comme décrit dans les [Recommandations de modélisation](/02_Modelisation/00_communs/generalites.md ).  
 L’architecte, via la plateforme collaborative, met ensuite à disposition de tous les intervenants du projet ce fichier dans le dossier : DOCUMENTS&gt;00-Programme et base documentaire.  
 En cas de demande de déplacement, de changement de nom ou d’ajout de niveaux et nouvelles files par la MOE :

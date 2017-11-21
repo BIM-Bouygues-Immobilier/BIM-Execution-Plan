@@ -26,7 +26,7 @@ Ces articles regroupent les recommandations de modélisation pour les architecte
 
 * La modélisation de certains éléments doivent respecter des régles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_architecte/modelisation-rvt.md)
 
-* Enfin, on précise les paramètres d'exports aux format IFC et DWG : [Exports](/02_Modelisation/00_communs/export-rvt.md)
+* Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-rvt.md)
 
 # Recommandations de modélisation à l'aide d'ArchiCAD {#archicad}
 
@@ -36,11 +36,11 @@ Ces articles regroupent les recommandations de modélisation pour les architecte
 
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Positions des modèles](/02_Modelisation/00_communs/georeferencement-archicad.md)
 
-* Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-archicad.md)
+* Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
 
 * La modélisation de certains éléments doivent respecter des règles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_architecte/modelisation-archicad.md)
 
-* Enfin, on précise les paramètres d'exports aux format IFC et DWG : [Exports](/02_Modelisation/00_communs/export-archicad.md)
+* Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-archicad.md)
 
 # Si vous utilisez un logiciel non décrit {#ifc}
 
@@ -50,7 +50,7 @@ Il est nécessaire de configurer son propre logiciel de modélisation afin de pr
 
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres.
 
-* Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-archicad.md)
+* Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
 ---
 
 Image credits [here ](/CREDITS.md)

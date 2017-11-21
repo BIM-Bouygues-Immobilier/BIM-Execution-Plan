@@ -57,6 +57,11 @@ Les propriétés suivantes sont à compléter :
 | Nom | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
 | Décalage limite | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local. Les propriétés « Niveau » et « Limite supérieure » doivent donc également avoir la même valeur. |
 
+### Nom des pièces
+Le tableau ci-dessous liste les noms de pièces à utiliser sur l'operation:
+
+{% include "../../00_Referentiel/NomDesPieces.md" %}
+
 {% if book.bu == "logement" %}
 ### Logements
 
@@ -69,13 +74,9 @@ Les pièces d'un logement doivent être regroupées ensembles. Pour cela, il est
 
 ![](/02_Modelisation/02_architecte/images/RegroupementEnLogements.png)
 
-{% endif %}
-
 {% include "../../00_Referentiel/TypologieDesLogements.md"  %}
 
-### Nom des pièces
-
-{% include "../../00_Referentiel/NomDesPieces.md" %}
+{% endif %}
 
 ## Modélisation des places de parking{#parking}
 
@@ -87,6 +88,7 @@ Les places de parking sont modélisées à l’aide d’une famille de la catég
 | :--- | :--- | :--- |
 | Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement des places de parking. |
 
+{% if book.bu == "logement" %}
 ## Modélisation des murs
 
 Les propriétés suivantes sont à compléter pour tout les types de murs :
@@ -99,3 +101,4 @@ Les propriétés suivantes sont à compléter pour tout les types de murs :
 | Keynote | Suivant fichier texte joint | Cette propriété permet d'identifier le mur dans le CCTP. |
 
 {% include "../../00_Referentiel/NomDesMurs.md" %}
+{% endif %}
