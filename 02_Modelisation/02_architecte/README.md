@@ -10,7 +10,7 @@ Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de
 
 # Utilisation de la plateforme collaborative
 
-Sur tous ses projets, Bouygues Immobilier Entreprises mets en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
+Sur tous ses projets, Bouygues Immobilier mets en place une plateforme collaborative qui permet de visualiser et d'échanger autour des maquettes numériques.
 
 Pour apprendre à utiliser la plateforme : [Plateforme collaborative](/03_bimsync/README.md)
 
@@ -20,7 +20,7 @@ Ces articles regroupent les recommandations de modélisation pour les architecte
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
 
-* Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/00_communs/georeferencement-rvt.md)
+* Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/02_architecte/georeferencement-rvt-arc.md)
 
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 

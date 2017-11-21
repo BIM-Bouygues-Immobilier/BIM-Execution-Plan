@@ -31,7 +31,7 @@ Les modèles géométriques de chaque contributeur doivent faire référence un 
 
 L’architecte est responsable de la création d'un fichier de référence .RVT qui doit être mis en coordonnées partagés avec la méthodologie décrite dans le paragraphe précédent.  
 Dans ce fichier Revit XXX\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt en coordonnées partagées, l’architecte crée/copie les quadrillages et les niveaux du projet.  
-Par ailleurs, le niveau de référence pour tous les intervenants est le niveau fini, comme décrit dans les [Recommandations de modélisation](/02_Modelisation/02_architecte/modelisation-rvt.md ).  
+Par ailleurs, le niveau de référence pour tous les intervenants est le niveau fini, comme décrit dans les [Recommandations de modélisation](/02_Modelisation/00_communs/generalites.md ).  
 L’architecte, via la plateforme collaborative, met ensuite à disposition de tous les intervenants du projet ce fichier dans le dossier : DOCUMENTS&gt;00-Programme et base documentaire.  
 En cas de demande de déplacement, de changement de nom ou d’ajout de niveaux et nouvelles files par la MOE :
 
@@ -41,8 +41,7 @@ En cas de demande de déplacement, de changement de nom ou d’ajout de niveaux 
 ## Importer et exporter
 
 ### Importer des fichiers de référence
-
-Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement « Automatique – A l’emplacement partagé ».
+Lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement « Automatique – A l’emplacement partagé ».
 
 | Lier un fichier .dwg |
 | :--- |
@@ -52,11 +51,9 @@ Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire,
 | :--- |
 | ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 05.PNG) |
 
-### Exporter des IFC et extraire des DWG
+### Exporter des IFC
 
-* Pour l’export en format IFC : se référer aux recommandations d'export : [Recommandations d'export](/02_Modelisation/00_communs/export-rvt.md#revit2ifc)
-
-* Pour l’extraction des livrables en format dwg : se référer aux recommandations d'export : [Recommandations d'export](/02_Modelisation/00_communs/export-rvt.md#revit2dwg)
+Pour l’export en format IFC : se référer aux recommandations d'export : [Recommandations d'export](/02_Modelisation/00_communs/export-rvt.md#revit2ifc)
 
 
 
