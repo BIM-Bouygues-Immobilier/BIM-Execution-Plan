@@ -16,7 +16,7 @@
     * [Autre logiciel](/02_Modelisation/01_geometre/README.md#ifc)
       * [Généralités](/02_Modelisation/00_communs/generalites.md)
       * [Informations du projet](/02_Modelisation/00_communs/info-projet-ifc.md )
-      * Modélisation de l'environnement
+      * [Modélisation de l'environnement](/02_Modelisation/01_geometre/modelisation-ifc.md)
   * [Architecte](/02_Modelisation/02_architecte/README.md)
     * [Revit](/02_Modelisation/02_architecte/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
@@ -33,7 +33,7 @@
     * [Autre logiciel](/02_Modelisation/02_architecte/README.md#ifc)  
       * [Généralités](02_Modelisation/00_communs/generalites.md)
       * [Informations du projet](/02_Modelisation/00_communs/info-projet-ifc.md )
-      * Modélisation des éléments
+      * [Modélisation des éléments](/02_Modelisation/02_architecte/modelisation-ifc-arc.md)
   * [Bureau d'étude Structure](/02_Modelisation/03_betStructure/README.md)
     * [Revit](/02_Modelisation/03_betStructure/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
@@ -43,7 +43,7 @@
     * [Autre logiciel](/02_Modelisation/03_betStructure/README.md#ifc )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
       * [Informations du projet](02_Modelisation/00_communs/info-projet-ifc.md )
-      * Géoréférencement
+      * [Géoréférencement](/02_Modelisation/00_communs/georeferencement-ifc.md)
   * [Bureau d'étude Fluide](/02_Modelisation/04_betFluide/README.md)
     * [Revit](/02_Modelisation/04_betFluide/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
@@ -54,8 +54,8 @@
     * [Autre logiciel](/02_Modelisation/04_betFluide/README.md#ifc )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
       * [Informations du projet](02_Modelisation/00_communs/info-projet-ifc.md )
-      * Géoréférencement
-      * Modélisation des éléments
+      * [Géoréférencement](/02_Modelisation/00_communs/georeferencement-ifc.md)
+      * [Modélisation des éléments](/02_Modelisation/04_betFluide/modelisation-ifc-fluides.md)
 * [Plateforme collaborative](/03_bimsync/README.md)
   * [Démarrage](/03_bimsync/demarrage.md)
   * [Manipuler les modèles](/03_bimsync/manipuler-les-modeles.md)
@@ -63,3 +63,6 @@
   * [Déposer et gérer des documents](/03_bimsync/deposer-et-gerer-des-documents.md)
   * [Poser et répondre aux questions](/03_bimsync/poser-et-repondre-aux-questions.md)
   * [Inviter des membres et gérer un projet](/03_bimsync/inviter-des-membres-et-gerer-un-projet.md)
+
+
+
