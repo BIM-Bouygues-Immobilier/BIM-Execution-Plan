@@ -26,6 +26,16 @@ Chaque surface dessinée dans ce plan doit alors avoir les propriétés suivante
 | Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex.\) sont marquée « Extérieur » |
 | Nom | Voir "Noms des surfaces" ci-dessous | Cette propriété indique le type de surface, suivant la décomposition décrite ci-dessus. |
 
+### Exemples
+
+#### Niveau de parking
+
+![](/02_Modelisation/02_architecte/images/Surfaces_ExempleNiveauParking.png)
+
+#### Niveau courant
+
+![](/02_Modelisation/02_architecte/images/Surfaces_ExempleNiveauCourant.png)
+
 ### Noms des surfaces
 
 {% include "../../00_Referentiel/NomDesSurfaces.md"  %}
