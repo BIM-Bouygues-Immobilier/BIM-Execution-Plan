@@ -23,7 +23,4 @@ Le point topographique de Revit est placé soit à un emplacement caractéristiq
 
 ![](/02_Modelisation/01_geometre/images/GEOMETRE_ENV_03.png)
 
-\[Cfr [Partage des coordonnées](/04_Recommandations-de-modelisation/01_Geometre-Revit/GEO-RVT_Partage-des-coordonnées.md)\]
-
-
-
+\[Cf. [Partage des coordonnées](/02_Modelisation/00_communs/georeferencement-rvt.md)\]
