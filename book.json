@@ -1,5 +1,12 @@
 {
-    "plugins": ["collapsible-chapters"],
+    "plugins": ["collapsible-chapters","downloadpdf"],
+    "pluginsConfig": {
+      "downloadpdf": {
+        "base": "https://www.gitbook.com/download/pdf/book/bim-bouygues-immobilier/bim-execution-plan",
+        "label": "Télécharger en PDF",
+        "multilingual": false
+      }
+    },  
     "variables": {
         "bu": "logement"
     }
