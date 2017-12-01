@@ -9,69 +9,75 @@ ARCHIVE|Archive
 ASCENSEUR|Ascenseur (démarrage)
 ASCENSEUR|Ascenseur (trémie)
 ATELIER|Atelier
-BALCON|Balcon
+BALCON 1|Balcon
+BALCON 2|Balcon
 BOX|Box
 BUANDERIE|Buanderie
 BUREAU|Bureau
 CAVE|Cave
 CELLIER|Cellier
-CHAMBRE|Chambre
+CHAMBRE 1|Chambre PMR
+CHAMBRE 2|Chambre
+CHAMBRE 3|Chambre
+CHAMBRE 4|Chambre
+CHAMBRE 5|Chambre
 CHAUFFERIE|Chaufferie
 CIRCULATION|Circulation commune
 CIRCULATION PARKING|Circulation Parking
 COMBLE|Comble aménageable
 COMMERCE|Commerce
 COURSIVE|Coursive
-CUISINE|Cuisine. Dans le cas d'une cuisine ouverte sur le salon, on dessinera l'emprise du caralage.
-DGT|Dégagement
+CUISINE|Cuisine. Dans le cas d'une cuisine ouverte sur le salon, on dessinera l'emprise du carralage.
+DEGAGEMENT JOUR|Dégagement
+DEGAGEMENT NUIT|Dégagement
+DRESSING|Dressing
 ENTREE|Entrée logement
 ESCALIER|Escalier (démarrage)
 ESCALIER|Escalier (trémie)
 GAINE|Gaine
 GAINE PALIERE|Gaine Palière
 GAINE VENTILATION|Gaine de Ventilation
-GAINE  TECHNIQUE LOGEMENT|Gaine technique logement
+GAINE TECHNIQUE LOGEMENT|Gaine technique logement
 GRENIER|Grenier
 HALL|Hall d’entrée
+JARDIN|Jardin privatif
 LOCAL COMMUN|Local commun
-LOCAL  ENCOMBRANTS|Local encombrants
+LOCAL ENCOMBRANTS|Local encombrants
 LOCAL MENAGE|Local ménage
 LOCAL NON AMENAGEABLE|Local non aménageable
 LOCAL ORDURES|Local ordures ménagères
 LOCAL POUSSETTES|Local poussettes
-LOCAL  TECHNIQUE|Local Technique en infrastructure
-LOCAL  TECHNIQUE|Local Technique en superstructure
+LOCAL TECHNIQUE|Local Technique en infrastructure
+LOCAL TECHNIQUE|Local Technique en superstructure
 LOCAL VELOS|Local vélos
-LOCAL VELOS/POUSS|Local vélos et poussettes
+LOCAL POUSSETTES|Local vélos et poussettes
 LOGGIA|Loggia
 MEZZANINE|Mezzanine
 PALIER|Palier
 PARKING|Place de parking
 PATIO|Patio
 PENDERIE|Penderie
-PLACARD / PL|Placard logement
-PLACARD TECHNIQUE / PLT|Placard technique
+PLACARD|Placard logement
+PLACARD TECHNIQUE|Placard technique
 RAMPE|Rampe
 RANGEMENT|Rangement
 RESTAURANT|Restaurant
 SALLE DE REPOS|Salle de repos
 SALLE INFORMATIQUE|Salle informatique
 SALLE REUNION|Salle de réunion
-SDB|Salle de bain
-SDE|Salle d’eau
+SALLE D'EAU SECONDAIRE|Salle d'eau secondaire
+SALLE D'EAU PRINCIPALE|Salle d'eau principale
 SEJOURS|Séjours
 SOUS STATION|Sous-Station
 STOCKAGE|Local stockage
 STUDIO|Studio
-TERRASSE|Terrasse
+TERRASSE 1|Terrasse
+TERRASSE 2|Terrasse
 TOITURE|Toiture
 VERANDA|Véranda
 VESTIAIRE|Vestiaire
 VIDE|Vide
-WC|WC
-NON DEFINI|Non défini
-
-
+WC|WC   
 
 {% else %}
 

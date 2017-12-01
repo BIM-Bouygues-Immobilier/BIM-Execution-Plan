@@ -20,7 +20,7 @@ Ces articles regroupent les recommandations de modélisation pour les architecte
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
 
-* Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/02_architecte/georeferencement-rvt-arc.md)
+* Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/00_communs/georeferencement-rvt.md)
 
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 

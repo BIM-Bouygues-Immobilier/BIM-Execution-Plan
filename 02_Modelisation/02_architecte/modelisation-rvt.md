@@ -5,6 +5,7 @@ L'article suivant présente les recommandations de modélisation pour différent
 Ces recommendations couvrent les éléments suivants:
 * [Plans de surface](#surface)
 * [Pièces](#piece)
+* [Logements](#logements)
 * [Places de parking](#parking)
 
 ## Modélisation des plans de surfaces{#surface}
@@ -72,9 +73,15 @@ Le tableau ci-dessous liste les noms de pièces à utiliser sur l'operation:
 
 {% if book.bu == "logement" %}
 
-### Logements
+## Logements{#logements}
 
-Les pièces d'un logement doivent être regroupées ensembles. Pour cela, il est nécéssaire d'ajouter les propriétés suivantes à l'aide de deux paramètres partagés :
+### Généralités
+
+Les pièces constituants un logement doivent être regroupées ensembles.
+
+### Modélisation
+
+Il est nécéssaire d'ajouter les propriétés suivantes à l'aide de deux paramètres partagés, ZoneName et ZoneDescription :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
@@ -83,9 +90,8 @@ Les pièces d'un logement doivent être regroupées ensembles. Pour cela, il est
 
 ![](/02_Modelisation/02_architecte/images/RegroupementEnLogements.png)
 
-{% include "../../00_Referentiel/TypologieDesLogements.md"  %}
-
 {% endif %}
+{% include "/00_Referentiel/TypologieDesLogements.md"  %}
 
 ## Modélisation des places de parking{#parking}
 
@@ -98,6 +104,7 @@ Les places de parking sont modélisées à l’aide d’une famille de la catég
 | Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement des places de parking. |
 
 {% if book.bu == "logement" %}
+
 ## Modélisation des murs
 
 Les propriétés suivantes sont à compléter pour tout les types de murs :
@@ -110,4 +117,5 @@ Les propriétés suivantes sont à compléter pour tout les types de murs :
 | Keynote | Suivant fichier texte joint | Cette propriété permet d'identifier le mur dans le CCTP. |
 
 {% include "../../00_Referentiel/NomDesMurs.md" %}
+
 {% endif %}
