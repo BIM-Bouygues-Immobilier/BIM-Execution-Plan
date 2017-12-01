@@ -71,6 +71,7 @@ Le tableau ci-dessous liste les noms de pièces à utiliser sur l'operation:
 {% include "../../00_Referentiel/NomDesPieces.md" %}
 
 {% if book.bu == "logement" %}
+
 ### Logements
 
 Les pièces d'un logement doivent être regroupées ensembles. Pour cela, il est nécéssaire d'ajouter les propriétés suivantes à l'aide de deux paramètres partagés :

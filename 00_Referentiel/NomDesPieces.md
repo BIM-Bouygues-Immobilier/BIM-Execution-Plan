@@ -22,7 +22,7 @@ CIRCULATION PARKING|Circulation Parking
 COMBLE|Comble aménageable
 COMMERCE|Commerce
 COURSIVE|Coursive
-CUISINE|Cuisine
+CUISINE|Cuisine. Dans le cas d'une cuisine ouverte sur le salon, on dessinera l'emprise du caralage.
 DGT|Dégagement
 ENTREE|Entrée logement
 ESCALIER|Escalier (démarrage)
@@ -60,7 +60,6 @@ SALLE REUNION|Salle de réunion
 SDB|Salle de bain
 SDE|Salle d’eau
 SEJOURS|Séjours
-SEJOURS/CUISINE|Séjours / Cuisine
 SOUS STATION|Sous-Station
 STOCKAGE|Local stockage
 STUDIO|Studio

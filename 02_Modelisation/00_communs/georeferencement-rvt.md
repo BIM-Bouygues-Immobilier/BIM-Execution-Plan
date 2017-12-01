@@ -8,31 +8,45 @@ Les prescriptions ci-dessous sont indicatives, et n’enlèvent pas au prestatai
 
 Les modèles géométriques de chaque contributeur doivent faire référence un système commun de coordonnées relatif à la position géographique.
 
+> Avertissement : On ne déplacera *jamais* le point topographique ou le point de base du projet à la main
+
 ### Partage du point d'origine
 
-1. Insérer le modèle de référence XXX\_AFFAIRE\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt. en LienRevit d’ « Origine à Origine ».
+La procédure suivante permet de réccupérer le système de coordonnées du modèle de référence (modèle du site ou modèle architecte). Cette procédure n'est à faire qu'une seule fois, au démarrage du projet.
 
-2. Tourner/déplacer le modèle dans la position souhaitée
+* Etape 1 : Liez le modèle de référence (modèle du site ou modèle architecte) en Lien Revit « Automatique - Origine à Origine ». Si le modèle est corectement placé, passez directement à l'étape 4.
 
-3. Aller dans l’onglet « gérer » ensuite « coordonnées » et choisir « importer les coordonnées »
+|Lien "Origine à Origine" | Modèle de référence lié | 
+| :---: | :---: |
+|![](/02_Modelisation/00_communs/images/georeferencement/Lier_le_modèle_de_reference_Origine_origine.png)  |![](/02_Modelisation/00_communs/images/georeferencement/modele_reference_positionne.png)  |
 
-4. Sélectionner le lien XXX\_QUADRILLAGES\_NIVEAUX\_PHASE.rvt.
+* Etape 2 : Si le modèle de référence n'est pas correctement placé, supprimez le lien, liez-le de nouveau en Lien Revit « Automatique - Centre à Centre » et passez à l'étape 3.
 
-5. Le fichier de travail Revit est alors en coordonnées partagées également.
+|Lien "Centre à Centre" | Modèle de référence lié | 
+| :---: | :---: |
+|![](/02_Modelisation/00_communs/images/georeferencement/Lier_le_modèle_de_reference_Centre_centre.png)  |![](/02_Modelisation/00_communs/images/georeferencement/Modele_Reference.png)  |
 
-## Importer et exporter
+* Etape 3 : Déplacer et tourner manuelement ce modèle de référence dans la position souhaitée, en plan et en élévation.
 
-### Importer des fichiers de référence
+|Déplacement et rotation en plan | Déplacement en élévation | 
+| :---: | :---: |
+|![](/02_Modelisation/00_communs/images/georeferencement/deplacement_plan.png)  |![](/02_Modelisation/00_communs/images/georeferencement/deplacement_elevation.png)  |
 
-Dorénavant, lorsque vous liez/importez un fichier .rvt, .dwg d’un partenaire, il faut le faire en positionnement « Automatique – A l’emplacement partagé ».
+* Etape 4 : Dans l'onglet "Gérer" (1), sélectionner "Coordonnées" (2) puis "Importer les coordonnées" (3). Cliquez alors sur le modèle de référence lié (4).
 
-| Lier un fichier .dwg |
-| :--- |
-| ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 06.PNG) |
+![](/02_Modelisation/00_communs/images/georeferencement/importer_coordonnees.png) 
 
-| Lier un fichier .rvt |
-| :--- |
-| ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 05.PNG) |
+Le système de coordonnées partagées du modèle de référence est maintenant importé dans votre modèle.
+
+## Lier et exporter
+
+### Lier des modèles
+
+Dorénavant, lorsque vous liez/importez un fichier .rvt ou .dwg provenant d’un partenaire, il faut le faire en positionnement « Automatique – A l’emplacement partagé ».
+
+| Lier un fichier .dwg | Lier un fichier .rvt |
+| :--- |:--- |
+| ![](/02_Modelisation/02_architecte/images/Coordonnées partagées 06.PNG) |![](/02_Modelisation/02_architecte/images/Coordonnées partagées 05.PNG) |
 
 ### Exporter des IFC 
 
