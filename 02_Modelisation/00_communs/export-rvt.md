@@ -26,13 +26,13 @@ Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
 | Ouvrir l’interface d’export IFC : |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_01.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_01.png) |
 
 
 
 | Ouvrir l’interface d’export IFC : |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_01.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_01.png) |
 
 ## Réglages de l’export IFC
 
@@ -40,23 +40,23 @@ Il est demandé d’effectuer les réglages suivants lors de l’export :
 
 | General |
 | :---: |
-| ![](/02_Modelisation/00_communs/images/Export_03.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_03.png) |
 
 | Additional contents |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_04.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_04.png) |
 
 | Property Sets |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_05.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_05.png) |
 
 | Level of Detail |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_06.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_06.png) |
 
 | Advanced |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_07.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_07.png) |
 
 ## Renseignement de l'adresse du projet
 
@@ -77,25 +77,25 @@ Dans l'onglet "General" de la fenêtre d'export IFC, il est également demandé 
 
 Afin que l'ensemble des catégories Revit modélisées soit exporté, il est nécessaire de modifier les catégories exportées par default en IFC :
 
-![](/02_Modelisation/00_communs/images/Export_08.png)
+![](/02_Modelisation/00_communs/images/export-rvt/Export_08.png)
 
 Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face de la catégorie Revit, comme indiqué ci-dessous :
 
 | Quadrillages = &gt; IfcGrid |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_09.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_09.png) |
 
 | Surfaces =&gt; IfcSpaces |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_10.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_10.png) |
 
 | Volumes = &gt; IfcBuildingElementProxy |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_11.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_11.png) |
 
 | Parking=&gt; IfcSpaces |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export_12.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_12.png) |
 
 # Export au format DWG, à partir de Revit {#revit2dwg}
 
@@ -106,15 +106,15 @@ L’extraction des DWG depuis Revit doit se faire :
 
 | Sélectionner "Exporter" &gt; "Format CAO" &gt; "DWG" |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export DWG 1.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export DWG 1.png) |
 
 | Ouvrir l'interface pour la modification de l'export |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export DWG 2.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export DWG 2.png) |
 
 | Sélectionner la modalité d'export en coordonnées partagées |
 | :--- |
-| ![](/02_Modelisation/00_communs/images/Export DWG 3.png) |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export DWG 3.png) |
 
 
 
