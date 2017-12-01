@@ -20,6 +20,9 @@
 | Palier | Surface des paliers en infrastructure |
 | Livraison | Surfaces des aires de livraisons couvertes et fermées |
 | Terrasse | Surfaces des balcons, terrasses, loggia, … |
+| Terrasse inaccessible | Surfaces des terrasses inaccessibles, assimilables à des
+couvertures de construction |
+| Couverture |Surfaces des couvertures et terrasses hautes
 | SDP | Surfaces restantes |
 
 {% else %}
@@ -44,6 +47,9 @@
 | Palier | Surface des paliers en infrastructure |
 | Livraison | Surfaces des aires de livraisons couvertes et fermées |
 | Terrasse | Surfaces des balcons, terrasses, loggia, … |
+| Terrasse inaccessible | Surfaces des terrasses inaccessibles, assimilables à des
+couvertures de construction |
+| Couverture |Surfaces des couvertures et terrasses hautes
 | SDP | Surfaces restantes |
 
 {% endif %}
