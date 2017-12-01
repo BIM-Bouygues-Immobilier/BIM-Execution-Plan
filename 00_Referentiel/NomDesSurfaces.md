@@ -9,6 +9,7 @@
 | Gaine Technique | Surfaces des vides et trémies qui se rattachent aux gaines techniques |
 | 180 | Surfaces d'une hauteur sous plafond inférieure ou égale à 1,80 mètre |
 | Parking | Surfaces aménagées en vue du stationnement des véhicules motorisés, hors rampes d'accès et aires de manœuvres |
+| Parking extérieur | Surfaces extérieures aménagées en vue du stationnement des véhicules motorisés, hors rampes d'accès et aires de manœuvres |
 | Parking Vélo | Surfaces aménagées en vue du stationnement des vélo |
 | Circulation | Surfaces des circulations des véhicules et aires de manœuvres |
 | Rampe | Surfaces des rampes d’accès des véhicules au parking |
@@ -36,6 +37,7 @@ couvertures de construction |
 | Gaine Technique | Surfaces des vides et trémies qui se rattachent aux gaines techniques |
 | 180 | Surfaces d'une hauteur sous plafond inférieure ou égale à 1,80 mètre |
 | Parking | Surfaces aménagées en vue du stationnement des véhicules motorisés, hors rampes d'accès et aires de manœuvres |
+| Parking extérieur | Surfaces extérieures aménagées en vue du stationnement des véhicules motorisés, hors rampes d'accès et aires de manœuvres |
 | Parking Vélo | Surfaces aménagées en vue du stationnement des vélo |
 | Circulation | Surfaces des circulations des véhicules et aires de manœuvres |
 | Rampe | Surfaces des rampes d’accès des véhicules au parking |

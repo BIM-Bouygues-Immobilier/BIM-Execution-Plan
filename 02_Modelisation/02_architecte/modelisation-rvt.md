@@ -23,7 +23,6 @@ Chaque surface dessinée dans ce plan doit alors avoir les propriétés suivante
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex.\) sont marquée « Extérieur » |
 | Nom | Voir "Noms des surfaces" ci-dessous | Cette propriété indique le type de surface, suivant la décomposition décrite ci-dessus. |
 
 ### Exemples
@@ -63,7 +62,6 @@ Les propriétés suivantes sont à compléter :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex. sont marquée « Extérieur ». |
 | Nom | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
 | Décalage limite | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local. Les propriétés « Niveau » et « Limite supérieure » doivent donc également avoir la même valeur. |
 

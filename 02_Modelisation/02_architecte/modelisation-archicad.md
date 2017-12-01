@@ -35,7 +35,6 @@ Chaque Zone dessinée doit alors avoir les propriétés suivantes :
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Catégorie de Zone | Area | Toutes les zones sont dans la catégorie Area |
-| Description | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex.\) sont marquée « Extérieur » |
 | Nom | Voir "Noms des surfaces" ci-dessous | Cette propriété indique le type de surface, suivant la décomposition décrite ci-dessus. |
 
 La propriété « Description » est accessible en faisant un clic-droit sur une zone sélectionnée (1), puis « Options Zones sélectionnées » (2), puis « Gérer propriétés IFC... » (3), puis en cochant « Description » (4). La propriété est alors disponible dans « Options Zones sélectionnées » (5):
@@ -70,7 +69,6 @@ Les propriétés suivantes sont à compléter :
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Catégorie de Zone | Rooms| Toutes les zones sont dans la catégorie Rooms |
-| Description | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement de ces surfaces. Les surfaces en terrasses \(locaux techniques par ex.\) sont marquée « Extérieur » |
 | Nom | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
 | Hauteur | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local.|
 
