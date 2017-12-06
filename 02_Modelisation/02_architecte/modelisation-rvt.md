@@ -25,6 +25,9 @@ Chaque surface dessinée dans ce plan doit alors avoir les propriétés suivante
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Nom | Voir "Noms des surfaces" ci-dessous | Cette propriété indique le type de surface, suivant la décomposition décrite ci-dessus. |
+| Commentaire | Logement, Immobilier d'Entreprise, Commerce, ... | Cette propriété indique le type de produit réalisé. |
+
+Si un niveau contient plusieurs types de produits, on divise la surface en autant de produits. Les surfaces modélisées devront couvrir l'ensemble de l'emprise du projet, à tout les niveaux.
 
 ### Exemples
 
@@ -52,6 +55,11 @@ L’ensemble des locaux du projet doivent être présents dans la maquette numé
 Les locaux doivent être représentés et décomposés en locaux fonctionnels \(Bureau, Salle de Réunion, Hall, …\), même si ces locaux appartiennent à un espace physique plus important. Par exemple, un hall et une cafétéria partageant le même espace physique devront être représentés comme deux locaux distincts.
 
 Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini. En l’absence de faux-plafonds, les locaux doivent être modélisés jusqu’à la hauteur libre prévue par le programme. Les locaux doivent être identifiés par leur nom, en suivant les valeurs du tableau "Nom des pièces" ci-dessous.
+
+
+### Pièces sous 1,80 m
+
+On découpe la pièce en séparant les espaces sous 1,80 m. On appele ces espaces "COMBLE".
 
 ### Modélisation
 
@@ -103,7 +111,7 @@ Les places de parking sont modélisées à l’aide d’une famille de la catég
 | :--- | :--- | :--- |
 | Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement des places de parking. |
 
-{% if book.bu == "logement" %}
+{% if book.bu == "logement mur" %}
 
 ## Modélisation des murs
 

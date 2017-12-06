@@ -21,10 +21,11 @@
 | Palier | Surface des paliers en infrastructure |
 | Livraison | Surfaces des aires de livraisons couvertes et fermées |
 | Terrasse | Surfaces des balcons, terrasses, loggia, … |
-| Terrasse inaccessible | Surfaces des terrasses inaccessibles, assimilables à des
-couvertures de construction |
+| Terrasse inaccessible | Surfaces des terrasses inaccessibles, assimilables à des couvertures de construction |
 | Couverture |Surfaces des couvertures et terrasses hautes
-| SDP | Surfaces restantes |
+| SDP Immobilier d'Entreprise | Surfaces restantes |
+| SDP Logement Collectif | Surfaces restantes |
+| SDP Commerce | Surfaces restantes |
 
 {% else %}
 
@@ -32,7 +33,7 @@ couvertures de construction |
 
 | Nom | Description |
 | :--- | :--- |
-| Façade | Surface correspondante à l’emprise horizontale de la façade \(la SDP est calculée au nu intérieur de la façade\) |
+| Epaisseur Façade | Surface correspondant à l’emprise horizontale de la façade \(la SDP est calculée au nu intérieur de la façade\) |
 | Gaine Ascenseur Et Escaliers | Surfaces des vides et trémies qui se rattachent aux escaliers et ascenseurs |
 | Gaine Technique | Surfaces des vides et trémies qui se rattachent aux gaines techniques |
 | 180 | Surfaces d'une hauteur sous plafond inférieure ou égale à 1,80 mètre |
@@ -49,9 +50,10 @@ couvertures de construction |
 | Palier | Surface des paliers en infrastructure |
 | Livraison | Surfaces des aires de livraisons couvertes et fermées |
 | Terrasse | Surfaces des balcons, terrasses, loggia, … |
-| Terrasse inaccessible | Surfaces des terrasses inaccessibles, assimilables à des
-couvertures de construction |
+| Terrasse inaccessible | Surfaces des terrasses inaccessibles, assimilables à des couvertures de construction |
 | Couverture |Surfaces des couvertures et terrasses hautes
-| SDP | Surfaces restantes |
+| SDP Immobilier d'Entreprise | Surfaces restantes |
+| SDP Logement Collectif | Surfaces restantes |
+| SDP Commerce | Surfaces restantes |
 
 {% endif %}

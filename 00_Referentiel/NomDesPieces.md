@@ -16,7 +16,7 @@ BUANDERIE|Buanderie
 BUREAU|Bureau
 CAVE|Cave
 CELLIER|Cellier
-CHAMBRE 1|Chambre PMR
+CHAMBRE 1|Chambre (Il s'agit de la chambre PMR si le logement en contient une)
 CHAMBRE 2|Chambre
 CHAMBRE 3|Chambre
 CHAMBRE 4|Chambre
@@ -24,7 +24,7 @@ CHAMBRE 5|Chambre
 CHAUFFERIE|Chaufferie
 CIRCULATION|Circulation commune
 CIRCULATION PARKING|Circulation Parking
-COMBLE|Comble aménageable
+COMBLE|Comble aménageable de moins de 1,80 m
 COMMERCE|Commerce
 COURSIVE|Coursive
 CUISINE|Cuisine. Dans le cas d'une cuisine ouverte sur le salon, on dessinera l'emprise du carralage.
