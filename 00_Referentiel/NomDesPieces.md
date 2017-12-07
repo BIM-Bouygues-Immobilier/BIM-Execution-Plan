@@ -31,13 +31,13 @@ CUISINE|Cuisine. Dans le cas d'une cuisine ouverte sur le salon, on dessinera l'
 DEGAGEMENT JOUR|Dégagement
 DEGAGEMENT NUIT|Dégagement
 DRESSING|Dressing
-ENTREE|Entrée logement
+ENTREE|Entrée du logement
 ESCALIER|Escalier (démarrage)
 ESCALIER|Escalier (trémie)
 GAINE|Gaine
 GAINE PALIERE|Gaine Palière
 GAINE VENTILATION|Gaine de Ventilation
-GAINE TECHNIQUE LOGEMENT|Gaine technique logement
+GAINE TECHNIQUE LOGEMENT|Gaine technique d'un logement
 GRENIER|Grenier
 HALL|Hall d’entrée
 JARDIN|Jardin privatif
@@ -47,30 +47,25 @@ LOCAL MENAGE|Local ménage
 LOCAL NON AMENAGEABLE|Local non aménageable
 LOCAL ORDURES|Local ordures ménagères
 LOCAL POUSSETTES|Local poussettes
-LOCAL TECHNIQUE|Local Technique en infrastructure
-LOCAL TECHNIQUE|Local Technique en superstructure
+LOCAL TECHNIQUE|Local Technique
 LOCAL VELOS|Local vélos
 LOCAL POUSSETTES|Local vélos et poussettes
 LOGGIA|Loggia
 MEZZANINE|Mezzanine
 PALIER|Palier
-PARKING|Place de parking
 PATIO|Patio
-PENDERIE|Penderie
-PLACARD|Placard logement
 PLACARD TECHNIQUE|Placard technique
-RAMPE|Rampe
-RANGEMENT|Rangement
+Parking|Parking
 RESTAURANT|Restaurant
 SALLE DE REPOS|Salle de repos
 SALLE INFORMATIQUE|Salle informatique
 SALLE REUNION|Salle de réunion
-SALLE D'EAU SECONDAIRE|Salle d'eau secondaire
 SALLE D'EAU PRINCIPALE|Salle d'eau principale
+SALLE D'EAU SECONDAIRE|Salle d'eau secondaire
 SEJOURS|Séjours
-SOUS STATION|Sous-Station
-STOCKAGE|Local stockage
-STUDIO|Studio
+SOUS STATION|Local Sous-Station
+STOCKAGE|Local de stockage
+STUDIO|Studio (La pièce à vivre d'un studio, à l'exclusion éventuelle de la surface carrelée correspondant à la cuisine )
 TERRASSE 1|Terrasse
 TERRASSE 2|Terrasse
 TOITURE|Toiture
