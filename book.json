@@ -1,6 +1,6 @@
 {
     "plugins": ["collapsible-chapters"],
     "variables": {
-        "bu": "ie"
+        "bu": "logement"
     }
 }
