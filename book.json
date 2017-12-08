@@ -1,12 +1,5 @@
 {
-    "plugins": ["collapsible-chapters","downloadpdf"],
-    "pluginsConfig": {
-      "downloadpdf": {
-        "base": "https://www.gitbook.com/download/pdf/book/bim-bouygues-immobilier/bim-execution-plan/v/761d0c76c2222403f0cb17082b2a8298d2eb620f",
-        "label": "Télécharger en PDF",
-        "multilingual": false
-      }
-    },  
+    "plugins": ["collapsible-chapters"],
     "variables": {
         "bu": "ie"
     }
