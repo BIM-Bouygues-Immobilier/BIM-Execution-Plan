@@ -26,7 +26,7 @@ La procédure suivante permet de réccupérer le système de coordonnées du mod
 | :---: | :---: |
 |![](/02_Modelisation/00_communs/images/georeferencement/Lier_le_modèle_de_reference_Centre_centre.png)  |![](/02_Modelisation/00_communs/images/georeferencement/Modele_Reference.png)  |
 
-* Etape 3 : Déplacer et tourner manuelement ce modèle de référence dans la position souhaitée, en plan et en élévation.
+* Etape 3 : Déplacer et tourner manuelement ce modèle de référence lié dans la position souhaitée, en plan et en élévation.
 
 |Déplacement et rotation en plan | Déplacement en élévation | 
 | :---: | :---: |

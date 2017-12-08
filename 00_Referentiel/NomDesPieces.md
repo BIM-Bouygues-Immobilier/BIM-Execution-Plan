@@ -55,7 +55,7 @@ MEZZANINE|Mezzanine
 PALIER|Palier
 PATIO|Patio
 PLACARD TECHNIQUE|Placard technique
-Parking|Parking
+PARKING|Parking
 RESTAURANT|Restaurant
 SALLE DE REPOS|Salle de repos
 SALLE INFORMATIQUE|Salle informatique

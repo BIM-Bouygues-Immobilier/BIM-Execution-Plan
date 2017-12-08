@@ -4,8 +4,8 @@ L'article suivant présente les recommandations de modélisation pour différent
 
 Ces recommendations couvrent les éléments suivants:
 * [Plans de surface](#surface)
-* [Pièces](#piece)
-* [Logements](#logements)
+* [Pièces](#piece){% if book.bu == "logement" %}
+* [Logements](#logements){% endif %}
 * [Places de parking](#parking)
 
 ## Modélisation des plans de surfaces{#surface}
@@ -61,10 +61,6 @@ Les locaux doivent être représentés et décomposés en locaux fonctionnels \(
 
 Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini. En l’absence de faux-plafonds, les locaux doivent être modélisés jusqu’à la hauteur libre prévue par le programme. Les locaux doivent être identifiés par leur nom, en suivant les valeurs du tableau "Nom des pièces" ci-dessous.
 
-### Pièces sous 1,80 m
-
-On découpe la pièce en séparant les espaces sous 1,80 m. On appele ces espaces "COMBLE".
-
 ### Modélisation
 
 Dans Revit, ces locaux doivent être modélisé à l’aide de l’outil Pièce :
@@ -76,16 +72,38 @@ Les propriétés suivantes sont à compléter :
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Nom | Voir [« Nom des pièces »](#Nom_pieces) ci-dessous | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
-| Type de revêtement | Voir [« Revêtements de sols »](#revêtements_sols) ci-dessous | Cette propriété indique le type de revêtement de sol dans la pièce. |
 | Commentaire | Voir [« Destination des pièces »](#destination_piece) ci-dessous| Cette propriété indique la destination des pièces réalisées. |
 | Décalage limite | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local. Les propriétés « Niveau » et « Limite supérieure » doivent donc également avoir la même valeur. |
+{% if book.bu == "logement" %}
+
+On completera également le revêtement de sol :
+| Propriété | Valeurs possibles | Explication |
+| :--- | :--- | :--- |
+| Finition du sol | Voir [« Revêtements de sols »](#revêtements_sols) ci-dessous | Cette propriété indique le type de revêtement de sol dans la pièce. |
+{% endif %}
+
+### Exemple
+
+{% if book.bu == "logement" %}
+![](/02_Modelisation/02_architecte/images/pieces_proprietes_logement.png)
+{% else %}
+![](/02_Modelisation/02_architecte/images/pieces_proprietes_IE.png)
+{% endif %}
+
+### Pièces sous 1,80 m
+
+On découpe la pièce en séparant les espaces sous 1,80 m. On appele ces espaces "COMBLE".
 
 ### Nom des pièces{#Nom_pieces}
 Le tableau ci-dessous liste les noms de pièces à utiliser sur l'operation:
 
 {% include "../../00_Referentiel/NomDesPieces.md" %}
 
+{% if book.bu == "logement" %}
+
 ### Revêtements de sols{#revêtements_sols}
+
+{% endif %}
 
 {% include "../../00_Referentiel/TypesDeRevetements.md" %}
 
@@ -104,7 +122,7 @@ Les pièces constituants un logement doivent être regroupées ensembles.
 
 ### Modélisation
 
-Il est nécéssaire d'ajouter les propriétés suivantes à l'aide de deux paramètres partagés, ZoneName et ZoneDescription :
+Il est nécéssaire d'ajouter les propriétés suivantes aux pièces à l'aide de trois paramètres partagés, ZoneName, ZoneObjectType et ZoneDescription :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
@@ -112,21 +130,26 @@ Il est nécéssaire d'ajouter les propriétés suivantes à l'aide de deux param
 | ZoneObjectType | Voir [« Typologie des logements »](#typologie_logement) ci-dessous | Cette propriété permet de préciser la typologie du logement (T1, T2, ...).|
 | ZoneDescription | Voir [« Collections »](#collection) ci-dessous  | Cette propriété permet de préciser la collection du logement.|
 
-![](/02_Modelisation/02_architecte/images/RegroupementEnLogements.png)
+### Exemple
 
-{% endif %}
+![](/02_Modelisation/02_architecte/images/zones_proprietes_logement.png)
+
+![](/02_Modelisation/02_architecte/images/RegroupementEnLogements.png)
 
 ### Nom des Logements{#nom_logement}
 
+{% endif %}
 {% include "/00_Referentiel/NomDesLogements.md"  %}
-
+{% if book.bu == "logement" %}
 ### Typologie des logements{#typologie_logement}
-
+{% endif %}
 {% include "/00_Referentiel/TypologieDesLogements.md"  %}
-
+{% if book.bu == "logement" %}
 ### Collections{#collection}
-
+{% endif %}
 {% include "/00_Referentiel/Collection.md"  %}
+
+
 
 ## Modélisation des places de parking{#parking}
 
