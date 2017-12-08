@@ -5,8 +5,7 @@ L'article suivant présente les recommandations de modélisation pour différent
 Ces recommendations couvrent les éléments suivants:
 * [Plans de surface](#surface)
 * [Pièces](#piece)
-{% if book.bu == "logement" %}
-* [Logements](#logements) {% end if %}
+* [Logements](#logements)
 * [Places de parking](#parking)
 
 ## Modélisation des plans de surfaces{#surface}
