@@ -28,6 +28,10 @@ Ces articles regroupent les recommandations de modélisation pour les géomètre
 
 * Dans le cas d'une intervention de réhabilitation, la modélisation du bâtiment avant curage doit respecter les recommandations décrites ici : [Modélisation avant curage](/02_Modelisation/01_geometre/modelisation-existant-batiment-rvt.md)
 
+* La modélisation du bâtiment après curage doit également respecter des recommandations, décrites ici : [Modélisation après curage](/02_Modelisation/01_geometre/modelisation-existant-batiment-rvt.md)
+
+
+
 * Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-rvt.md)
 
 ## Si vous utilisez un logiciel non décrit{#ifc}
