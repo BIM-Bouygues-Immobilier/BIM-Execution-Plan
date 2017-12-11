@@ -17,3 +17,12 @@ Le modèle de l’environnement du projet doit notamment représenter les élém
 * La modélisation en volume des constructions environnantes \(emprise au sol, hauteur, forme de la toiture, excroissances principales et significatives\)
 
 ![](/02_Modelisation/01_geometre/images/Site.PNG)
+
+## Immeubles voisins
+
+S’ils existent des conventions de cours communes avec des bâtiments voisins, il faut faire réaliser les coupes gabarits des bâtiments existants sur les propriétés riveraines au droit des cours communes. Le modèle doit comprendre : 
+-	Une modélisation pour l’élaboration des coupes-gabarits nécessaires à la vérification des prospects des bâtiments en vis-à-vis. 
+-	L’indication des points altimétriques caractéristiques rattachés au NGF pour chaque portion de façade considérée, à savoir les altitudes : 
+o	Des premiers planchers éclairés par une vue principale
+o	Des acrotères
+o	Des éventuels retraits

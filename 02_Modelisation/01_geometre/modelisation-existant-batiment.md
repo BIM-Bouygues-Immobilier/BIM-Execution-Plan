@@ -2,7 +2,7 @@
 
 ## Avant curage{#avant}
 
-Façades: 
+### Façades: 
 
 Le modèle de l’existant doit notamment représenter les éléments de façade suivants : 
 
@@ -11,19 +11,8 @@ Le modèle de l’existant doit notamment représenter les éléments de façade
 •	Tout élément de façade,
 •	Masses d’ornementation, bandeaux, gardes-corps,…
 
-
-Immeubles voisins : 
-
-S’ils existent des conventions de cours communes avec des bâtiments voisins, il faut faire réaliser les coupes gabarits des bâtiments existants sur les propriétés riveraines au droit des cours communes. Le modèle doit comprendre : 
--	Une modélisation pour l’élaboration des coupes-gabarits nécessaires à la vérification des prospects des bâtiments en vis-à-vis. 
--	L’indication des points altimétriques caractéristiques rattachés au NGF pour chaque portion de façade considérée, à savoir les altitudes : 
-o	Des premiers planchers éclairés par une vue principale
-o	Des acrotères
-o	Des éventuels retraits
-
-Intérieurs 
-Le modèle doit intégrer l’ensemble des locaux du bâtiment (sans indication de cloison légères
-) et comporter notamment: 
+### Intérieurs 
+Le modèle doit intégrer l’ensemble des locaux du bâtiment (sans indication de cloison légères) et comporter notamment: 
 -	Les murs de structure, poteaux et murs de refend,
 -	Planchers 
 -	Les trémies d’escaliers avec leur emmarchement, ascenseurs et gaines
@@ -34,8 +23,7 @@ Le modèle doit intégrer l’ensemble des locaux du bâtiment (sans indication 
 -	Altitude des planchers, des plafonds et sous retombées rattachée au Nivellement Général de France. 
 -	Epaisseurs de murs et hauteurs sous plafond ou sous faux-plafond et sous retombées de poutre
 
-
-Toiture-terrasse : 
+### Toiture-terrasse : 
 -	Sorties diverses en toiture,
 -	Souches de cheminées et de ventilations,
 -	Emprise des éléments techniques en toiture,
