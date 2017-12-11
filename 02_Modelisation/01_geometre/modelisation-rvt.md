@@ -2,7 +2,7 @@
 
 Ce article décrit les éléments attendus pour la modélisation de l’environnement du projet de construction.
 
-Les prescriptions ci-dessous sont indicatives, et n’enlèvent pas au prestataire la responsabilité de modéliser l’ensemble des éléments nécessaires à la bonne compréhension de l’environnement du projet de construction.
+>Les prescriptions ci-dessous sont indicatives, et n’enlèvent pas au prestataire la responsabilité de modéliser l’ensemble des éléments nécessaires à la bonne compréhension de l’environnement du projet de construction.
 
 Le modèle sera livré au format IFC 2X3, accompagné du modèle au format natif. L’export en IFC doit suivre les recommandations de la note jointe « Recommandations de modélisation et d'export».
 
