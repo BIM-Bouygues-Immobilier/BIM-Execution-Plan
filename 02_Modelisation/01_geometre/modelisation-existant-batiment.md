@@ -44,5 +44,11 @@ Toiture-terrasse :
 
 ## Après curage{#apres}
 
+Le modèle doit faire apparaitre : 
+-	Les murs de structure, poteaux et murs de refend
+-	Les niveaux et épaisseurs de dalles 
+-	Les déformation de dalles et poutraison (le cas échéant) seront mises en évidence
+
+
 
 
