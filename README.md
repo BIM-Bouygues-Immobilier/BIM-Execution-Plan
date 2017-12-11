@@ -1,4 +1,4 @@
-# BIM Execution Plan {% if book.bu == "logement" %}Logement{% else %}Immobilier d'Entreprise{% endif %}
+![](/assets/Logo_Paysagiste.png)# BIM Execution Plan {% if book.bu == "logement" %}Logement{% else %}Immobilier d'Entreprise{% endif %}
 
 Le BIM Execution Plan présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier sur l’ensemble de ses opération.
 Le BIM Execution Plan permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
@@ -18,7 +18,7 @@ Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur
 
 | Géomètre | Architecte | Bureau d'étude Structure | Bureau d'étude Fluide |Paysagiste |
 | :---: | :---: | :---: | :---: |:---: |
-| [![](/02_Modelisation/00_communs/images/noun_1082944_cc.png)](/02_Modelisation/01_geometre/README.md) | [![](/02_Modelisation/00_communs/images/noun_1261411_cc.png)](/02_Modelisation/02_architecte/README.md) | [![](/02_Modelisation/00_communs/images/noun_905620_cc.png)](/02_Modelisation/03_betStructure/README.md) | [![](/02_Modelisation/00_communs/images/noun_907762_cc.png)](/02_Modelisation/04_betFluide/README.md) |[![](/02_Modelisation/00_communs/images/noun_907762_cc.png)](/02_Modelisation/05_Paysagiste/README.md) |
+| [![](/02_Modelisation/00_communs/images/noun_1082944_cc.png)](/02_Modelisation/01_geometre/README.md) | [![](/02_Modelisation/00_communs/images/noun_1261411_cc.png)](/02_Modelisation/02_architecte/README.md) | [![](/02_Modelisation/00_communs/images/noun_905620_cc.png)](/02_Modelisation/03_betStructure/README.md) | [![](/02_Modelisation/00_communs/images/noun_907762_cc.png)](/02_Modelisation/04_betFluide/README.md) |[![](/02_Modelisation/00_communs/images/Logo-paysagiste.png)](/02_Modelisation/05_Paysagiste/README.md) |
 | [Recommandation de modélisation](/02_Modelisation/01_geometre/README.md) | [Recommandation de modélisation](/02_Modelisation/02_architecte/README.md) | [Recommandation de modélisation](/02_Modelisation/03_betStructure/README.md) | [Recommandation de modélisation](/02_Modelisation/04_betFluide/README.md) |[Recommandation de modélisation](/02_Modelisation/05_Paysagiste/README.md) |
 
 ## Comment échanger sur le projet?
