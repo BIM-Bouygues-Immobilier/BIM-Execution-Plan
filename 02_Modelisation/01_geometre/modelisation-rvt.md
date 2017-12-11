@@ -2,9 +2,9 @@
 
 Ce article décrit les éléments attendus pour la modélisation de l’environnement du projet de construction.
 
->Les prescriptions ci-dessous sont indicatives, et n’enlèvent pas au prestataire la responsabilité de modéliser l’ensemble des éléments nécessaires à la bonne compréhension de l’environnement du projet de construction.
+> Les prescriptions ci-dessous sont indicatives, et n’enlèvent pas au prestataire la responsabilité de modéliser l’ensemble des éléments nécessaires à la bonne compréhension de l’environnement du projet de construction.
 
-Le modèle sera livré au format IFC 2X3, accompagné du modèle au format natif. L’export en IFC doit suivre les recommandations de la note jointe « Recommandations de modélisation et d'export».
+Le modèle sera livré au format IFC 2X3, accompagné du modèle au format natif. L’export en IFC doit suivre les recommandations de la note jointe « [Recommandations de modélisation et d'export](/02_Modelisation/00_communs/export-rvt.md )».
 
 ## Modélisation du plan de masse
 
@@ -20,9 +20,17 @@ Le modèle de l’environnement du projet doit notamment représenter les élém
 
 ## Immeubles voisins
 
-S’ils existent des conventions de cours communes avec des bâtiments voisins, il faut faire réaliser les coupes gabarits des bâtiments existants sur les propriétés riveraines au droit des cours communes. Le modèle doit comprendre : 
--	Une modélisation pour l’élaboration des coupes-gabarits nécessaires à la vérification des prospects des bâtiments en vis-à-vis. 
--	L’indication des points altimétriques caractéristiques rattachés au NGF pour chaque portion de façade considérée, à savoir les altitudes : 
-o	Des premiers planchers éclairés par une vue principale
-o	Des acrotères
-o	Des éventuels retraits
+S’ils existent des conventions de cours communes avec des bâtiments voisins, il est demandé de réaliser les coupes gabarits des bâtiments existants sur les propriétés riveraines au droit des cours communes.
+
+Le modèle de l'environnement devra donc comprendre :
+
+* Une modélisation pour l’élaboration des coupes-gabarits nécessaires à la vérification des prospects des bâtiments en vis-à-vis,
+* L’indication des points altimétriques caractéristiques rattachés au NGF pour chaque portion de façade considérée, à savoir les altitudes : 
+  o    Des premiers planchers éclairés par une vue principale,
+  o    Des acrotères,
+  o    Des éventuels retraits
+
+---
+
+Image credits [here ](/CREDITS.md)
+
