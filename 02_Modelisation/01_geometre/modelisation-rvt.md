@@ -26,9 +26,9 @@ Le modèle de l'environnement devra donc comprendre :
 
 * Une modélisation pour l’élaboration des coupes-gabarits nécessaires à la vérification des prospects des bâtiments en vis-à-vis,
 * L’indication des points altimétriques caractéristiques rattachés au NGF pour chaque portion de façade considérée, à savoir les altitudes : 
-  o    Des premiers planchers éclairés par une vue principale,
-  o    Des acrotères,
-  o    Des éventuels retraits
+  * Des premiers planchers éclairés par une vue principale,
+  * Des acrotères,
+  * Des éventuels retraits
 
 ---
 

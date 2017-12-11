@@ -9,7 +9,7 @@ Le modèle de l’existant doit notamment représenter les éléments de façade
 •	Une modélisation des façades toute hauteur comprenant les ouvertures, les garde-corps, les fenêtres. 
 •	Indication de l’altitude des fenêtres, rattachée au Nivellement Général de France (ou NVP si Paris)
 •	Tout élément de façade,
-•	Masses d’ornementation, bandeaux, gardes-corps,…
+•	Masses d’ornementation, bandeaux, garde-corps,…
 
 ### Intérieurs 
 Le modèle doit intégrer l’ensemble des locaux du bâtiment (sans indication de cloison légères) et comporter notamment: 
