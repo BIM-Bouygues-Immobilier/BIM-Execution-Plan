@@ -1,6 +1,14 @@
 # Généralités
 
 L’ensemble des informations décrites ci-dessous devront être présentes dans les modèles déposés sur la plateforme d'échange au format IFC, indépendamment du logiciel de modélisation utilisé.
+L'ensemble des études des intervenants devra être réalisé au moyen de modèles numériques. 
+
+Au fur et à mesure de l’avancement des études, les Modèles Numériques seront transmis au Maître d’Ouvrage et partagés avec les autres intervenants. Ces transmissions des modèles numériques s’effectueront cumulativement au format IFC, ainsi qu’au format natif. 
+Pour connaitre le paramétrage pour l'export IFC voir: [Revit](/02_Modelisation/00_communs/export-rvt.md ) ou [Archicad](/02_Modelisation/00_communs/export-archicad.md )
+
+Chaque Modèle Numérique devra constituer le reflet des études. L’ensemble des informations transmises par les Intervenants, notamment les plans, nomenclatures ou tous autres documents, devra être extrait, dans la mesure du possible, des Modèles Numériques. 
+
+Chaque intervenant aura la responsabilité de coordonner ses Modèles Numériques avec ceux développés par les autres intervenants.
 
 ##Livrables
 
