@@ -7,30 +7,23 @@
 Dans cette phase, la structure du bâtiment est dimensionnée et calculée, permettant de valider le projet architecturale dans son ensemble. 
 Le modèle numérique structure comprend donc le positionnement de tous les objets structuraux définis en forme et nature et toute contrainte impactant les volumétries intérieures. Les concepts structurels sont définis, ainsi que les principes de sécurité incendie. 
 Les éléments permettent d’extraire des quantitatifs sommaires. 
--	Définition des équarrissages de structure
--	Elaboration de la maquette de structure comprenant les équarrissages et le calage géométrique de la structure.
-
-
-
 
 ## Phase APD
 
 A cette phase, le modèle intègre entre autre :
--	La modélisation de tous les éléments structurels, y compris les fondations, permettant de extraire des quantitatifs par élément 
--	La gestion des réservations primaires
--	L’intégration des propriétés structurelles des matériaux
--	L’intégration des informations techniques
+* La modélisation de tous les éléments structurels, y compris les fondations, permettant de extraire des quantitatifs par élément 
+* La gestion des réservations primaires
+* L’intégration des propriétés structurelles des matériaux
+* L’intégration des informations techniques
 
 ## Phase PRO/DCE
 
-Pour la phase PRO, les modèles intègrent les demandes pour la phase APD.
 La modélisation en cette phase a pour objectif celui de fournir la préparation des éléments pour les marchés de travaux.
 Le niveau de définition est suffisant pour arrêter l’ensemble des prestations. Toutes les composantes des modèles numériques sont définis, positionnées, repérées et renseignées de manière exhaustive, de façon à permettre une description détaillée de l’ouvrage.
 L’organisation des composants est faite en fonction du découpage en lots envisagé pour la consultation des entreprises.
 La modélisations doit permettre d’établir un cout prévisionnel des travaux décomposés par corps d’état, sur la base d’un avant-métré.
 
 Le modèle structurel comprend tous les objets structuraux positionnés et dimensionnés, avec renseignement des informations techniques associées. 
-La modélisation des structures est basée sur des calculs définitifs.
 
 ---
 

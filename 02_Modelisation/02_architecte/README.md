@@ -6,7 +6,7 @@ Ces informations sont ensuite exploitées afin de compléter cas d'usages BIM de
 
 | [**J'utilise Autodesk Revit**](#revit) | [**J'utilise Archicad**](#archicad) | [**J'utilise un autre logiciel**](#ifc) |
 | :---: | :---: | :---: |
-|[![](/02_Modelisation/00_communs/images/Revit.png)](#revit)|[![](/02_Modelisation/00_communs/images/archiCAD.png)](#archicad)| [![](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
+| [![](/02_Modelisation/00_communs/images/Revit.png)](#revit) | [![](/02_Modelisation/00_communs/images/archiCAD.png)](#archicad) | [![](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
 
 # Utilisation de la plateforme collaborative
 
@@ -19,13 +19,10 @@ Pour apprendre à utiliser la plateforme : [Plateforme collaborative](/03_bimsyn
 Ces articles regroupent les recommandations de modélisation pour les architectes qui utilisent le logiciel Autodesk Revit dans les opérations BIM de Bouygues Immobilier.
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
-
+* Les niveaux de modélisation requis pour les modèles architecte sont disponibles ici: [Niveaux de modélisation](/02_Modelisation/02_architecte/Niveaux-developpement-phase-ARC.md)
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/00_communs/georeferencement-rvt.md)
-
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
-
-* La modélisation de certains éléments doivent respecter des régles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_architecte/modelisation-rvt.md)
-
+* La modélisation de certains éléments doivent respecter des règles précises, décrites ici : [Recommandations de modélisation](/02_Modelisation/02_architecte/modelisation-rvt.md)
 * Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-rvt.md)
 
 # Recommandations de modélisation à l'aide d'ArchiCAD {#archicad}
@@ -33,13 +30,10 @@ Ces articles regroupent les recommandations de modélisation pour les architecte
 Ces articles regroupent les recommandations de modélisation pour les architectes qui utilisent le logiciel ArchiCAD de Graphisoft dans les opérations BIM de Bouygues Immobilier.
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
-
+* Les niveaux de modélisation requis pour les modèles architecte sont disponibles ici: [Niveaux de modélisation](/02_Modelisation/02_architecte/Niveaux-developpement-phase-ARC.md)
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Positions des modèles](/02_Modelisation/00_communs/georeferencement-archicad.md)
-
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
-
-* La modélisation de certains éléments doivent respecter des règles précises, décrites ici : [Recommendations de modélisation](/02_Modelisation/02_architecte/modelisation-archicad.md)
-
+* La modélisation de certains éléments doivent respecter des règles précises, décrites ici : [Recommandations de modélisation](/02_Modelisation/02_architecte/modelisation-archicad.md)
 * Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-archicad.md)
 
 # Si vous utilisez un logiciel non décrit {#ifc}
@@ -47,10 +41,10 @@ Ces articles regroupent les recommandations de modélisation pour les architecte
 Il est nécessaire de configurer son propre logiciel de modélisation afin de produire des fichiers IFC contenants les informations suivantes. Chaque intervenant est responsable du paramétrage du logiciel qu'il utilise.
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
-
+* Les niveaux de modélisation requis pour les modèles architecte sont disponibles ici: [Niveaux de modélisation](/02_Modelisation/02_architecte/Niveaux-developpement-phase-ARC.md)
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres.
-
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
+
 ---
 
 Image credits [here ](/CREDITS.md)

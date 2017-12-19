@@ -7,7 +7,7 @@ Pour connaitre les recommandations de modélisation pour les BET Fluides, clique
 ## Phase APS/Dépôt PC
 
 Le modèle numérique fluides comprendra les éléments suffisant pour permettre le déroulement de la pré-synthèse technique et architecturale et pour extraire des quantitatifs sommaires.
-Tout le élément impactant le volume des pièces (hauteurs sous plafond, dimensions des trémies et des locaux techniques, ...) devra, de manière générale, être intégré dans cette phase. 
+Tout élément impactant le volume des pièces (hauteurs sous plafond, dimensions des trémies et des locaux techniques, ...) devra, de manière générale, être intégré dans cette phase. 
 
 Le modèle Fluides intègre les éléments et les caractéristiques listées ci-après:
 
@@ -52,6 +52,8 @@ Le modèle Fluides intègre dans cette phase :
 * Le renseignement de l’ensemble du matériel avec les spécifications techniques \(désignation, fonction, …\)
 * L’affinement de la modélisation des réseaux, des locaux techniques, des isolants et des accessoires de gaines et de canalisations
 * L’implantation de tous les terminaux électriques
+* La caractérisation des matériaux des réseaux, des types d'isolants (CF, calorifuge, ...)
+* Le renseignement des débits sur tous les réseaux
 
 ---
 
