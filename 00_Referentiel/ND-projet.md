@@ -8,3 +8,4 @@ De manière générale, les niveaux de développement \(ND\) des maquettes numé
 
 A titre indicatif, une description des attendus souhaités par phase est détaillée dans les paragraphes suivants.
 Ces indications sont à considérer en complément de la ventilation des prestations et responsabilités fournie en annexe aux contrats des Prestataires de Maîtrise d'Oeuvre. 
+A chaque phase, les modèles doivent intégrer les indications explicités pour la phase précédente. 

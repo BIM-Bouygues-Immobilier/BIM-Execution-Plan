@@ -2,27 +2,32 @@
 
 {% include "../../00_Referentiel/ND-projet.md" %}
 
+Pour connaitre les recommandations de modélisation pour les BET Fluides, cliquez [ici](/02_Modelisation/04_betFluide/modelisation-rvt.md ). 
+
 ## Phase APS/Dépôt PC
 
-Le modèle numérique fluides comprendra les éléments suffisant pour permettre le déroulement de la présynthèse technique et architecturale et pour extraire des quantitatifs sommaires.
-Le modèle intègre à minima :
+Le modèle numérique fluides comprendra les éléments suffisant pour permettre le déroulement de la pré-synthèse technique et architecturale et pour extraire des quantitatifs sommaires.
+Tout le élément impactant le volume des pièces (hauteurs sous plafond, dimensions des trémies et des locaux techniques, ...) devra, de manière générale, être intégré dans cette phase. 
 
-* Le maquettage des principaux locaux techniques, afin de pouvoir valider le surfaces de programme
-* La modélisation des réseaux verticaux
+Le modèle Fluides intègre les éléments et les caractéristiques listées ci-après:
+
+* Les principaux locaux techniques avec matérialisation des aires d'accès/maintenance
+* Les verticalités et les sorties de trémie à tous les étages
 * La distribution des terminaux chauffage, ventilation et climatisation
-* L’implantation et l’encombrement des principaux équipements techniques
+* L’implantation et l’encombrement des principaux équipements techniques hors locaux techniques (Ventilo convecteur, UTA, rideaux d'air chaude, ballons d'eau chaude, TD,...) avec matérialisation des aires d'accès/maintenance
 * Les gaines aérauliques et hydrauliques principales horizontales sur tous les étages
-* Les gaines aérauliques et hydrauliques principales et secondaires sur les étages type et spéciaux \(tels que définis par le MOA\)
-* La modélisation de l’encombrement des équipements techniques impactant la présynthèse \(es. Clapets, … \)
-* L’affectation des réseaux et des terminaux aux systèmes
+* Les gaines aérauliques et hydrauliques principales et secondaires sur les étages type et spéciaux \(tels que définis par le MOA\), avec modélisation de l'isolation des gaines et canalisations
 * L’implantation des appareils d’éclairage
 * L’implantation des chemins des câbles sur tous les étages
-* Tout principe et information techniques impactant les volumes intérieurs.
-* La coordination avec les réseaux concessionnaire
+* Les accessoires de gaine et de canalisation ne sont pas demandés à ce stade, à l'exception des clapets coupe-feu. 
+* La coordination avec les réseaux concessionnaire avec l'implantation des points de connexion \(y compris les équipements associés\) en limite de propriétés/bâtiment
+* La modélisation des cheminement des principaux réseaux extérieurs, en coordination avec les réseaux existants
+
+> Les réseaux et les terminaux, même si déconnectés, devront être affectés aux systèmes. 
+> Pour la modélisation des équipements, des terminaux et des accessoires, il faudra privilégier l'utilisation de "familles génériques" ou "standard" plutôt que des "familles fournisseurs"
+
 
 ##Phase APD
-
-Pour la phase APD, les modèles intègrent les demandes pour la phase APS.
 
 III.3 Modèle Fluides
 Le modèle fluides intègre, entre autre:
@@ -32,7 +37,6 @@ Le modèle fluides intègre, entre autre:
 * Le bouclage en modélisation de tous les systèmes \(Tous les éléments doivent être connectés\)
 * Le positionnement des grilles en faux plafond
 * La modélisation des cheminement de l’ensemble des réseaux extérieurs en coordination avec les réseaux existants
-* Implantation des points de connexion avec les concessionnaires \(y compris équipements associés\) en limite de propriétés/bâtiment
 * Les principaux accessoires de gaine et canalisation
 * Les isolants de gaines et canalisations
 * Le renseignement des débits dans les réseaux principaux
@@ -52,6 +56,12 @@ Le modèle Fluides intègre dans cette phase :
 * Le renseignement de l’ensemble du matériel avec les spécifications techniques \(désignation, fonction, …\)
 * L’affinement de la modélisation des réseaux, des locaux techniques, des isolants et des accessoires de gaines et de canalisations
 * L’implantation de tous les terminaux électriques
+---
 
+Si vous souhaitez connaitre les niveaux de développement des autres intervenants, vous pouvez consulter:
+* Les niveaux de développement des modèles structure [ici](/02_Modelisation/03_betStructure/Niveaux-développement-phase-STR.md)
+* Les niveaux de développement des modèles architecte [ici](/02_Modelisation/02_architecte/Niveaux-développement-phase-ARC.md)
 
+---
 
+Image credits [here ](/CREDITS.md)
