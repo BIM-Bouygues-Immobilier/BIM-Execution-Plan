@@ -30,7 +30,7 @@ L’organisation des composants est faite en fonction du découpage en lots envi
 La modélisations doit permettre d’établir un cout prévisionnel des travaux décomposés par corps d’état, sur la base d’un avant-métré.
 
 Le modèle structurel comprend tous les objets structuraux positionnés et dimensionnés, avec renseignement des informations techniques associées. 
--	Modélisation des structures et calculs définitifs des structures.
+La modélisation des structures est basée sur des calculs définitifs.
 
 ---
 
