@@ -1,13 +1,17 @@
-#Les niveaux de développement par phase: les modèles Fluides (WIP)
+#Les niveaux de développement par phase: les modèles Fluides 
 
 {% include "../../00_Referentiel/ND-projet.md" %}
 
-Pour connaitre les recommandations de modélisation pour les BET Fluides, cliquez [ici](/02_Modelisation/04_betFluide/modelisation-rvt.md ). 
+> Pour connaitre les recommandations générales de modélisation pour les BET Fluides, cliquez [ici](/02_Modelisation/04_betFluide/modelisation-rvt.md ). 
 
 ## Phase APS/Dépôt PC
 
 Le modèle numérique fluides comprendra les éléments suffisant pour permettre le déroulement de la pré-synthèse technique et architecturale et pour extraire des quantitatifs sommaires.
 Tout élément impactant le volume des pièces (hauteurs sous plafond, dimensions des trémies et des locaux techniques, ...) devra, de manière générale, être intégré dans cette phase. 
+
+|Téléchargez un exemple de modèle Fluides APS | 
+| :---: | 
+|![](/02_Modelisation/04_betFluide/images/FLU_APS.PNG)|
 
 Le modèle Fluides intègre les éléments et les caractéristiques listées ci-après:
 
@@ -26,7 +30,7 @@ Le modèle Fluides intègre les éléments et les caractéristiques listées ci-
 
 > Les réseaux et les terminaux, même si déconnectés, devront être affectés aux systèmes. 
 > Pour la modélisation des équipements, des terminaux et des accessoires, il faudra privilégier l'utilisation de "familles génériques" ou "standard" plutôt que des "familles fournisseurs"
-> A ce stade, il est possible d'utiliser des canalisations génériques dans caractérisation 
+> La modélisation des espaces n'est pas demandées et elle est laissée à discrétion du bureau d'étude, qui pourra les intégrer de façon cohérente avec les pièces du modèle architecte.
 
 
 ##Phase APD

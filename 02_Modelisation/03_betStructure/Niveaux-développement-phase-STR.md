@@ -2,6 +2,8 @@
 
 {% include "../../00_Referentiel/ND-projet.md" %}
 
+> Pour connaitre les recommandations générales de modélisation pour les BET Structure, cliquez [ici](/02_Modelisation/03_betStructure/modelisation-rvt.md ). 
+
 ## Phase APS/Dépôt PC
 
 Dans cette phase, la structure du bâtiment est dimensionnée et calculée, permettant de valider le projet architecturale dans son ensemble. 
