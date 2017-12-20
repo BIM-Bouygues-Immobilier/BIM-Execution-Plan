@@ -2,7 +2,7 @@
 
 {% include "../../00_Referentiel/ND-projet.md" %}
 
-Pour connaitre les recommandations de modélisation pour les BET Fluides, cliquez [ici](/02_Modelisation/04_betFluide/modelisation-rvt.md ). 
+Pour connaitre les recommandations générales de modélisation pour les BET Fluides, cliquez [ici](/02_Modelisation/04_betFluide/modelisation-rvt.md ). 
 
 ## Phase APS/Dépôt PC
 
@@ -26,7 +26,7 @@ Le modèle Fluides intègre les éléments et les caractéristiques listées ci-
 
 > Les réseaux et les terminaux, même si déconnectés, devront être affectés aux systèmes. 
 > Pour la modélisation des équipements, des terminaux et des accessoires, il faudra privilégier l'utilisation de "familles génériques" ou "standard" plutôt que des "familles fournisseurs"
-> A ce stade, il est possible d'utiliser des canalisations génériques dans caractérisation 
+> La modélisation des espaces n'est pas demandées et elle est laissée à discrétion du bureau d'étude, qui pourra les intégrer de façon cohérente avec les pièces du modèle architecte.
 
 
 ##Phase APD
