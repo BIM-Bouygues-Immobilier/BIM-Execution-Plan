@@ -9,9 +9,9 @@
 Le modèle numérique fluides comprendra les éléments suffisant pour permettre le déroulement de la pré-synthèse technique et architecturale et pour extraire des quantitatifs sommaires.
 Tout élément impactant le volume des pièces (hauteurs sous plafond, dimensions des trémies et des locaux techniques, ...) devra, de manière générale, être intégré dans cette phase. 
 
-|Téléchargez un exemple de modèle Fluides APS/PC | 
+|[Téléchargez un exemple de modèle Fluides APS/PC](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_APS.zip) | 
 | :---: | 
-|![](/02_Modelisation/04_betFluide/images/FLU_APS.PNG)|
+|[![](/02_Modelisation/04_betFluide/images/FLU_APS.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_APS.zip)|
 
 Le modèle Fluides intègre les éléments et les caractéristiques listées ci-après:
 
