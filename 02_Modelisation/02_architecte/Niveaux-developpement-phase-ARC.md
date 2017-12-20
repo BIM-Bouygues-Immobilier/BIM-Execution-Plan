@@ -2,6 +2,8 @@
 
 {% include "../../00_Referentiel/ND-projet.md" %}
 
+> Pour connaitre les recommandations générales de modélisation pour les Architectes, cliquez [ici](/02_Modelisation/02_architecte/modelisation-rvt.md ). 
+
 ## Phase APS/Dépôt PC
 
 A cette phase, tous les volumes du projet sont définis géométriquement, ainsi que les trames de structure et de façade.
