@@ -9,7 +9,7 @@
 Le modèle numérique fluides comprendra les éléments suffisant pour permettre le déroulement de la pré-synthèse technique et architecturale et pour extraire des quantitatifs sommaires.
 Tout élément impactant le volume des pièces (hauteurs sous plafond, dimensions des trémies et des locaux techniques, ...) devra, de manière générale, être intégré dans cette phase. 
 
-|Téléchargez un exemple de modèle Fluides APS | 
+|Téléchargez un exemple de modèle Fluides APS/PC | 
 | :---: | 
 |![](/02_Modelisation/04_betFluide/images/FLU_APS.PNG)|
 
@@ -35,6 +35,10 @@ Le modèle Fluides intègre les éléments et les caractéristiques listées ci-
 
 ##Phase APD
 
+|Téléchargez un exemple de modèle Fluides APD | 
+| :---: | 
+|![](/02_Modelisation/04_betFluide/images/FLU_APD.PNG)|
+
 Le modèle Fluides intègre, entre autre, les éléments et les caractéristiques listées ci-après:
 * Le maquettage des tous les locaux techniques, des réseaux aérauliques, hydrauliques, gravitaires, chemins de câble primaires et secondaires sur tous les étages
 * Le bouclage en modélisation de tous les systèmes \(=Tous les éléments doivent être connectés\)
@@ -47,6 +51,10 @@ Le modèle Fluides intègre, entre autre, les éléments et les caractéristique
 * La gestion des réservations primaires
 
 ## Phase PRO/DCE
+
+|Téléchargez un exemple de modèle Fluides PRO/DCE | 
+| :---: | 
+|![](/02_Modelisation/04_betFluide/images/FLU_PRO.PNG)|
 
 La modélisation en cette phase a pour objectif celui de fournir la préparation des éléments pour les marchés de travaux.
 Le niveau de définition est suffisant pour arrêter l’ensemble des prestations. Toutes les composantes des modèles numériques sont définis, positionnées, repérées et renseignées de manière exhaustive, de façon à permettre une description détaillée de l’ouvrage.
