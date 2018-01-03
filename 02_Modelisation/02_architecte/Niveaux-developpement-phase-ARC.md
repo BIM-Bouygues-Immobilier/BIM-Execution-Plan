@@ -11,7 +11,7 @@ Toutes les informations nécessaires à la vérification du respect des contrain
 
 |Téléchargez un exemple de modèle architecte APS/PC | 
 | :---: | 
-||
+|![](/02_Modelisation/02_architecte/images/ARC_APS.PNG)|
 
 Le modèle architecte comprend, entre autre :
 
@@ -30,7 +30,7 @@ Pour savoir comment modéliser correctement des locaux, des surfaces et des park
 
 |Téléchargez un exemple de modèle Architecte APD | 
 | :---: | 
-||
+|![](/02_Modelisation/02_architecte/images/ARC_APD.PNG)|
 
 Dans cette phase, le modèle architecte intègre notamment :
 
@@ -50,7 +50,7 @@ La modélisations doit permettre d’établir un cout prévisionnel des travaux 
 
 |Téléchargez un exemple de modèle Structure PRO | 
 | :---: | 
-||
+|![](/02_Modelisation/02_architecte/images/ARC_PRO.PNG)|
 
 Le modèle architecte intègre la modélisation et les renseignements des enveloppes, des ouvrages intérieures et, en général, de tous les éléments de second œuvre, en terme de géométrie, désignation, nature, composition, performances, propriétés physiques, calepinages.  
 En ce qui concerne les ouvrages intérieures, de plus, on voit figurer les faux planchers, les revêtements et habillages, les aménagements.
