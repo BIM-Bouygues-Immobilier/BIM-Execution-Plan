@@ -22,10 +22,6 @@ A cette phase, le modèle intègre entre autre :
 * L’intégration des propriétés structurelles des matériaux
 * L’intégration des informations techniques
 
-|Téléchargez un exemple de modèle Structure APD | 
-| :---: | 
-|![](/02_Modelisation/03_betStructure/images/STR_APD.PNG)|
-
 ## Phase PRO/DCE
 
 La modélisation en cette phase a pour objectif celui de fournir la préparation des éléments pour les marchés de travaux.

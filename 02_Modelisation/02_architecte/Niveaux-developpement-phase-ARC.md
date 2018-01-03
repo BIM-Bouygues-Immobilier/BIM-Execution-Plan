@@ -9,9 +9,9 @@
 A cette phase, tous les volumes du projet sont définis géométriquement, ainsi que les trames de structure et de façade.
 Toutes les informations nécessaires à la vérification du respect des contraintes imposées par le PLU et par le programme et permettant d’extraire des quantitatifs sommaires sont modélisées. 
 
-|Téléchargez un exemple de modèle architecte APS/PC | 
+|[Téléchargez un exemple de modèle architecte APS/PC](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/ARC_APS.zip) | 
 | :---: | 
-|![](/02_Modelisation/02_architecte/images/ARC_APS.PNG)|
+|[![](/02_Modelisation/02_architecte/images/ARC_APS.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/ARC_APS.zip)|
 
 Le modèle architecte comprend, entre autre :
 

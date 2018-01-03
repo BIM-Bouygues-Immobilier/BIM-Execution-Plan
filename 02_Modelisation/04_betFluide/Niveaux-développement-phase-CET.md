@@ -35,10 +35,6 @@ Le modèle Fluides intègre les éléments et les caractéristiques listées ci-
 
 ##Phase APD
 
-|Téléchargez un exemple de modèle Fluides APD | 
-| :---: | 
-|![](/02_Modelisation/04_betFluide/images/FLU_APD.PNG)|
-
 Le modèle Fluides intègre, entre autre, les éléments et les caractéristiques listées ci-après:
 * Le maquettage des tous les locaux techniques, des réseaux aérauliques, hydrauliques, gravitaires, chemins de câble primaires et secondaires sur tous les étages
 * Le bouclage en modélisation de tous les systèmes \(=Tous les éléments doivent être connectés\)
