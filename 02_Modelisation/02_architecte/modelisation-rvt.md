@@ -77,6 +77,7 @@ Les propriétés suivantes sont à compléter :
 {% if book.bu == "logement" %}
 
 On completera également le revêtement de sol :
+
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Finition du sol | Voir [« Revêtements de sols »](#revêtements_sols) ci-dessous | Cette propriété indique le type de revêtement de sol dans la pièce. |
