@@ -35,10 +35,6 @@ Le modèle Fluides intègre les éléments et les caractéristiques listées ci-
 
 ##Phase APD
 
-|Téléchargez un exemple de modèle Fluides APD | 
-| :---: | 
-|![](/02_Modelisation/04_betFluide/images/FLU_APD.PNG)|
-
 Le modèle Fluides intègre, entre autre, les éléments et les caractéristiques listées ci-après:
 * Le maquettage des tous les locaux techniques, des réseaux aérauliques, hydrauliques, gravitaires, chemins de câble primaires et secondaires sur tous les étages
 * Le bouclage en modélisation de tous les systèmes \(=Tous les éléments doivent être connectés\)
@@ -52,9 +48,9 @@ Le modèle Fluides intègre, entre autre, les éléments et les caractéristique
 
 ## Phase PRO/DCE
 
-|Téléchargez un exemple de modèle Fluides PRO/DCE | 
+|[Téléchargez un exemple de modèle Fluides PRO/DCE](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_PRO.zip) | 
 | :---: | 
-|![](/02_Modelisation/04_betFluide/images/FLU_PRO.PNG)|
+|[![](/02_Modelisation/04_betFluide/images/FLU_PRO.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_PRO.zip)|
 
 La modélisation en cette phase a pour objectif celui de fournir la préparation des éléments pour les marchés de travaux.
 Le niveau de définition est suffisant pour arrêter l’ensemble des prestations. Toutes les composantes des modèles numériques sont définis, positionnées, repérées et renseignées de manière exhaustive, de façon à permettre une description détaillée de l’ouvrage.

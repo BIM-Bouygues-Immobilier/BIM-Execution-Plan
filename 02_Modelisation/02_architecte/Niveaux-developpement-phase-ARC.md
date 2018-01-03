@@ -8,6 +8,11 @@
 
 A cette phase, tous les volumes du projet sont définis géométriquement, ainsi que les trames de structure et de façade.
 Toutes les informations nécessaires à la vérification du respect des contraintes imposées par le PLU et par le programme et permettant d’extraire des quantitatifs sommaires sont modélisées. 
+
+|[Téléchargez un exemple de modèle architecte APS/PC](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/ARC_APS.zip) | 
+| :---: | 
+|[![](/02_Modelisation/02_architecte/images/ARC_APS.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/ARC_APS.zip)|
+
 Le modèle architecte comprend, entre autre :
 
 * La modélisation des surfaces pour le calcul de la SDP/SUBL/... 
@@ -22,6 +27,10 @@ Pour savoir comment modéliser correctement des locaux, des surfaces et des park
 
 
 ## Phase APD
+
+|Téléchargez un exemple de modèle Architecte APD | 
+| :---: | 
+|![](/02_Modelisation/02_architecte/images/ARC_APD.PNG)|
 
 Dans cette phase, le modèle architecte intègre notamment :
 
@@ -38,6 +47,10 @@ La modélisation en cette phase a pour objectif celui de fournir la préparation
 Le niveau de définition est suffisant pour arrêter l’ensemble des prestations. Toutes les composantes des modèles numériques sont définis, positionnées, repérées et renseignées de manière exhaustive, de façon à permettre une description détaillée de l’ouvrage.
 L’organisation des composants est faite en fonction du découpage en lots envisagé pour la consultation des entreprises.
 La modélisations doit permettre d’établir un cout prévisionnel des travaux décomposés par corps d’état, sur la base d’un avant-métré.
+
+|Téléchargez un exemple de modèle Structure PRO | 
+| :---: | 
+|![](/02_Modelisation/02_architecte/images/ARC_PRO.PNG)|
 
 Le modèle architecte intègre la modélisation et les renseignements des enveloppes, des ouvrages intérieures et, en général, de tous les éléments de second œuvre, en terme de géométrie, désignation, nature, composition, performances, propriétés physiques, calepinages.  
 En ce qui concerne les ouvrages intérieures, de plus, on voit figurer les faux planchers, les revêtements et habillages, les aménagements.
