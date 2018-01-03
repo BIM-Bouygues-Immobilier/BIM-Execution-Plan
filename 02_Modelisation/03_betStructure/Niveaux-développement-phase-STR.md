@@ -12,7 +12,7 @@ Les éléments permettent d’extraire des quantitatifs sommaires.
 
 |Téléchargez un exemple de modèle Structure APS/PC | 
 | :---: | 
-||
+|![](/02_Modelisation/03_betStructure/images/STR_APS.PNG)|
 
 ## Phase APD
 
@@ -24,7 +24,7 @@ A cette phase, le modèle intègre entre autre :
 
 |Téléchargez un exemple de modèle Structure APD | 
 | :---: | 
-||
+|![](/02_Modelisation/03_betStructure/images/STR_APD.PNG)|
 
 ## Phase PRO/DCE
 
@@ -35,7 +35,7 @@ La modélisations doit permettre d’établir un cout prévisionnel des travaux 
 
 |Téléchargez un exemple de modèle Structure PRO | 
 | :---: | 
-||
+|![](/02_Modelisation/03_betStructure/images/STR_PRO.PNG)|
 
 Le modèle structurel comprend tous les objets structuraux positionnés et dimensionnés, avec renseignement des informations techniques associées. 
 
