@@ -28,9 +28,9 @@ Pour savoir comment modéliser correctement des locaux, des surfaces et des park
 
 ## Phase APD
 
-|Téléchargez un exemple de modèle Architecte APD | 
+|[Téléchargez un exemple de modèle Architecte APD](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/ARC_APD.zip) | 
 | :---: | 
-|![](/02_Modelisation/02_architecte/images/ARC_APD.PNG)|
+|[![](/02_Modelisation/02_architecte/images/ARC_APD.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/ARC_APD.zip)|
 
 Dans cette phase, le modèle architecte intègre notamment :
 
@@ -48,9 +48,9 @@ Le niveau de définition est suffisant pour arrêter l’ensemble des prestation
 L’organisation des composants est faite en fonction du découpage en lots envisagé pour la consultation des entreprises.
 La modélisations doit permettre d’établir un cout prévisionnel des travaux décomposés par corps d’état, sur la base d’un avant-métré.
 
-|Téléchargez un exemple de modèle Structure PRO | 
+|[Téléchargez un exemple de modèle Structure PRO](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/ARC_PRO.zip) | 
 | :---: | 
-|![](/02_Modelisation/02_architecte/images/ARC_PRO.PNG)|
+|[![](/02_Modelisation/02_architecte/images/ARC_PRO.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/ARC_PRO.zip)|
 
 Le modèle architecte intègre la modélisation et les renseignements des enveloppes, des ouvrages intérieures et, en général, de tous les éléments de second œuvre, en terme de géométrie, désignation, nature, composition, performances, propriétés physiques, calepinages.  
 En ce qui concerne les ouvrages intérieures, de plus, on voit figurer les faux planchers, les revêtements et habillages, les aménagements.

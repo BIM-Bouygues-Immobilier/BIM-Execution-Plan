@@ -1,4 +1,4 @@
-#Les niveaux de développement par phase (wip)
+#Les niveaux de développement par phase: les modèles structure
 
 {% include "../../00_Referentiel/ND-projet.md" %}
 
@@ -15,6 +15,10 @@ Les éléments permettent d’extraire des quantitatifs sommaires.
 |[![](/02_Modelisation/03_betStructure/images/STR_APS.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/03_betStructure/STR_APS.zip)|
 
 ## Phase APD
+
+|[Téléchargez un exemple de modèle Structure APD](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/03_betStructure/STR_APD.zip)|
+|:---:|
+|[![](/02_Modelisation/03_betStructure/images/STR_APD.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/03_betStructure/STR_APD.zip)|
 
 A cette phase, le modèle intègre entre autre :
 * La modélisation de tous les éléments structurels, y compris les fondations, permettant de extraire des quantitatifs par élément 
