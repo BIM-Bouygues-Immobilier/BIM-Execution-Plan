@@ -9,7 +9,7 @@
 Le modèle numérique fluides comprendra les éléments suffisant pour permettre le déroulement de la pré-synthèse technique et architecturale et pour extraire des quantitatifs sommaires.
 Tout élément impactant le volume des pièces (hauteurs sous plafond, dimensions des trémies et des locaux techniques, ...) devra, de manière générale, être intégré dans cette phase. 
 
-|[Téléchargez un exemple de modèle Fluides APS/PC](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_APS.zip) | 
+|[Téléchargez un exemple de modèle CET APS/PC](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_APS.zip) | 
 | :---: | 
 |[![](/02_Modelisation/04_betFluide/images/FLU_APS.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_APS.zip)|
 
@@ -48,9 +48,11 @@ Le modèle Fluides intègre, entre autre, les éléments et les caractéristique
 
 ## Phase PRO/DCE
 
-|[Téléchargez un exemple de modèle Fluides PRO/DCE](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_PRO.zip) | 
+|[Téléchargez un exemple de modèle Fluides PRO/DCE](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/FLU_PRO.zip) | 
 | :---: | 
-|[![](/02_Modelisation/04_betFluide/images/FLU_PRO.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_PRO.zip)|
+|[![](/02_Modelisation/04_betFluide/images/FLU_PRO.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/FLU_PRO.zip)|
+|[**Téléchargez un exemple de modèle Electricité PRO/DCE**](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/ELE_PRO.zip)|
+|[![](/02_Modelisation/04_betFluide/images/ELE_PRO.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/ELE_PRO.zip)|
 
 La modélisation en cette phase a pour objectif celui de fournir la préparation des éléments pour les marchés de travaux.
 Le niveau de définition est suffisant pour arrêter l’ensemble des prestations. Toutes les composantes des modèles numériques sont définis, positionnées, repérées et renseignées de manière exhaustive, de façon à permettre une description détaillée de l’ouvrage.
