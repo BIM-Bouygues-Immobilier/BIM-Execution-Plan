@@ -39,7 +39,7 @@ Dans cette phase, le modèle architecte intègre notamment :
 * L’intégration des informations concertantes les menuiseries intérieures et extérieures
 * Les informations nécessaires pour l’extraction de quantitatifs par élément
 * Les éléments structurels
-* La gestion des réservations primaires
+* La gestion des réservations primaires 
 
 ## Phase PRO/DCE
 
