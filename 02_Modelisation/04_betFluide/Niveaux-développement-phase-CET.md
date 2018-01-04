@@ -34,6 +34,9 @@ Le modèle Fluides intègre les éléments et les caractéristiques listées ci-
 
 
 ##Phase APD
+|[Téléchargez un exemple de modèle Fluides APD](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CVC_APD.zip)|
+|:---:|
+|[![](/02_Modelisation/04_betFluide/images/FLU_APD.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CVC_APD.zip) |
 
 Le modèle Fluides intègre, entre autre, les éléments et les caractéristiques listées ci-après:
 * Le maquettage des tous les locaux techniques, des réseaux aérauliques, hydrauliques, gravitaires, chemins de câble primaires et secondaires sur tous les étages
