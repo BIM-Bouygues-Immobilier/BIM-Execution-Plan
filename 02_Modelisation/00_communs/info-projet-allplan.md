@@ -9,7 +9,7 @@ Les informations du projet doivent être renseigné dans le logiciel Allplan au 
 * Ouvrir les attributs du projet
 ![](/02_Modelisation/00_communs/images/Info projet Allplan 3.PNG)
 
-NOTA les propriétés renseignées sortent dans un property set à part "attribus projet"
+NOTA les propriétés renseignées sortent dans un IfcPropertySet "attribus projet" du IfcOwnerHistory
 
 
 
