@@ -23,7 +23,7 @@ Ces articles regroupent les recommandations de modélisation pour les bureaux d'
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/00_communs/georeferencement-rvt.md)
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 * Les indications pour la modélisation des réseaux : [Modélisation des réseaux](/02_Modelisation/04_betFluide/modelisation-rvt.md)
-* Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-rvt.md)
+* Enfin, on précise les paramètres d'exports aux format IFC [Exports](/02_Modelisation/00_communs/export-rvt.md) et la méthodologie pour importer les fichiers IFC des autres intervenants [Import](/02_Modelisation/00_communs/Import-IFC-rvt.md)
 
 # Si vous utilisez un logiciel non décrit {#ifc}
 
