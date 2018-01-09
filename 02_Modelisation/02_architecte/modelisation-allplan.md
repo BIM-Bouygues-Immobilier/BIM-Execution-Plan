@@ -4,17 +4,17 @@ L'article suivant présente les recommandations de modélisation pour différent
 
 ## Modélisation des pièces
 
-Dans Allplan l'objet "Pièce" devra être utilisé pour créer deux jeux de modélisation:
-* [Un jeu de pièces pour le calcul de la SUBL, SUBB et SUN](#Utile), en précisant la décomposition des surfaces des fonctions des locaux. 
-* [Un jeu de pièces pour le calcul de la SHOB, SHON et SDP](#SDP), en dessinant les différents types de surfaces du projet
+Dans Allplan, l'objet "Pièce" devra être utilisé pour créer deux jeux de modélisation:
+* [Un jeu de pièces pour le calcul des surfaces utiles](#Utile), en précisant la décomposition des surfaces des fonctions des locaux. 
+* [Un jeu de pièces pour le calcul de la surface de plancher](#SDP), en dessinant les différents types de surfaces du projet
 
-La modélisation des pièces se fait à l’aide de l’outil "Pièce", qui se trouve dans la palette "Métrées: pièces, surfaces, étages" :
+La modélisation des pièces se fait à l’aide de l’outil "Pièce", qui se trouve dans la palette "Architecture_Revêtement", onglet "Métrées: pièces, surfaces, étages" :
 
 ![](/02_Modelisation/02_architecte/images/ROOM6.PNG)
 
 ### ... pour le calcul des surfaces utiles {#Utile}
 
-Les Surfaces Utiles Brutes Locatives \(SUBL\), Surfaces Utiles Brutes Bureaux \(SUBB\), Surfaces Utiles Nettes \(SUN\) et Surfaces Nettes Bureaux \(SNB\) sont donc calculées à partir d'un jeu de modélisation de pièces à part dans le quel chaque local du projet sera présent. 
+Les Surfaces Utiles Brutes Locatives \(SUBL\), Surfaces Utiles Brutes Bureaux \(SUBB\), Surfaces Utiles Nettes \(SUN\) et Surfaces Nettes Bureaux \(SNB\) sont donc calculées à partir d'un jeu de modélisation de pièces à part, dans le quel chaque local du projet sera présent. 
 
 En plus des locaux « nobles » du programme, cette modélisation doit inclure tous les autres types de locaux, tel que les circulations, les locaux techniques, les gaines techniques, …
 
@@ -31,6 +31,7 @@ Les propriétés suivantes sont ensuite à compléter:
 
 Le nom des pièces devra être associé à la propriété "Fonction" et, si une numérotation des pièces est mise en place, cela devra être associée à la propriété "Désignation/Qualité".
 ![](/02_Modelisation/02_architecte/images/ROOM1.PNG)
+
 Le nom de la pièce sera obligatoirement choisi parmi la liste suivante:
 
 {% include "../../00_Referentiel/NomDesSurfaces.md"  %}
