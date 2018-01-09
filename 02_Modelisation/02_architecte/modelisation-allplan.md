@@ -4,13 +4,13 @@ L'article suivant présente les recommandations de modélisation pour différent
 
 ## Modélisation des pièces
 
-Dans Allplan, ces locaux doivent être modélisé à l’aide de l’outil "Pièce", qui se trouve dans la palette "Métrées: pièces, surfaces, étages" :
-
-![](/02_Modelisation/02_architecte/images/ROOM6.PNG)
-
-L'objet "Pièce" doit être utilisé pour créer deux jeux de modélisation:
+Dans Allplan l'objet "Pièce" devra être utilisé pour créer deux jeux de modélisation:
 * [Un jeu de pièces pour le calcul de la SUBL, SUBB et SUN](#Utile), en précisant la décomposition des surfaces des fonctions des locaux. 
 * [Un jeu de pièces pour le calcul de la SHOB, SHON et SDP](#SDP), en dessinant les différents types de surfaces du projet
+
+La modélisation des pièces se fait à l’aide de l’outil "Pièce", qui se trouve dans la palette "Métrées: pièces, surfaces, étages" :
+
+![](/02_Modelisation/02_architecte/images/ROOM6.PNG)
 
 ### ... pour le calcul des surfaces utiles {#Utile}
 
