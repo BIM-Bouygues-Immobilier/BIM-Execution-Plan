@@ -23,7 +23,7 @@ Ces articles regroupent les recommandations de modélisation pour les architecte
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/00_communs/georeferencement-rvt.md)
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 * La modélisation de certains éléments doivent respecter des règles précises, décrites ici : [Recommandations de modélisation](/02_Modelisation/02_architecte/modelisation-rvt.md)
-* Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-rvt.md)
+* Enfin, on précise les paramètres d'exports aux format IFC [Exports](/02_Modelisation/00_communs/export-rvt.md) et la méthodologie pour importer les fichiers IFC des autres intervenants [Import](/02_Modelisation/00_communs/Import-IFC-rvt.md)
 
 # Recommandations de modélisation à l'aide d'ArchiCAD {#archicad}
 
@@ -45,7 +45,7 @@ Ces articles regroupent les recommandations de modélisation pour les architecte
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Positions des modèles](/02_Modelisation/00_communs/georeferencement-allplan.md)
 * Les modèles déposés sur bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-allplan.md)
 * La modélisation de certains éléments doivent respecter des règles précises, décrites ici : [Recommandations de modélisation](/02_Modelisation/02_architecte/modelisation-allplan.md)
-* Enfin, on précise les paramètres d'exports aux format IFC: [Exports](/02_Modelisation/00_communs/export-allplan.md)
+* Enfin, on précise les paramètres d'export et import aux format IFC: [Export](/02_Modelisation/00_communs/export-allplan.md) / [Import](/02_Modelisation/00_communs/import-allplan.md)
 
 # Si vous utilisez un logiciel non décrit {#ifc}
 

@@ -1,4 +1,4 @@
-#Les niveaux de développement par phase: les modèles Architecte WIP
+#Les niveaux de développement par phase: les modèles Architecte
 
 {% include "../../00_Referentiel/ND-projet.md" %}
 

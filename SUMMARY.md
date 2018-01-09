@@ -25,7 +25,7 @@
     * [Revit](/02_Modelisation/02_architecte/README.md#revit )
       * [Généralités](02_Modelisation/00_communs/generalites.md)
       * [Informations du projet](02_Modelisation/00_communs/info-projet-rvt.md )
-      * [Géoréférencement](02_Modelisation/00_communs/georeferencement-rvt.md)
+      * [Géoréférencement](02_Modelisation/02_architecte/georeferencement-rvt-arc.md)
       * [Modélisation des éléments](02_Modelisation/02_architecte/modelisation-rvt.md)
       * [Exporter des IFC](02_Modelisation/00_communs/export-rvt.md)
       * [Importer des IFC](/02_Modelisation/00_communs/Import-IFC-rvt.md)
