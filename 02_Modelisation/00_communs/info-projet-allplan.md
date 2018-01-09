@@ -18,6 +18,27 @@ Il est aussi possible d'accéder aux "Attributs du projet" via la commande "Ouvr
 Les "Attributs de projet" devront être complétés en suivant le schéma qui suit:
 ![](/02_Modelisation/00_communs/images/ALLPLANINFO3.png)
 
+| Groupe et nom de la propriété | Valeur |
+| :---: | :---: |
+| Général |  |
+| Gestion du patrimoine |  |
+| Information sur le site |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
