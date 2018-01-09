@@ -1,15 +1,23 @@
 # Renseignement des informations du projet
 
-Les informations du projet doivent être renseigné dans le logiciel Allplan au démarrage du projet selon la méthode suivante. 
-
-* Dans l'espace de mise en page des plans, sélectionner la commande "Ouvrir sur la base du projet: plans" (1) et ensuite ouvrir les "Attributs du plan et du projet" (2).
+Les informations du projet doivent être renseigné dans le logiciel Allplan au démarrage du projet dans la palette des "Attributs du projet".
+Cet espace est accessible depuis la mise en page des plans, avec la sélection de la commande "Ouvrir sur la base du projet: plans" (1) et ensuite "Attributs du plan et du projet" (2).
 
 ![](/02_Modelisation/00_communs/images/Info projet Allplan 2.png)
 
-* Ouvrir les attributs du projet
+Ouvrir les attributs du projet: 
+
 ![](/02_Modelisation/00_communs/images/Info projet Allplan 3.PNG)
 
-NOTA les propriétés renseignées sortent dans un IfcPropertySet "attribus projet" du IfcOwnerHistory
+Il est aussi possible d'accéder aux "Attributs du projet" via la commande "Ouvrir un nouveau projet" (1), en ouvrant les propriétés du projet (3) avec la touche droite (2) et ensuite en sélectionnant "Affecter les attributs". 
+
+![](/02_Modelisation/00_communs/images/ALLPLANINFO1.png)
+
+![](/02_Modelisation/00_communs/images/ALLPLANINFO2.png)
+
+Les "Attributs de projet" devront être complétés en suivant le schéma qui suit:
+![](/02_Modelisation/00_communs/images/ALLPLANINFO3.png)
+
 
 
 
