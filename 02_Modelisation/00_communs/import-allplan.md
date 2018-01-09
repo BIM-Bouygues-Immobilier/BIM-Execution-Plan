@@ -4,9 +4,10 @@ Cet article décrit la procédure d'importation d'un fichier IFC dans un projet 
 
 ## Procédure d’importation
 
-Pour importer un fichier au format IFC:
+Pour importer un fichier au format IFC dans Allplan:
 
 * Aller dans le browser de projet et choisir la commande "Importer" et ensuite "Importer des données IFC"
+
 ![](/02_Modelisation/00_communs/images/ALLPLANIMP1.png)
 
 * Choisir le fichier .IFC à importer et modifier si besoin les paramètres supplémentaires d'export
@@ -19,7 +20,7 @@ Pour importer un fichier au format IFC:
 
 ![](/02_Modelisation/00_communs/images/ALLPLANIMP4.png)
 
-* L'importation du fichier IFC générera une nouvelle arborescence dans la base du projet sur la base de l'organisation du fichier IFC même. 
+* L'importation du fichier IFC générera une nouvelle arborescence dans la base du projet, à partir de l'organisation du fichier IFC même. 
 
 ![](/02_Modelisation/00_communs/images/ALLPLANIMP5.png)
 

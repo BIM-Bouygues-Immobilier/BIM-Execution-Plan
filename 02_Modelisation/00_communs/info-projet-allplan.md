@@ -2,7 +2,7 @@
 
 Les informations du projet doivent être renseigné dans le logiciel Allplan au démarrage du projet selon la méthode suivante. 
 
-* Dans l'espace de mise en page des plans, sélectionner la commande "Ouvrir sur la base du projet: plans" (1) et ensuite ouvrir les "Attributs du plan et du projet".
+* Dans l'espace de mise en page des plans, sélectionner la commande "Ouvrir sur la base du projet: plans" (1) et ensuite ouvrir les "Attributs du plan et du projet" (2).
 
 ![](/02_Modelisation/00_communs/images/Info projet Allplan 2.png)
 
