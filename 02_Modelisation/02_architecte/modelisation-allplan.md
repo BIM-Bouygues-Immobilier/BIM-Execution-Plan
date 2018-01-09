@@ -55,6 +55,7 @@ Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Sur
 Des objets "Pièces" devront être modélisés spécifiquement pour permettre ce calcul. 
 
 Contrairement aux pièces qui représentent les locaux, le nom des pièces pour le calcul des surfaces associé à la propriété "Fonction" devra être choisi parmi la liste suivante:
+
 {% include "../../00_Referentiel/NomDesSurfaces.md"  %}
 
 Le renseignement de la destination de la surface suivra le même logique décrite pour les [locaux](#destination)
