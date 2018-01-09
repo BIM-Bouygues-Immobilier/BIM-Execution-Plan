@@ -8,7 +8,7 @@ Pour chaque lot, il est nécessaire de déposer un seul fichier, au format IFC2X
 
 ## Plug-in d’export IFC
 
-Pour l'export, il est nécessaire d’utiliser la dernière version du plug-in d’export IFC disponible gratuitement sur l’Autodesk App Store. 
+Pour l'export, il est nécessaire d’utiliser la dernière version du plug-in d’export IFC disponible gratuitement sur l’Autodesk App Store.  
 Ce plug-in améliore la qualité de l’export depuis Revit vers le format IFC.
 
 Ce plug-in est disponible aux adresses suivantes :
@@ -27,8 +27,6 @@ Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 | Ouvrir l’interface d’export IFC : |
 | :--- |
 | ![](/02_Modelisation/00_communs/images/export-rvt/Export_01.png) |
-
-
 
 | Ouvrir l’interface d’export IFC : |
 | :--- |
@@ -115,8 +113,6 @@ L’extraction des DWG depuis Revit doit se faire :
 | Sélectionner la modalité d'export en coordonnées partagées |
 | :--- |
 | ![](/02_Modelisation/00_communs/images/export-rvt/Export DWG 3.png) |
-
-
 
 
 
