@@ -25,5 +25,11 @@ L'orientation du curseur dans les vues en plan pourra être éventuellement modi
 
 ## Position du zéro projet et des quadrillages
 
+Avant d'implanter le projet en plan, il est tout d'abord conseillé d'identifier l'origine du système des coordonnées Allplan. 
+Ce point devra **impérativement** correspondre à l'origine du modèle numérique géomètre, si disponible, ou bien au relevé géomètre en format Autocad (0,0,0 UCS général). 
+
+![](/02_Modelisation/00_communs/images/ALLPLAN-GRID.PNG)
+
+L'implantation des quadrillages de projet se fera donc dans la parcelle par rapport à ce point de repère et un point zéro projet sera identifié à l'intersection de deux files perpendiculaires de la grille. 
 
 
