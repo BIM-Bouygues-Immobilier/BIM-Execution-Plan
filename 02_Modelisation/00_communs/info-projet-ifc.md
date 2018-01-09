@@ -5,6 +5,7 @@
 
 
 Trouver la procédure d'export pour Archicad
+Les propriétés suivantes doivent apparaitre dans le fichier IFC.
 
 En IFC:
 
