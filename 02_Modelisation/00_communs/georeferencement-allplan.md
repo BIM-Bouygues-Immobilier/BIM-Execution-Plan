@@ -1,7 +1,7 @@
 # Positionner son projet dans Allplan
 
 Les modèles géométriques de chaque contributeur doivent faire référence un système commun de coordonnées relatif à la position géographique.
-Au démarrage du projet il faudra donc suivre la procédure suivante pour qu'une compilation et une visualisation du projet dans son ensemble soit possible. 
+Au démarrage du projet il faudra donc suivre la procédure suivante pour qu'une compilation et une visualisation du projet dans son ensemble soient possibles. 
 
 ## Définition des niveaux
 
