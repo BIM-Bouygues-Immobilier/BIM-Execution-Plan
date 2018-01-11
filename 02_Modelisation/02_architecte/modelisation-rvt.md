@@ -7,6 +7,7 @@ Ces recommendations couvrent les éléments suivants:
 * [Pièces](#piece){% if book.bu == "logement" %}
 * [Logements](#logements){% endif %}
 * [Places de parking](#parking)
+* [Placards](#placards)
 
 ## Modélisation des plans de surfaces{#surface}
 
@@ -53,11 +54,11 @@ Si un même niveau contient des surfaces ayant des usages différents (par exemp
 
 ### Généralités
 
-Les Surfaces Utiles Brutes Locatives \(SUBL\), Surfaces Utiles Brutes Bureaux \(SUBB\), Surfaces Utiles Nettes \(SUN\) et Surfaces Nettes Bureaux \(SNB\) sont calculées à partir de la modélisation des pièces du projet.
+Les {% if book.bu == "logement" %}Surfaces Habitables (S.H.A.B.){% else %}Surfaces Utiles Brutes Locatives \(SUBL\), Surfaces Utiles Brutes Bureaux \(SUBB\), Surfaces Utiles Nettes \(SUN\) et Surfaces Nettes Bureaux \(SNB\){% endif %} sont calculées à partir de la modélisation des pièces du projet.
 
 L’ensemble des locaux du projet doivent être présents dans la maquette numérique. En plus des locaux « nobles » du programme, cette modélisation doit inclure tous les autres types de locaux, tel que les circulations, les locaux techniques, les gaines techniques, …
 
-Les locaux doivent être représentés et décomposés en locaux fonctionnels \(Bureau, Salle de Réunion, Hall, …\), même si ces locaux appartiennent à un espace physique plus important. Par exemple, un hall et une cafétéria partageant le même espace physique devront être représentés comme deux locaux distincts.
+Les locaux doivent être représentés et décomposés en locaux fonctionnels {% if book.bu == "logement" %}\(Chambre, Séjour, Hall, …\){% else %}\(Bureau, Salle de Réunion, Hall, …\){% endif %}, même si ces locaux appartiennent à un espace physique plus important. Par exemple, {% if book.bu == "logement" %}un séjour et une cuisine{% else %}un hall et une cafétéria{% endif %} ouverts l'un sur l'autre devront être représentés comme deux locaux distincts.
 
 Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini. En l’absence de faux-plafonds, les locaux doivent être modélisés jusqu’à la hauteur libre prévue par le programme. Les locaux doivent être identifiés par leur nom, en suivant les valeurs du tableau "Nom des pièces" ci-dessous.
 
@@ -123,13 +124,13 @@ Les pièces constituants un logement doivent être regroupées ensembles.
 
 ### Modélisation
 
-Il est nécéssaire d'ajouter les propriétés suivantes aux pièces à l'aide de trois paramètres partagés, ZoneName, ZoneObjectType et ZoneDescription :
+Il est nécéssaire d'ajouter les propriétés suivantes aux pièces à l'aide de trois paramètres partagés, ZoneName, ZoneObjectType et ZoneDescription. Ces trois paramètres permettent de créer des IfcZones au moment de l'export IFC
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | ZoneName | Voir [« Noms des logements »](#nom_logement) ci-dessous | Cette propriété permet de regrouper les pièces d'un logement.|
-| ZoneObjectType | Voir [« Typologie des logements »](#typologie_logement) ci-dessous | Cette propriété permet de préciser la typologie du logement (T1, T2, ...).|
-| ZoneDescription | Voir [« Collections »](#collection) ci-dessous  | Cette propriété permet de préciser la collection du logement.|
+| ZoneDescription | Voir [« Typologie des logements »](#typologie_logement) ci-dessous | Cette propriété permet de préciser la typologie du logement (T1, T2, ...).|
+| ZoneObjectType | Voir [« Collections »](#collection) ci-dessous  | Cette propriété permet de préciser la collection du logement.|
 
 ### Exemple
 
@@ -150,19 +151,17 @@ Il est nécéssaire d'ajouter les propriétés suivantes aux pièces à l'aide d
 {% endif %}
 {% include "/00_Referentiel/Collection.md"  %}
 
-
-
 ## Modélisation des places de parking{#parking}
 
-### Modélisation dans Revit
-
-Les places de parking sont modélisées à l’aide d’une famille de la catégorie Parking. Les propriétés suivantes sont à compléter :
+Les places de parking sont modélisées à l’aide d’une famille de la catégorie Parking (Par exemple, la famille "Place de parking.rfa" incluse avec Revit). La propriété suivante est alors à compléter :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Commentaire | Superstructure, Infrastructure, Extérieur | Cette propriété permet d’identifier l’emplacement des places de parking. |
+| Commentaire | Un numéro unique | Cette propriété permet d’identifier la places de parking. |
 
-{% if book.bu == "logement mur" %}
+![](/02_Modelisation/02_architecte/images/Parking.PNG)
+
+{% if book.bu == "logement retiré" %}
 
 ## Modélisation des murs
 
@@ -181,10 +180,12 @@ Les propriétés suivantes sont à compléter pour tout les types de murs :
 
 {% if book.bu == "logement" %}
 
-## Modélisation des façades de placards
+## Modélisation des façades de placards{#placards}
 
-Les placards doivent être modélisé à l'aide de la famille de placard fournie.
+Les placards doivent être modélisé à l'aide de la famille de placard fournie, disponible [en cliquant ici](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/Placard.rfa)
 
-Cette famille de placard, basée sur une ligne, permet de représenter les façade de placards.
+Cette famille de placard, basée sur une ligne, permet de représenter les façades de placards. La profondeur du placard est un paramètre de type.
+
+![](/02_Modelisation/02_architecte/images/Placard.png)
 
 {% endif %}

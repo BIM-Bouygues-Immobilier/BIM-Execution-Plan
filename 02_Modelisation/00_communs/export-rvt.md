@@ -58,7 +58,7 @@ Il est demandé d’effectuer les réglages suivants lors de l’export :
 
 ## Renseignement de l'adresse du projet
 
-Dans l'onglet "General" de la fenêtre d'export IFC, il est également demandé de renseigner les informations liées à l'adresse du projet:![](/02_Modelisation/00_communs/images/Adresse1.PNG)![](/02_Modelisation/00_communs/images/Adresse2.PNG)Les paramètres sont à reinseigner de façon suivante:
+Dans l'onglet "General" de la fenêtre d'export IFC, il est également demandé de renseigner les informations liées à l'adresse du projet:![](/02_Modelisation/00_communs/images/Adresse1.PNG)![](/02_Modelisation/00_communs/images/Adresse2.PNG)Les paramètres sont à renseigner de la façon suivante:
 
 | Paramètre | Valeur |
 | :--- | :--- |
@@ -91,9 +91,13 @@ Pour cela, il faut venir écrire le nom de la catégorie IFC souhaitée en face 
 | :--- |
 | ![](/02_Modelisation/00_communs/images/export-rvt/Export_11.png) |
 
-| Parking=&gt; IfcSpaces |
+| Parking=&gt; IfcBuildingElementProxy & Type = PARKING  |
 | :--- |
 | ![](/02_Modelisation/00_communs/images/export-rvt/Export_12.png) |
+
+| Meuble de rangement=&gt; IfcBuildingElementProxy & Type = PLACARD |
+| :--- |
+| ![](/02_Modelisation/00_communs/images/export-rvt/Export_13.png) |
 
 # Export au format DWG, à partir de Revit {#revit2dwg}
 
