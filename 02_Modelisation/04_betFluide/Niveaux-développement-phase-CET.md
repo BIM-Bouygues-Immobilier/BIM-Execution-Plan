@@ -1,13 +1,17 @@
-#Les niveaux de développement par phase: les modèles Fluides (WIP)
+#Les niveaux de développement par phase: les modèles Fluides 
 
 {% include "../../00_Referentiel/ND-projet.md" %}
 
-Pour connaitre les recommandations de modélisation pour les BET Fluides, cliquez [ici](/02_Modelisation/04_betFluide/modelisation-rvt.md ). 
+> Pour connaitre les recommandations générales de modélisation pour les BET Fluides, cliquez [ici](/02_Modelisation/04_betFluide/modelisation-rvt.md ). 
 
-## Phase APS/Dépôt PC
+## Phase APS/Dépôt PC  
 
 Le modèle numérique fluides comprendra les éléments suffisant pour permettre le déroulement de la pré-synthèse technique et architecturale et pour extraire des quantitatifs sommaires.
 Tout élément impactant le volume des pièces (hauteurs sous plafond, dimensions des trémies et des locaux techniques, ...) devra, de manière générale, être intégré dans cette phase. 
+
+|[Téléchargez un exemple de modèle CET APS/PC](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_APS.zip) | 
+| :---: | 
+|[![](/02_Modelisation/04_betFluide/images/FLU_APS.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CET_APS.zip)|
 
 Le modèle Fluides intègre les éléments et les caractéristiques listées ci-après:
 
@@ -26,10 +30,13 @@ Le modèle Fluides intègre les éléments et les caractéristiques listées ci-
 
 > Les réseaux et les terminaux, même si déconnectés, devront être affectés aux systèmes. 
 > Pour la modélisation des équipements, des terminaux et des accessoires, il faudra privilégier l'utilisation de "familles génériques" ou "standard" plutôt que des "familles fournisseurs"
-> A ce stade, il est possible d'utiliser des canalisations génériques dans caractérisation 
+> La modélisation des espaces n'est pas demandées et elle est laissée à discrétion du bureau d'étude, qui pourra les intégrer de façon cohérente avec les pièces du modèle architecte.
 
 
 ##Phase APD
+|[Téléchargez un exemple de modèle Fluides APD](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CVC_APD.zip)|
+|:---:|
+|[![](/02_Modelisation/04_betFluide/images/FLU_APD.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/CVC_APD.zip) |
 
 Le modèle Fluides intègre, entre autre, les éléments et les caractéristiques listées ci-après:
 * Le maquettage des tous les locaux techniques, des réseaux aérauliques, hydrauliques, gravitaires, chemins de câble primaires et secondaires sur tous les étages
@@ -43,6 +50,12 @@ Le modèle Fluides intègre, entre autre, les éléments et les caractéristique
 * La gestion des réservations primaires
 
 ## Phase PRO/DCE
+
+|[Téléchargez un exemple de modèle Fluides PRO/DCE](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/FLU_PRO.zip) | 
+| :---: | 
+|[![](/02_Modelisation/04_betFluide/images/FLU_PRO.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/FLU_PRO.zip)|
+|[**Téléchargez un exemple de modèle Electricité PRO/DCE**](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/ELE_PRO.zip)|
+|[![](/02_Modelisation/04_betFluide/images/ELE_PRO.PNG)](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/04_betFluide/images/ELE_PRO.zip)|
 
 La modélisation en cette phase a pour objectif celui de fournir la préparation des éléments pour les marchés de travaux.
 Le niveau de définition est suffisant pour arrêter l’ensemble des prestations. Toutes les composantes des modèles numériques sont définis, positionnées, repérées et renseignées de manière exhaustive, de façon à permettre une description détaillée de l’ouvrage.

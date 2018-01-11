@@ -1,6 +1,6 @@
 # Modélisation
 
-L'article suivant présente les recommandations de modélisation pour différentes catégories d'éléments dans Revit. Ces recommendations permettent de produire les informations nécéssaires à la réalisation des [cas d'usages BIM de Bouygues Immobilier](/01_CasUsages/README.md).
+L'article suivant présente les recommandations de modélisation pour différentes catégories d'éléments dans Revit. Ces recommandations permettent de produire les informations nécéssaires à la réalisation des [cas d'usages BIM de Bouygues Immobilier](/01_CasUsages/README.md).
 
 Ces recommendations couvrent les éléments suivants:
 * [Plans de surface](#surface)
@@ -77,6 +77,7 @@ Les propriétés suivantes sont à compléter :
 {% if book.bu == "logement" %}
 
 On completera également le revêtement de sol :
+
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Finition du sol | Voir [« Revêtements de sols »](#revêtements_sols) ci-dessous | Cette propriété indique le type de revêtement de sol dans la pièce. |

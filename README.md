@@ -1,7 +1,7 @@
-# BIM Execution Plan {% if book.bu == "logement" %}Logement{% else %}Immobilier d'Entreprise{% endif %}
+# {% if book.bu == "logement" %}BIM Execution Plan Logement{% else %} Cahier de charge BIM Immobilier d'Entreprise{% endif %}
 
-Le BIM Execution Plan présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier sur l’ensemble de ses opération. 
-Le BIM Execution Plan permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
+Le {% if book.bu == "logement" %}BIM Execution Plan Logement{% else %} Cahier de charge BIM Immobilier d'Entreprise{% endif %} présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier sur l’ensemble de ses opération. 
+Le {% if book.bu == "logement" %}BIM Execution Plan Logement{% else %} Cahier de charge BIM Immobilier d'Entreprise{% endif %} permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
 > Les prescriptions de ce document sont indicatives, et n’enlèvent pas au prestataire la responsabilité de les adapter au contexte du projet et au logiciel utilisé.
 
 Ce guide est téléchargeable au format PDF {% if book.bu == "logement" %}[*ici*](https://www.gitbook.com/download/pdf/book/bim-bouygues-immobilier/bim-execution-plan/v/9666a76e1fc1b5d25c2e833f90f5f0ba5a5a28fa){% else %}[*ici*](https://www.gitbook.com/download/pdf/book/bim-bouygues-immobilier/bim-execution-plan/v/da6056b603a88f4bbb767a3766cab25897d3dedf){% endif %}

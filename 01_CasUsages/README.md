@@ -1,4 +1,4 @@
-# Les cas d'usages du BIM pour le logement
+# Les cas d'usages du BIM de Bouygues Immobilier
 
 Bouygues Immobilier, sur la base des démarches mises en place pour la valorisation de ses projets à travers l’utilisation du BIM, a identifié plusieurs objectifs généraux qui se traduisent dans les cas d’usages BIM suivants: 
 

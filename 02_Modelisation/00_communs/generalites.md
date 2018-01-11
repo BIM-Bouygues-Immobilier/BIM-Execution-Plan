@@ -4,7 +4,7 @@ L’ensemble des informations décrites ci-dessous devront être présentes dans
 L'ensemble des études des intervenants devra être réalisé au moyen de modèles numériques. 
 
 Au fur et à mesure de l’avancement des études, les Modèles Numériques seront transmis au Maître d’Ouvrage et partagés avec les autres intervenants. Ces transmissions des modèles numériques s’effectueront cumulativement au format IFC, ainsi qu’au format natif. 
-Pour connaitre le paramétrage pour l'export IFC voir: [Revit](/02_Modelisation/00_communs/export-rvt.md ) ou [Archicad](/02_Modelisation/00_communs/export-archicad.md )
+Pour connaitre le paramétrage pour l'export IFC voir: [Revit](/02_Modelisation/00_communs/export-rvt.md ) ou [Archicad](/02_Modelisation/00_communs/export-archicad.md ) ou [Allplan](/02_Modelisation/00_communs/export-allplan.md )
 
 Chaque Modèle Numérique devra constituer le reflet des études. L’ensemble des informations transmises par les Intervenants, notamment les plans, nomenclatures ou tous autres documents, devra être extrait, dans la mesure du possible, des Modèles Numériques. 
 
@@ -14,7 +14,7 @@ Chaque intervenant aura la responsabilité de coordonner ses Modèles Numérique
 
 Les modèles numériques du projet sont livrées sur la plateforme, suivant les jalons donnés, sous deux formats :
 
-* Au format IFC2x3, en suivant la procédure d'export pour [Revit](/02_Modelisation/00_communs/export-rvt.md) et pour [ArchiCAD](/02_Modelisation/00_communs/export-archicad.md).
+* Au format IFC2x3, en suivant la procédure d'export pour [Revit](/02_Modelisation/00_communs/export-rvt.md), pour [ArchiCAD](/02_Modelisation/00_communs/export-archicad.md) et pour [Allplan](/02_Modelisation/00_communs/export-allplan.md )
 * Au format natif du logiciel utilisé pour la modélisation. Il sera purgé et seuls les éléments propres au projet seront conservés. 
 
 Les deux formats doivent être produits en même temps afin de garantir leur cohérence au même état de définition du bâtiment.
