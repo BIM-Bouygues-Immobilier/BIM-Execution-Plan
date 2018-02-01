@@ -1,10 +1,8 @@
-# Modélisation des réseaux techniques dans Revit
+# Modélisation du lot Ascenseur dans le logiciel Revit
 
-### Généralités
+## Modélisation des réseaux
 
 Afin de les visualiser, chaque type de système de réseaux technique \(gaine et canalisation\) doit avoir sa propre couleur. Les couleurs ne sont pas imposées, mais chaque type de système doit être clairement identifiable par sa couleur.
-
-Il est fortement conseillé d'organiser son propre modèle avec au moins un sous-projet par lot technique, afin de faciliter un éventuel découpage du modèle. 
 
 ### Couleur des systèmes
 
@@ -24,9 +22,16 @@ Les éléments suivants doivent être modélisés avec des familles qui soient a
 * Equipements de génie climatique et de plomberie
 * Terminaux horizontaux et verticaux
 * Accessoires de gaine et de canalisation
-* Equipements sanitaires 
+* Equipements spécialisés
+
 
 Aucun objet ne doit être modélisé en "Modèle Générique". 
+
+---
+
+Image credits [here ](/CREDITS.md)
+
+
 
 
 

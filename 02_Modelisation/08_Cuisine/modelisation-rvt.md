@@ -1,6 +1,20 @@
-# Modélisation des réseaux techniques dans Revit
+# Modélisation du lot cuisine dans le logiciel Revit
 
-### Généralités
+## Assignation des catégories
+
+Tous les objets du modèle devront être modélisés avec des familles qui soient affectées à une catégorie Revit cohérente avec la fonction de l'élément même: 
+
+* Equipements électriques
+* Equipements de génie climatique et de plomberie
+* Terminaux horizontaux et verticaux
+* Accessoires de gaine et de canalisation
+* Equipements sanitaires 
+* Equipements spécialisés
+* Mobilier
+
+Aucun objet ne devra être modélisé en "Modèle Générique". 
+
+## Modélisation des réseaux
 
 Afin de les visualiser, chaque type de système de réseaux technique \(gaine et canalisation\) doit avoir sa propre couleur. Les couleurs ne sont pas imposées, mais chaque type de système doit être clairement identifiable par sa couleur.
 
@@ -16,21 +30,22 @@ Dans le navigateur de matériaux, cliquer sur « Créer un matériau » \(1\) po
 
 ![](/02_Modelisation/04_betFluide/images/MEP_02.PNG)Cette procédure doit être répétée pour chaque système de gaine et de canalisation.
 
-### Assignation des catégories
+### Positionnement des attentes
 
-Les éléments suivants doivent être modélisés avec des familles qui soient affectées à une catégorie Revit cohérente avec la fonction de l'élément même: 
+Pour fluidifier les échanges avec le BET Fluides, il est conseillé de matérialiser via, par exemple, des éléments d'annotations visibles au moins dans les vues en plan, les éléments suivants:
+* Attentes EFS, ECS, EFAdoucie
+* Siphon de sol
+* Attentes évacuation EUG
+* Attentes évacuation EU
+* Hottes
+* Attentes évacuation chambres froides
+* ...
 
-* Equipements électriques
-* Equipements de génie climatique et de plomberie
-* Terminaux horizontaux et verticaux
-* Accessoires de gaine et de canalisation
-* Equipements sanitaires 
+Ces éléments pourront être soit intégrés dans des familles soit faire objet de familles spécifiques et être positionnés dans un sous-projet à part. 
 
-Aucun objet ne doit être modélisé en "Modèle Générique". 
+---
 
-
-
-
+Image credits [here ](/CREDITS.md)
 
 
 

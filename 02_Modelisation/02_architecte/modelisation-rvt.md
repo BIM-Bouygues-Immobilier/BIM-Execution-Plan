@@ -10,7 +10,8 @@ Ces recommendations couvrent les éléments suivants:
 * [Placards](#placards){% endif %}
 {% if book.bu == "logement" %} {% else %} 
 
-De manière générale, dans les modèles Architecte les éléments de structure (dalles, poteaux, poutres, voiles ...) devront être modélisées sur un workset à part de manière à pouvoir les isoler. 
+De manière générale, dans les modèles Architecte les éléments de structure (dalles, poteaux, poutres, voiles ...) devront être modélisées sur un sous-projet à part de manière à pouvoir les isoler facilement. 
+Dans le cas où des intervenants spécifiques pour les lots façade et décoration soient soient présents dans l'équipe, de principe devra s'appliquer également pour les éléments de façade et de décoration. 
 
 {% endif %}
 
