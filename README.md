@@ -1,4 +1,4 @@
-# {% if book.bu == "logement" %}BIM Execution Plan Logement{% else %} Cahier des charges BIM Immobilier d'Entreprise{% endif %} 
+# {% if book.bu == "logement" %}BIM Execution Plan Logement{% else %} Cahier des charges BIM Immobilier d'Entreprise{% endif %}
 
 Le {% if book.bu == "logement" %}BIM Execution Plan Logement{% else %} Cahier des charges BIM Immobilier d'Entreprise{% endif %} présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier sur l’ensemble de ses opération. 
 Le {% if book.bu == "logement" %}BIM Execution Plan Logement{% else %} Cahier de charge BIM Immobilier d'Entreprise{% endif %} permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
