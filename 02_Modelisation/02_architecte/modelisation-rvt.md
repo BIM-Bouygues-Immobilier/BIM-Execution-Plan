@@ -6,8 +6,13 @@ Ces recommendations couvrent les éléments suivants:
 * [Plans de surface](#surface)
 * [Pièces](#piece){% if book.bu == "logement" %}
 * [Logements](#logements){% endif %}
-* [Places de parking](#parking)
-* [Placards](#placards)
+* [Places de parking](#parking) {% if book.bu == "logement" %}
+* [Placards](#placards){% endif %}
+{% if book.bu == "logement" %} {% else %} 
+
+De manière générale, dans les modèles Architecte les éléments de structure (dalles, poteaux, poutres, voiles ...) devront être modélisées sur un workset à part de manière à pouvoir les isoler. 
+
+{% endif %}
 
 ## Modélisation des plans de surfaces{#surface}
 
