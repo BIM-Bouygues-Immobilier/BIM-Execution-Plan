@@ -21,7 +21,7 @@ Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur
 | [![](/02_Modelisation/00_communs/images/noun_1082944_cc.png)](/02_Modelisation/01_geometre/README.md) | [![](/02_Modelisation/00_communs/images/noun_1261411_cc.png)](/02_Modelisation/02_architecte/README.md) | [![](/02_Modelisation/00_communs/images/Logo-structure.png)](/02_Modelisation/03_betStructure/README.md) | [![](/02_Modelisation/00_communs/images/noun_907762_cc.png)](/02_Modelisation/04_betFluide/README.md) |[![](/02_Modelisation/00_communs/images/Logo-paysagiste.png)](/02_Modelisation/05_Paysagiste/README.md) |
 | [Recommandation de modélisation](/02_Modelisation/01_geometre/README.md) | [Recommandation de modélisation](/02_Modelisation/02_architecte/README.md) | [Recommandation de modélisation](/02_Modelisation/03_betStructure/README.md) | [Recommandation de modélisation](/02_Modelisation/04_betFluide/README.md) |[Recommandation de modélisation](/02_Modelisation/05_Paysagiste/README.md) |
 
-| BET Façade | Ascensoriste | Cuisiniste | Décorateur | BET VRD |
+| BET Façade | BET Ascenseur | Cuisiniste | Décorateur | BET VRD |
 | :---: | :---: | :---: | :---: | :---: |
 | ![](/images/LOGO Façade.png) |![](/assets/LOGO ASC.png) | ![](/images/LOGO cuisiniste.png) | ![](/images/LOGO deco.png) | ![](/assets/LOGO VRD.png) |
 | Recommandation de modélisation | Recommandation de modélisation | Recommandation de modélisation | Recommandation de modélisation | Recommandation de modélisation |
