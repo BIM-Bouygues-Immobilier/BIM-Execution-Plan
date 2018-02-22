@@ -14,6 +14,7 @@ Aucun objet ne devra être modélisé en "Modèle Générique".
 
 ### Utilisation des références 
 
+De manière générale, dans le modèle Façade les éléments de structure (dalles, poteaux, voiles ...) ou d'architecture éventuellement importés comme référence de dessin, devront être positionnées sur un sous-projet à part de manière à pouvoir les isoler facilement. 
 
 ### Modélisation avec les masses volumetriques
 
