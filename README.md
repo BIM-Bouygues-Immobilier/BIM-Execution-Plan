@@ -23,8 +23,8 @@ Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur
 
 | BET Façade | BET Ascenseur | Cuisiniste | Décorateur | BET VRD |
 | :---: | :---: | :---: | :---: | :---: |
-| ![](/images/LOGO Façade.png) |![](/assets/LOGO ASC.png) | ![](/images/LOGO cuisiniste.png) | ![](/images/LOGO deco.png) | ![](/assets/LOGO VRD.png) |
-| Recommandation de modélisation | Recommandation de modélisation | Recommandation de modélisation | Recommandation de modélisation | Recommandation de modélisation |
+| [![](/images/LOGO Façade.png)](/02_Modelisation/06_Facade/README.md)| [![](/images/LOGO ASC.png)](/02_Modelisation/07_Ascenseur/README.md) | [![](/images/LOGO cuisiniste.png)](/02_Modelisation/08_Cuisine/README.md) | [![](/images/LOGO deco.png)](/02_Modelisation/09_Deco/README.md) | [![](/images/LOGO VRD.png)](/02_Modelisation/10_VRD/README.md) |
+| [Recommandation de modélisation](/02_Modelisation/06_Facade/README.md) | [Recommandation de modélisation](/02_Modelisation/07_Ascenseur/README.md) | [Recommandation de modélisation](/02_Modelisation/08_Cuisine/README.md) | [Recommandation de modélisation](/02_Modelisation/09_Deco/README.md) | [Recommandation de modélisation](/02_Modelisation/10_VRD/README.md) |
 
 ## Comment échanger sur le projet?
 

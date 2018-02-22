@@ -1,10 +1,10 @@
-# Modélisation des réseaux techniques
+# Modélisation des réseaux techniques dans Revit
 
-## Généralités
+### Généralités
 
 Afin de les visualiser, chaque type de système de réseaux technique \(gaine et canalisation\) doit avoir sa propre couleur. Les couleurs ne sont pas imposées, mais chaque type de système doit être clairement identifiable par sa couleur.
 
-## Modélisation dans Revit
+Il est fortement conseillé d'organiser son propre modèle avec au moins un sous-projet par lot technique, afin de faciliter un éventuel découpage du modèle. 
 
 ### Couleur des systèmes
 
@@ -22,9 +22,8 @@ Les éléments suivants doivent être modélisés avec des familles qui soient a
 
 * Equipements électriques
 * Equipements de génie climatique et de plomberie
-* Equipements électriques
 * Terminaux horizontaux et verticaux
-* Accèssoires de gaine et de canalisation
+* Accessoires de gaine et de canalisation
 * Equipements sanitaires 
 
 Aucun objet ne doit être modélisé en "Modèle Générique". 
