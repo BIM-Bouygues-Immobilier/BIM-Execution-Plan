@@ -34,7 +34,7 @@ Le nom des pièces devra être associé à la propriété "Fonction" et, si une 
 
 Le nom de la pièce sera obligatoirement choisi parmi la liste suivante:
 
-{% include "../../00_Referentiel/NomDesSurfaces.md"  %}
+{% include "../../00_Referentiel/NomDesPieces.md"  %}
 
 #### Destination des pièces {#destination}
 
