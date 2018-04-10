@@ -1,18 +1,8 @@
 # Introduction
 
-Le
+##  Le Cahier des charges BIM
 
-BIM Execution Plan Logement
-
-Cahier des charges BIM Immobilier d'Entreprise
-
-présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier sur l’ensemble de ses opération. Le
-
-BIM Execution Plan Logement
-
-Cahier de charge BIM Immobilier d'Entreprise
-
-permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
+Le Cahier des charges BIM présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier sur l’ensemble de ses opération.  Le Cahier des charges BIM permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
 
 > Les prescriptions de ce document sont indicatives, et n’enlèvent pas au prestataire la responsabilité de les adapter au contexte du projet et au logiciel utilisé.
 
