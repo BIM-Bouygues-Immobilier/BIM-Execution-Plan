@@ -6,7 +6,7 @@ Le {% if book.bu == "logement" %}BIM Execution Plan Logement{% else %} Cahier de
 
 Ce guide est téléchargeable au format PDF {% if book.bu == "logement" %}[*ici*](https://www.gitbook.com/download/pdf/book/bim-bouygues-immobilier/bim-execution-plan/v/8ef651fe2d2f5be18a4303858977d6ec5062c6ab){% else %}[*ici*](https://www.gitbook.com/download/pdf/book/bim-bouygues-immobilier/bim-execution-plan/v/da6056b603a88f4bbb767a3766cab25897d3dedf){% endif %}
 
-## Pourquoi ce guide?
+## Pourquoi ce guide? 
 
 Bouygues Immobilier, sur la base des démarches mises en place pour la valorisation de ses projets à travers l’utilisation du BIM, a identifié plusieurs objectifs généraux qui se traduisent dans des cas d'usages.
 
