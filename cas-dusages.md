@@ -18,13 +18,13 @@ Pour que cela se produise, la maquette numérique doit représenter à tout mome
 
 L’outil utilisé pour la visualisation des maquettes numérique est la plateforme collaborative bimsync : [Plateforme collaborative](plateforme-collaborative/)
 
-![](.gitbook/assets/cas_01.png)
+![Visualisation 3D](.gitbook/assets/cas_01.png)
 
 L’espace de visualisation 3D permet d’avoir un aperçu des différents modèles/métier et de les compiler afin d’en vérifier la coordination.
 
-Les modèles des différents intervenants se superposent car ils partagent le même système de coordonnées, définit sur la base du relevé géomètre \([Recommandation de modélisation de l’environnement](https://github.com/bim-bouygues-immobilier/bim-execution-plan/tree/2dd2261d87ee479acc1e366a1ddfa150bab032ec/02_Modelisation/01_geometre/modelisation-rvt.md)\). Des notices spécifiques sont fournies aux intervenants avec la procédure recommandée pour le partage des coordonnées.
+Les modèles des différents intervenants se superposent car ils partagent le même système de coordonnées, définit sur la base du relevé géomètre \([Recommandation de modélisation de l’environnement](/02_Modelisation/01_geometre/modelisation-rvt.md)\). Des notices spécifiques sont fournies aux intervenants avec la procédure recommandée pour le partage des coordonnées.
 
-De plus, des recommandations de modélisation sont inclues dans le présent cahier de charges pour simplifier la lisibilité des modèles dans le viewer de bimsync : [Recommandations de modélisation](recommandations-de-modelisation/).
+De plus, des recommandations de modélisation sont inclues dans le présent cahier des charges pour simplifier la lisibilité des modèles dans le viewer de bimsync : [Recommandations de modélisation](recommandations-de-modelisation/).
 
 ## Echanger autour des modèles : {#echanger}
 
@@ -32,9 +32,9 @@ La maquette numérique du projet constituée des différents modèles/métier se
 
 Les questions sont associées à des éléments des modèles et ensuite assignées à un ou plusieurs intervenants.
 
-La plateforme collaborative bimsync intègre un système d’échange de [questions/réponses](https://github.com/bim-bouygues-immobilier/bim-execution-plan/tree/2dd2261d87ee479acc1e366a1ddfa150bab032ec/03_bimsync/Poser-et-repondre-aux-questions.md) :
+La plateforme collaborative bimsync intègre un système d’échange de [questions/réponses](/03_bimsync/Poser-et-repondre-aux-questions.md) :
 
-![](.gitbook/assets/cas_02.png)
+![Echanger](/01_CasUsages/images/cas_02.png)
 
 ## Extraire les surfaces et des indicateurs de modèles : {#kpi}
 
@@ -42,7 +42,6 @@ Les modèles architecturaux sont utilisés pour l’extraction automatiques des 
 
 Le suivi de l’évolution de ces indicateurs permet de contrôler le respect du programme de l’opération.
 
-![](.gitbook/assets/cas_03.png)
+![Calculs des surfaces](/01_CasUsages/images/cas_03.png)
 
 Des indications de modélisation précises sont fournies aux intervenants, pour qu’on puisse extraire de façon automatique ces informations depuis les modèles : [Recommandations de modélisation](recommandations-de-modelisation/) .
-
