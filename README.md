@@ -8,7 +8,7 @@ Le Cahier des charges BIM présente la méthodologie de travail autour des modè
 
 Ce guide est téléchargeable au format PDF
 
-## Pourquoi ce guide?
+## Pourquoi ce guide? 
 
 Bouygues Immobilier, sur la base des démarches mises en place pour la valorisation de ses projets à travers l’utilisation du BIM, a identifié plusieurs objectifs généraux qui se traduisent dans des cas d'usages.
 
