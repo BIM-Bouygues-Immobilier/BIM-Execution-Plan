@@ -21,7 +21,7 @@ Chaque intervenant aura la responsabilité de coordonner ses Modèles Numérique
 
 ### Valeurs possibles
 
-Lorsqu’une propriété doit contenir une valeur parmi plusieurs proposées, il est impératif de saisir précisément l’une des valeurs indiquées. Les valeurs autres que celle proposées seront refusées, et l’intervenant devra déposer un nouveau modèle.
+Lorsqu’une propriété doit contenir une valeur choisie parmi plusieurs proposées, il est impératif de saisir précisément l’une des valeurs indiquées. Les valeurs autres que celle proposées seront refusées, et l’intervenant devra déposer un nouveau modèle.
 
 ## Livrables{#livrables}
 
@@ -40,7 +40,7 @@ Vous devrez produire à minima un modèle par bâtiment. Vous êtes ensuite libr
 
 Vous demanderez alors au BIM Manager la création des modèles correspondants sur la plateforme d’échange Bimsync.
 
-Les modèles sont nommés de la façon suivante : CODE DISCIPLINE - CODE BATIMENT
+Les modèles sont nommés de la façon suivante :
 
 {% include "/00_Referentiel/NomDesModeles.md"  %}
 
