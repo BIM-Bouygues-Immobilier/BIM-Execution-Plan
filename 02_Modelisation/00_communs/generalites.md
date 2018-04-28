@@ -10,7 +10,7 @@ Chaque Modèle Numérique devra constituer le reflet des études. L’ensemble d
 
 Chaque intervenant aura la responsabilité de coordonner ses Modèles Numériques avec ceux développés par les autres intervenants.
 
-##Livrables
+## Livrables
 
 Les modèles numériques du projet sont livrées sur la plateforme, suivant les jalons donnés, sous deux formats :
 
@@ -21,9 +21,10 @@ Les deux formats doivent être produits en même temps afin de garantir leur coh
 
 ## Découpage
 
-Chaque intervenant produit à minima un modèle par bâtiment et il est ensuite libre de découper son modèle en plusieurs disciplines en fonction de ses contraintes de modélisations. 
+Chaque intervenant produit à minima un modèle par bâtiment et il est ensuite libre de découper son modèle en plusieurs disciplines en fonction de ses contraintes de modélisations.
 Par exemple :
-* Un modèle Fluides peut ainsi être séparé en 3 modèles distincts, Climatisation, Plomberie et Electricité. 
+
+* Un modèle Fluides peut ainsi être séparé en 3 modèles distincts, Climatisation, Plomberie et Electricité.
 * Un modèle Architecte peut être séparé en 2 modèles, Façades et Intérieur.
 
 L'intervenant demandera alors au BIM Manager la création des modèles correspondants sur la plateforme d’échange Bimsync.
@@ -42,7 +43,7 @@ Aucun niveau supplémentaire devra être modélisé \(niveau brut béton, palier
 
 Néanmoins, pour faciliter la modélisation des éléments structurels, il reste possible de ne dessiner que les niveaux bruts en lieu et à la place des niveaux finis.
 
-![](/02_Modelisation/00_communs/images/Niveaux.PNG)
+![Modélisation des niveaux](/02_Modelisation/00_communs/images/Niveaux.PNG)
 
 Les niveaux sont nommés de la façon suivante :
 
