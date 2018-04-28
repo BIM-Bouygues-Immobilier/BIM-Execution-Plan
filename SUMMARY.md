@@ -150,6 +150,4 @@
   * [Déposer et gérer des documents](/03_bimsync/deposer-et-gerer-des-documents.md)
   * [Poser et répondre aux questions](/03_bimsync/poser-et-repondre-aux-questions.md)
   * [Inviter des membres et gérer un projet](/03_bimsync/inviter-des-membres-et-gerer-un-projet.md)
-
-
-
+* [Crédits](CREDITS.md)
