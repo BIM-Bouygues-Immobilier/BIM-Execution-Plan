@@ -12,6 +12,8 @@ Bouygues Immobilier, sur la base des démarches mises en place pour la valorisat
 
 Pour avoir accès aux cas d'usages BIM: [cas d'usages](/01_CasUsages/README.md)
 
+[Test](/templates/architecte-revit.md)
+
 ## Comment utiliser ce guide?
 
 Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur les opérations BIM via des maquettes numériques. Pour faciliter l'accès aux recommandations de travail, le guide est structuré par intervenant.
