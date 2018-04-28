@@ -15,5 +15,3 @@ Pour pouvoir exporter le projet en format IFC2X3
 * Remplir le chemin d'export et le nom du fichier et vérifier que dans le type de fichier, l'option "Fichiers IFC 2X3 (*.ifc) est bien sélectionnée. 
 Si nécessaire, il est possible d'accèder aux paramètres supplémentaires d'export.
 ![](/02_Modelisation/00_communs/images/EXP3.PNG)
-
-

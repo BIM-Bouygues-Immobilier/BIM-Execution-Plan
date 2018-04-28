@@ -34,5 +34,5 @@ S’ils existent des conventions de cours communes avec des bâtiments voisins, 
 
 ---
 
-Image credits [here ](/CREDITS.md)
+Image credits [here](/CREDITS.md)
 

@@ -58,5 +58,5 @@ Il est nécessaire de configurer son propre logiciel de modélisation afin de pr
 
 ---
 
-Image credits [here ](/CREDITS.md)
+Image credits [here](/CREDITS.md)
 

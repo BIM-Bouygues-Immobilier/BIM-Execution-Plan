@@ -63,6 +63,6 @@ Si vous souhaitez connaitre les niveaux de développement des autres intervenant
 
 ---
 
-Image credits [here ](/CREDITS.md)
+Image credits [here](/CREDITS.md)
 
 

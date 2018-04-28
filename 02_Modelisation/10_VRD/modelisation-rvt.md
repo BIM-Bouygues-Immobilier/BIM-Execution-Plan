@@ -31,7 +31,7 @@ Aucun objet ne doit être modélisé en "Modèle Générique".
 
 ---
 
-Image credits [here ](/CREDITS.md)
+Image credits [here](/CREDITS.md)
 
 
 

@@ -45,7 +45,7 @@ Ces éléments pourront être soit intégrés dans des familles soit faire objet
 
 ---
 
-Image credits [here ](/CREDITS.md)
+Image credits [here](/CREDITS.md)
 
 
 

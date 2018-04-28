@@ -13,7 +13,7 @@ Les recommandations de modélisation sont organisée par intervenants :
 | [Recommandation de modélisation](/02_Modelisation/06_Facade/README.md) | [Recommandation de modélisation](/02_Modelisation/07_Ascenseur/README.md) | [Recommandation de modélisation](/02_Modelisation/08_Cuisine/README.md) | [Recommandation de modélisation](/02_Modelisation/09_Deco/README.md) | [Recommandation de modélisation](/02_Modelisation/10_VRD/README.md) |
 
 ---
-Image credits [here ](/CREDITS.md)
+Image credits [here](/CREDITS.md)
 
 
 

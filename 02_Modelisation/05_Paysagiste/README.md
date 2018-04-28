@@ -36,5 +36,5 @@ Chaque intervenant est responsable du paramétrage de son logiciel.
 
 ---
 
-Image credits [here ](/CREDITS.md)
+Image credits [here](/CREDITS.md)
 

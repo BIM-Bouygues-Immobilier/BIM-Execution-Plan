@@ -23,12 +23,4 @@ Les masses volumétriques qui seront éventuellement utilisé comme support à l
 
  ---
 
-Image credits [here ](/CREDITS.md)
-
- 
-
-
-
-
-
-
+Image credits [here](/CREDITS.md)
