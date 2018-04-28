@@ -22,7 +22,7 @@ Les deux formats doivent être produits en même temps afin de garantir leur coh
 ## Découpage
 
 Chaque intervenant produit à minima un modèle par bâtiment et il est ensuite libre de découper son modèle en plusieurs disciplines en fonction de ses contraintes de modélisations. 
-Par exemple: 
+Par exemple :
 * Un modèle Fluides peut ainsi être séparé en 3 modèles distincts, Climatisation, Plomberie et Electricité. 
 * Un modèle Architecte peut être séparé en 2 modèles, Façades et Intérieur.
 
@@ -44,11 +44,10 @@ Néanmoins, pour faciliter la modélisation des éléments structurels, il reste
 
 ![](/02_Modelisation/00_communs/images/Niveaux.PNG)
 
-Les niveaux sont nommés de la façon suivante : 
+Les niveaux sont nommés de la façon suivante :
 
 {% include "../../00_Referentiel/NomDesNiveaux.md"  %}
 
 ## Valeurs possibles
 
 Lorsqu’une propriété doit contenir une valeur parmi plusieurs proposées, il est impératif de saisir précisément l’une des valeurs indiquées. Les valeurs autres que celle proposées seront refusées, et l’intervenant devra déposer un nouveau modèle.
-
