@@ -1,12 +1,15 @@
 {% extends "/templates/softwares/revit.md" %}
+{% set categorie_logiciel = "Revit 2017.4" %}
 
 {# Donne un exemple de découpage pour le lot #}
 {% block lot_decoupage %}Votre modèle peut ainsi être séparé en 2 modèles, Façades et Intérieur.{% endblock %}
 
 {# Donne des recommendation de modélisaiton générales propre au lot#}
 {% block lot_specifique_generalites %}
+
 De manière générale, dans les modèles Architecte les éléments de structure (dalles, poteaux, poutres, voiles ...) devront être modélisées sur un sous-projet à part de manière à pouvoir les isoler facilement.
 Dans le cas où des intervenants spécifiques pour les lots façade et décoration soient soient présents dans l'équipe, de principe devra s'appliquer également pour les éléments de façade et de décoration.
+
 {% endblock %}
 
 {# Ajoute la table des matières pour le lot#}
@@ -155,19 +158,6 @@ Les places de parking sont modélisées à l’aide d’une famille de la catég
 
 ![Parking](/02_Modelisation/02_architecte/images/Parking.PNG)
 
-### Modélisation des murs{#murs}
-
-Les propriétés suivantes sont à compléter pour tout les types de murs :
-
-![TypeDeMur](/02_Modelisation/02_architecte/images/TypeDeMur.png)
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Nom du type | Voir « Nom des murs »  |  |
-| Keynote | Suivant fichier texte joint | Cette propriété permet d'identifier le mur dans le CCTP. |
-
-{% include "/00_Referentiel/NomDesMurs.md" %}
-
 ### Modélisation des façades de placards{#placards}
 
 Les placards doivent être modélisé à l'aide de la famille de placard fournie, disponible [en cliquant ici](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/Placard.rfa)
@@ -175,5 +165,13 @@ Les placards doivent être modélisé à l'aide de la famille de placard fournie
 Cette famille de placard, basée sur une ligne, permet de représenter les façades de placards. La profondeur du placard est un paramètre de type.
 
 ![Placard](/02_Modelisation/02_architecte/images/Placard.png)
+
+### Modélisation des murs{#murs}
+
+{% include "/categories/murs.md"  %}
+
+### Modélisation des poteaux{#poteaux}
+
+{% include "/categories/poteaux.md"  %}
 
 {% endblock %}

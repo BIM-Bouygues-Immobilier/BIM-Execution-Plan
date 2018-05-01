@@ -17,6 +17,3 @@
 |Equipement culturel|Surfaces associées à un équipement culturel|
 |Equipement petite enfance|Surfaces associées à des équipement petite enfance|
 |Parking|Surfaces de parking|
-
-
-

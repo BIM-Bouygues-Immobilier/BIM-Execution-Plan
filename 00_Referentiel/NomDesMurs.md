@@ -1,5 +1,3 @@
-### Nom des types de murs
-
 **Nom du type**|**Description**
 :--- | :---
 MUR-GEN|Mur générique (par défaut)
