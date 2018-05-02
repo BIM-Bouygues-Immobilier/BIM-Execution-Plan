@@ -18,4 +18,4 @@ Les recommendations de modélisation dépendent du logiciel utilisé. Ces indica
 
 ## Plateforme Collaborative{#bimsync}
 
-L'ensemble des modèles, documents et questions du projet s'échangent via la plateforme collaborative bimsync mise en place par Bouygues Immobilier.
+L'ensemble des modèles, documents et questions du projet s'échangent via la plateforme collaborative bimsync mise en place par Bouygues Immobilier. L'ensemble de la documentation est disponible ci-dessous.
