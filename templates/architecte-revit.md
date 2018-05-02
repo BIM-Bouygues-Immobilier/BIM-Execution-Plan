@@ -190,7 +190,43 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 {% include "/categories/architecte/fenetres.md"  %}
 
+### Modélisation des murs rideaux{#murs rideaux}
+
+{% include "/categories/architecte/murs rideaux.md"  %}
+
 ### Modélisation des cloisons{#cloisons}
 
 {% include "/categories/architecte/cloisons.md"  %}
+
+### Modélisation des plafonds{#plafonds}
+
+{% include "/categories/architecte/plafonds.md"  %}
+
+### Modélisation des portes{#portes}
+
+{% include "/categories/architecte/portes.md"  %}
+
+### Modélisation des brises soleil{#brises soleil}
+
+{% include "/categories/architecte/brises soleil.md"  %}
+
+### Modélisation des stores{#stores}
+
+{% include "/categories/architecte/stores.md"  %}
+
+### Modélisation des appareils élévateurs{#appareils élévateurs}
+
+{% include "/categories/architecte/appareils elevateurs.md"  %}
+
+### Modélisation des escaliers{#escaliers}
+
+{% include "/categories/architecte/escaliers.md"  %}
+
+### Modélisation des gardes-corps{#gardes-corps}
+
+{% include "/categories/architecte/stores.md"  %}
+
+### Modélisation des voiries/parkings{#voiries/parkings}
+
+{% include "/categories/architecte/voiries-parkings.md"  %}
 {% endblock %}
