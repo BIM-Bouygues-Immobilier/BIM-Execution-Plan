@@ -1,5 +1,5 @@
 {% extends "/templates/softwares/revit.md" %}
-{% set categorie_logiciel = "Revit 2017.4" %}
+{% set logiciel = "Revit" %}
 
 {# Donne un exemple de découpage pour le lot #}
 {% block lot_decoupage %}Votre modèle peut ainsi être séparé en 2 modèles, Façades et Intérieur.{% endblock %}
@@ -168,10 +168,29 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 ### Modélisation des murs{#murs}
 
-{% include "/categories/murs.md"  %}
+{% include "/categories/architecte/murs.md"  %}
 
 ### Modélisation des poteaux{#poteaux}
 
-{% include "/categories/poteaux.md"  %}
+{% include "/categories/architecte/poteaux.md"  %}
 
+### Modélisation des poutres{#poutres}
+
+{% include "/categories/architecte/poutres.md"  %}
+
+### Modélisation des planchers{#planchers}
+
+{% include "/categories/architecte/planchers.md"  %}
+
+### Modélisation des toitures{#toitures}
+
+{% include "/categories/architecte/toitures.md"  %}
+
+### Modélisation des fenetres{#fenetres}
+
+{% include "/categories/architecte/fenetres.md"  %}
+
+### Modélisation des cloisons{#cloisons}
+
+{% include "/categories/architecte/cloisons.md"  %}
 {% endblock %}
