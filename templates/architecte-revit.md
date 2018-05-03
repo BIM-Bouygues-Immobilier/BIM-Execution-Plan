@@ -158,6 +158,10 @@ Les places de parking sont modélisées à l’aide d’une famille de la catég
 
 ![Parking](/02_Modelisation/02_architecte/images/Parking.PNG)
 
+#### Nom des types de parking
+
+{% include "/00_Referentiel/NomDesParkings.md" %}
+
 ### Modélisation des façades de placards{#placards}
 
 Les placards doivent être modélisé à l'aide de la famille de placard fournie, disponible [en cliquant ici](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/Placard.rfa)
@@ -224,9 +228,9 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 ### Modélisation des gardes-corps{#gardes-corps}
 
-{% include "/categories/architecte/stores.md"  %}
+{% include "/categories/architecte/gardes-corps.md"  %}
 
-### Modélisation des voiries/parkings{#voiries/parkings}
+### Modélisation des voiries{#voiries}
 
-{% include "/categories/architecte/voiries-parkings.md"  %}
+{% include "/categories/architecte/voiries.md"  %}
 {% endblock %}
