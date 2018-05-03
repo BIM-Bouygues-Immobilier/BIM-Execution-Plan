@@ -8,4 +8,4 @@ Les valeurs possibles sont indiquées ci-dessous :
 
 #### Nom des types d'unités de production d'eau chaude
 
-{% include "/00_Referentiel/NomDesUnitesProductionEauChaude.md" %}
+{% include "/00_Referentiel/CVC/NomDesUnitesProductionEauChaude.md" %}

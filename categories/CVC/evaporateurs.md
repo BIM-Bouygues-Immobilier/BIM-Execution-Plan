@@ -8,4 +8,4 @@ Les valeurs possibles sont indiquées ci-dessous :
 
 #### Nom des types d'évaporateurs
 
-{% include "/00_Referentiel/NomDesEvaporateurs.md" %}
+{% include "/00_Referentiel/CVC/NomDesEvaporateurs.md" %}

@@ -1,3 +1,3 @@
 **Nom du type**|**Description**
 :--- | :---
-DES-EQU|Extracteur Sorbonne
+VEN-EQU|Armoire électrique CVCD

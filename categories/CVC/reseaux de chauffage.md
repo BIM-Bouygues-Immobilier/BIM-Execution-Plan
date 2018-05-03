@@ -8,4 +8,4 @@ Les valeurs possibles sont indiquées ci-dessous :
 
 #### Nom des types de réseaux de chauffage
 
-{% include "/00_Referentiel/NomDesReseauxDeChauffage.md" %}
+{% include "/00_Referentiel/CVC/NomDesReseauxDeChauffage.md" %}
