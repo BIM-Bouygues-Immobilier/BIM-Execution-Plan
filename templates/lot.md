@@ -12,9 +12,9 @@ Ce cahier des charges décrit la méthode de travail autour des modèles numéri
 
 Les recommendations de modélisation dépendent du logiciel utilisé. Ces indications permettent de produire les mêmes informations quel que soit le logiciel utilisé.
 
-| [**J'utilise Revit**](#revit) | [**J'utilise Archicad**](#archicad) |[**J'utilise Allplan**](#allplan)| [**J'utilise un autre logiciel**](#ifc) |
+| [**J'utilise Revit**](/lots/{{lot}}/{{lot}}-revit.html) | [**J'utilise Archicad**](/lots/{{lot}}/{{lot}}-archicad.md) |[**J'utilise Allplan**](/lots/{{lot}}/{{lot}}-allplan.md)| [**J'utilise un autre logiciel**](/lots/{{lot}}/{{lot}}-ifc.md) |
 | :---: | :---: | :---: | :---: |
-| [![Revit](/02_Modelisation/00_communs/images/Revit.png)](#revit) | [![Archicad](/02_Modelisation/00_communs/images/archiCAD.png)](#archicad) |[![AllPlan](/02_Modelisation/02_architecte/images/Unternehmenslogo_Allplan.png)](#allplan)| [![IFC](/02_Modelisation/00_communs/images/ifc.jpg)](#ifc) |
+| [![Revit](/02_Modelisation/00_communs/images/Revit.png)](/lots/{{lot}}/{{lot}}-revit.md) | [![Archicad](/02_Modelisation/00_communs/images/archiCAD.png)](/lots/{{lot}}/{{lot}}-archicad.md) |[![AllPlan](/02_Modelisation/02_architecte/images/Unternehmenslogo_Allplan.png)](/lots/{{lot}}/{{lot}}-allplan.md)| [![IFC](/02_Modelisation/00_communs/images/ifc.jpg)](/lots/{{lot}}/{{lot}}-ifc.md) |
 
 ## Plateforme Collaborative{#bimsync}
 

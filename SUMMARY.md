@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Test](/templates/architecte-revit.md)
+* [Test](/lots/architecte/architecte.md)
+* [**J'utilise Revit**](/lots/architecte/architecte-revit.md)
 * [Cas d'usages ](/01_CasUsages/README.md#casusages)
   * [Visualiser la conception en 3D](/01_CasUsages/README.md#visualisation3D)
   * [Echanger autour des modèles](/01_CasUsages/README.md#echanger)

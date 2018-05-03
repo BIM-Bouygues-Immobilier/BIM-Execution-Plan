@@ -228,5 +228,5 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 ### Modélisation des voiries/parkings{#voiries/parkings}
 
-{% include "/categories/architecte/voiries-parkings.md"  %}
+{% include "/categories/architecte/voiries.md"  %}
 {% endblock %}

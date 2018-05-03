@@ -12,7 +12,7 @@ Bouygues Immobilier, sur la base des démarches mises en place pour la valorisat
 
 Pour avoir accès aux cas d'usages BIM: [cas d'usages](/01_CasUsages/README.md)
 
-[Test](/templates/architecte-revit.md)
+[Test](/lots/architecte/architecte.md)
 
 ## Comment utiliser ce guide?
 
