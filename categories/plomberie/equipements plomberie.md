@@ -8,4 +8,4 @@ Les valeurs possibles sont indiquées ci-dessous :
 
 #### Nom des types d'équipements plomberie
 
-{% include "/00_Referentiel/CVC/NomDesEquipementsPlomberie.md" %}
+{% include "/00_Referentiel/plomberie/NomDesEquipementsPlomberie.md" %}

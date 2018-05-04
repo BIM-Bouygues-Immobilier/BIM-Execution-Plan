@@ -20,7 +20,7 @@
 * [Modélisation des ventilo-convecteurs](#ventilo-convecteurs)
 * [Modélisation des bouches de VMC](#bouches de VMC)
 * [Modélisation des équipements CVC](#equipements CVC)
-* [Modélisation des équipement plomberie](#plomberie)
+* [Modélisation des équipements plomberie](#equipements plomberie)
 * [Modélisation des réseaux d'eaux usées](#reseaux d'eau usees)
 * [Modélisation des réseaux d'eaux vannes](#reseaux d'eau vannes)
 * [Modélisation des pompes](#pompes)
@@ -83,9 +83,9 @@
 
 {% include "/categories/CVC/equipements CVC.md"  %}
 
-### Modélisation des équipement plomberie{#equipement plomberie}
+### Modélisation des équipements plomberie{#equipements plomberie}
 
-{% include "/categories/plomberie/CVC.md"  %}
+{% include "/categories/plomberie/equipements plomberie.md"  %}
 
 ### Modélisation des réseaux d'eaux usées{#reseaux d'eau usees}
 
@@ -109,7 +109,7 @@
 
 ### Modélisation des équipements électriques{#equipements electriques}
 
-{% include "/categories/electricite/CVC.md"  %}
+{% include "/categories/electricite/equipements electriques.md"  %}
 
 ### Modélisation des chemins de câbles{#chemins de cables}
 

@@ -8,4 +8,5 @@ Les valeurs possibles sont indiquées ci-dessous :
 
 #### Nom des types d'extracteurs insufalteurs desemfumage
 
-{% include "/00_Referentiel/CVC/NomDesExtracteurInsuflateurDesemfumage.md" %}
+{% include "/00_Referentiel/CVC/NomDesExtracteursInsuflateursDesemfumage.md" %}
+
