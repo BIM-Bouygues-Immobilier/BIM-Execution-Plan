@@ -12,7 +12,8 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 {% endblock %}
 
 {# Ajoute la table des matières pour le lot#}
-{% block specific_toc %}* [Plans de surface](#surface)
+{% block specific_toc %}
+* [Plans de surface](#surface)
 * [Pièces](#piece)
 * [Logements](#logements)
 * [Modélisation des places de parking](#parking)
