@@ -14,8 +14,7 @@
 * [Modélisation des poutres](#poutres)
 * [Modélisation des fondations](#fondations)
 * [Modélisation des gardes-corps](#gardes-corps)
-* [Modélisation des escaliers](#escaliers)
-{% endblock %}
+* [Modélisation des escaliers](#escaliers){% endblock %}
 
 {# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
 {% block lot_specifique_content %}

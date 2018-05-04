@@ -12,33 +12,29 @@ Bouygues Immobilier, sur la base des démarches mises en place pour la valorisat
 
 Pour avoir accès aux cas d'usages BIM: [cas d'usages](/01_CasUsages/README.md)
 
-[Test](/lots/architecte/architecte.md)
-
-## Comment utiliser ce guide?
+## Comment utiliser ce guide ?
 
 Ce guide s'adresse à tous les intervenants qui seront amenés à travailler sur les opérations BIM via des maquettes numériques. Pour faciliter l'accès aux recommandations de travail, le guide est structuré par intervenant.
 
-| Géomètre | Architecte | BET Structure | BET Fluide |Paysagiste |
+| [Géomètre](/lots/geometre/geometre.md) | [Architecte](/lots/architecte/architecte.md) | [B.E.T. Structure](/lots/structure/structure.md) | [B.E.T. Fluide](/lots/fluide/fluide.md) | [Paysagiste](/lots/paysagiste/paysagiste.md) |
 | :---: | :---: | :---: | :---: |:---: |
-| [![](/02_Modelisation/00_communs/images/noun_1082944_cc.png)](/02_Modelisation/01_geometre/README.md) | [![](/02_Modelisation/00_communs/images/noun_1261411_cc.png)](/02_Modelisation/02_architecte/README.md) | [![](/02_Modelisation/00_communs/images/Logo-structure.png)](/02_Modelisation/03_betStructure/README.md) | [![](/02_Modelisation/00_communs/images/noun_907762_cc.png)](/02_Modelisation/04_betFluide/README.md) |[![](/02_Modelisation/00_communs/images/Logo-paysagiste.png)](/02_Modelisation/05_Paysagiste/README.md) |
-| [Recommandation de modélisation](/02_Modelisation/01_geometre/README.md) | [Recommandation de modélisation](/02_Modelisation/02_architecte/README.md) | [Recommandation de modélisation](/02_Modelisation/03_betStructure/README.md) | [Recommandation de modélisation](/02_Modelisation/04_betFluide/README.md) |[Recommandation de modélisation](/02_Modelisation/05_Paysagiste/README.md) |
+| [![Géomètre](/02_Modelisation/00_communs/images/noun_1082944_cc.png)](/lots/geometre/geometre.md) | [![Architecte](/02_Modelisation/00_communs/images/noun_1261411_cc.png)](/lots/architecte/architecte.md) | [![B.E.T. Structure](/02_Modelisation/00_communs/images/Logo-structure.png)](/lots/structure/structure.md) | [![B.E.T. Fluide](/02_Modelisation/00_communs/images/noun_907762_cc.png)](/lots/fluide/fluide.md) |[![Paysagiste](/02_Modelisation/00_communs/images/Logo-paysagiste.png)](/lots/paysagiste/paysagiste.md) |
 
-| BET Façade | BET Ascenseur | Cuisiniste | Décorateur | BET VRD |
+| [B.E.T. Façade](/lots/facade/facade.md)  | [B.E.T. Ascenseur](/lots/ascenseur/ascenseur.md) | [Cuisiniste](/lots/cuisiniste/cuisiniste.md)  | [Décorateur](/lots/decorateur/decorateur.md)  | [B.E.T. VRD](/lots/vrd/vrd.md)  |
 | :---: | :---: | :---: | :---: | :---: |
-| [![](/images/LOGO Façade.png)](/02_Modelisation/06_Facade/README.md)| [![](/images/LOGO ASC.png)](/02_Modelisation/07_Ascenseur/README.md) | [![](/images/LOGO cuisiniste.png)](/02_Modelisation/08_Cuisine/README.md) | [![](/images/LOGO deco.png)](/02_Modelisation/09_Deco/README.md) | [![](/images/LOGO VRD.png)](/02_Modelisation/10_VRD/README.md) |
-| [Recommandation de modélisation](/02_Modelisation/06_Facade/README.md) | [Recommandation de modélisation](/02_Modelisation/07_Ascenseur/README.md) | [Recommandation de modélisation](/02_Modelisation/08_Cuisine/README.md) | [Recommandation de modélisation](/02_Modelisation/09_Deco/README.md) | [Recommandation de modélisation](/02_Modelisation/10_VRD/README.md) |
+| [![B.E.T. Façade](/images/LOGO Façade.png)](/lots/facade/facade.md) | [![B.E.T. Ascenseur](/images/LOGO ASC.png)](/lots/ascenseur/ascenseur.md)  | [![Cuisiniste](/images/LOGO cuisiniste.png)](/lots/cuisiniste/cuisiniste.md)  | [![Décorateur](/images/LOGO deco.png)](/lots/decorateur/decorateur.md)  | [![B.E.T. VRD](/images/LOGO VRD.png)](/lots/vrd/vrd.md) |
 
-## Comment échanger sur le projet?
+## Comment échanger sur le projet ?
 
 Afin de soutenir une démarche collaborative parmi les intervenants sur les projets, Bouygues immobilier a mis en place une plateforme d'échange de données, modèles numériques et documents.
 
 Pour en savoir plus sur la plateforme collaborative, cliquer sur : [Utilisation de la plateforme bimsync](/03_bimsync/README.md)
 
-## Comment chercher des sujets?
+## Comment chercher des sujets ?
 
 Si vous souhaitez chercher des sujets spécifiques dans ce document, utilisez l'outil de recherche:
 
-![](/images/Recherche.PNG)
+![Recherche](/images/Recherche.PNG)
 
 ---
 Image credits [here](/CREDITS.md)
