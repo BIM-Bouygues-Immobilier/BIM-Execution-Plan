@@ -1,2 +1,0 @@
-**Nom du type**|**Description**
-:--- | :---
