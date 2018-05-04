@@ -15,7 +15,7 @@
   * [Archicad](/lots/structure/structure-archicad.md)
   * [Allplan](/lots/structure/structure-allplan.md)
   * [Autre logiciel](/lots/structure/structure-ifc.md)
-* [B.E.T. Fluide](/lots/structure/fluide.md)
+* [B.E.T. Fluide](/lots/fluide/fluide.md)
   * [Revit](/lots/fluide/fluide-revit.md)
   * [Archicad](/lots/fluide/fluide-archicad.md)
   * [Allplan](/lots/fluide/fluide-allplan.md)

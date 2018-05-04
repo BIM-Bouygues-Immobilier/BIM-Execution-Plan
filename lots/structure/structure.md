@@ -2,4 +2,4 @@
 
 {% set lot = "structure" %}
 
-{% block trade_plural %}BET Structure{% endblock %}
+{% block trade_plural %}B.E.T. Structure{% endblock %}
