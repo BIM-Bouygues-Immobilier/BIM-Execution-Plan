@@ -1,4 +1,4 @@
-# Démarrer avec Bimsync
+# Démarrer avec bimsync
 
 ## Invitation
 
@@ -9,11 +9,11 @@ L’invitation à rejoindre la plateforme et le projet prend la forme d’un ema
 
 ## Login
 
-Une fois sur la plateforme, rentrez les informations demandées : nom, adresse email et mot de passe. Ces informations vous servirons pour vos futures connections. Pour se faire, rendez-vous sur le site Bimsync \([https://bimsync.com](https://bimsync.com)\), cliquer sur Login et rentrez les informations précédemment renseignées.
+Une fois sur la plateforme, rentrez les informations demandées : nom, adresse email et mot de passe. Ces informations vous servirons pour vos futures connections. Pour se faire, rendez-vous sur le site bimsync \([https://bimsync.com](https://bimsync.com)\), cliquer sur Login et rentrez les informations précédemment renseignées.
 
 ![](/03_bimsync/demarrage-images/demarrage02.png)
 
-Vous accédez alors à la liste des projets Bimsync :
+Vous accédez alors à la liste des projets bimsync :
 
 ![](/03_bimsync/demarrage-images/demarrage03.png)
 

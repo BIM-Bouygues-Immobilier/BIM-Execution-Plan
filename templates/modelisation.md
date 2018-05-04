@@ -38,7 +38,7 @@ Vous devrez produire à minima un modèle par bâtiment. Vous êtes ensuite libr
 
 {% block lot_decoupage %}{% endblock %}
 
-Vous demanderez alors au BIM Manager la création des modèles correspondants sur la plateforme d’échange Bimsync.
+Vous demanderez alors au BIM Manager la création des modèles correspondants sur la plateforme d’échange bimsync.
 
 Les modèles sont nommés de la façon suivante :
 

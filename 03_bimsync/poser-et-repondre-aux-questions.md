@@ -56,7 +56,7 @@ Ensuite dans le navigateur à gauche de l’écran, ouvrir l’onglet des sujets
 
 Le sujet crée sera donc associé automatiquement à un vue 3D.
 
-Pour retourner sur la vue associé au sujet, il suffira de ouvrir le sujet et de cliquer sur l’icône « Caméra ». L’espace 3D de Bimsync s’ouvrira automatiquement en chargeant les modèles concernés et les plans de coupe définis et la vue sera alors automatiquement centrée à l’emplacement de la question.
+Pour retourner sur la vue associé au sujet, il suffira de ouvrir le sujet et de cliquer sur l’icône « Caméra ». L’espace 3D de bimsync s’ouvrira automatiquement en chargeant les modèles concernés et les plans de coupe définis et la vue sera alors automatiquement centrée à l’emplacement de la question.
 
 ![](/03_bimsync/poser-et-repondre-aux-questions-images/poser-et-repondre-aux-questions-images-10.PNG)
 

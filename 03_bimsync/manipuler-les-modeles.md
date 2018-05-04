@@ -1,6 +1,6 @@
 # Manipuler les Modèles
 
-Bimsync permet une navigation fluide dans les modèles de votre projet grâce à des outils de visualisation numérique en 2D et 3D.
+bimsync permet une navigation fluide dans les modèles de votre projet grâce à des outils de visualisation numérique en 2D et 3D.
 
 ## Afficher un ou plusieurs modèles
 
@@ -16,7 +16,7 @@ Pour afficher un modèle cliquez sur 3D ou 2D \(3\) en fonction de l’affichage
 
 ## Naviguer dans un modèle
 
-Bimsync permet de zoomer, déplacer et tourner autour d’un modèle.
+bimsync permet de zoomer, déplacer et tourner autour d’un modèle.
 
 Utilisez la molette de votre souris pour zoomer et dé-zoomer :
 

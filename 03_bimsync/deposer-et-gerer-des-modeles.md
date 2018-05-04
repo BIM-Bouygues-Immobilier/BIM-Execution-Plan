@@ -4,7 +4,7 @@ Afin de pouvoir manipuler les modèles dans le module de visualisation, il est n
 
 ## Déposer un nouveau modèle
 
-Bimsync permet de déposer des modèles numériques au format IFC 2x3 dans l’un des emplacements prédéfini sur le projet
+bimsync permet de déposer des modèles numériques au format IFC 2x3 dans l’un des emplacements prédéfini sur le projet
 
 Pour cela, cliquez sur l’emplacement où vous souhaitez déposer votre modèle, ici « Architecte » \(1\), et cliquez sur « Importer » \(2\):
 
@@ -27,21 +27,21 @@ Une série de notifications indiquent que le modèle est déposé sur bimsync \(
 
 ![](/03_bimsync/deposer-et-gerer-des-modeles-images/deposer-et-gerer-des-modeles-image-05.PNG)
 
-Bimsync accèpte des fichiers IFC avec une taille maximale de 512MB. Dans le cas où votre fichier IFC dépasse cette taille, il est possible de compresser le fichier IFC et de déposer sur la plateforme le fichier en format .zip.
+bimsync accèpte des fichiers IFC avec une taille maximale de 512MB. Dans le cas où votre fichier IFC dépasse cette taille, il est possible de compresser le fichier IFC et de déposer sur la plateforme le fichier en format .zip.
 
 ![](/03_bimsync/deposer-et-gerer-des-modeles-images/Compression MN 2.png)
 
 Compresser le fichier IFC en réduit considérablement la taille:
 
 ![](/03_bimsync/deposer-et-gerer-des-modeles-images/Compression MN 1.png)
-Afin de pouvoir charger le fichier compressé sur Bimsync, lors du chargement du modèle, sélectionner «tous les fichiers» dans la boîte de dialogue de l'ouverture des fichiers:
+Afin de pouvoir charger le fichier compressé sur bimsync, lors du chargement du modèle, sélectionner «tous les fichiers» dans la boîte de dialogue de l'ouverture des fichiers:
 
 ![](/03_bimsync/deposer-et-gerer-des-modeles-images/Compression MN 3.png)
 
 
 ## Afficher les versions d’un modèle
 
-Bimsync conserve l’ensemble des révisions d’un modèle, ainsi que la date de dépôt \(1\), et le dépositaire \(2\). Il est possible de visualiser une version précédente en sélectionnant 2D ou 3D \(3\) en face de cette version.
+bimsync conserve l’ensemble des révisions d’un modèle, ainsi que la date de dépôt \(1\), et le dépositaire \(2\). Il est possible de visualiser une version précédente en sélectionnant 2D ou 3D \(3\) en face de cette version.
 
 ![](/03_bimsync/deposer-et-gerer-des-modeles-images/deposer-et-gerer-des-modeles-image-06.PNG)
 

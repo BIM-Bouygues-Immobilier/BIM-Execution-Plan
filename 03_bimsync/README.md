@@ -1,8 +1,8 @@
-# Utilisation de la plateforme collaborative Bimsync
+# Utilisation de la plateforme collaborative bimsync
 
-Cet article permet une première prise en main de la plateforme Bimsync.
+Cet article permet une première prise en main de la plateforme bimsync.
 
-Il vous permettra notamment d’apprendre à accéder, vous connecter et créer votre compte Bimsync, ainsi que de naviguer les modèles et gérer le dépôt des fichiers et des maquettes.
+Il vous permettra notamment d’apprendre à accéder, vous connecter et créer votre compte bimsync, ainsi que de naviguer les modèles et gérer le dépôt des fichiers et des maquettes.
 
 ![](/03_bimsync/demarrage-images/demarrage03.png)
 
