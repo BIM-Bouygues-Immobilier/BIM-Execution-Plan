@@ -1,11 +1,11 @@
-Les équipements plomberie sont modélisés à l'aide d'une famille de la catégorie équipement de génie climatique de {{logiciel}}.
+Les équipements plomberie sont modélisés à l'aide d'une famille de la catégorie Appareils sanitaires de {{logiciel}}.
 
-Le nom du type du réseau  doit suivre le schéma suivant :
+Le nom du type de l'équipement plomberie doit suivre le schéma suivant :
 
 > CVC-FRO-EQU-_CODE ELEMENT_
 
 Les valeurs possibles sont indiquées ci-dessous :
 
-#### Nom des types d'évaporateurs
+#### Nom des types d'équipements plomberie
 
-{% include "/00_Referentiel/CVC/NomDesEvaporateurs.md" %}
+{% include "/00_Referentiel/CVC/NomDesEquipementsPlomberie.md" %}
