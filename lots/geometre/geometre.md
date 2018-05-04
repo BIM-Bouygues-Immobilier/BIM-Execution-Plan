@@ -1,5 +1,5 @@
 {% extends "/templates/lot.md" %}
 
-{% set lot = "structure" %}
+{% set lot = "geometre" %}
 
-{% block trade_plural %}B.E.T. Structure{% endblock %}
+{% block trade_plural %}géomètres{% endblock %}
