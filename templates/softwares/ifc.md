@@ -1,4 +1,5 @@
 {% extends "/templates/modelisation.md" %}
+{% set logiciel = "IFC" %}
 
 {# Décrit le format de fichier du logiciel #}
 {% block logicel_format %}IFCZip (.ifczip){% endblock %}

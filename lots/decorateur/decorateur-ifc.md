@@ -1,5 +1,5 @@
 {% extends "/templates/softwares/ifc.md" %}
-{% set logiciel = "IFC" %}
+
 
 {# Donne un exemple de découpage pour le lot #}
 {% block lot_decoupage %}Vous pouvez par exemple séparer votre modèle en deux, Décoration et Mobiliers{% endblock %}

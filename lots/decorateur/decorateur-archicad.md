@@ -1,5 +1,4 @@
 {% extends "/templates/softwares/archicad.md" %}
-{% set logiciel = "ArchiCAD" %}
 
 {# Donne un exemple de découpage pour le lot #}
 {% block lot_decoupage %}Vous pouvez par exemple séparer votre modèle en deux, Décoration et Mobiliers{% endblock %}

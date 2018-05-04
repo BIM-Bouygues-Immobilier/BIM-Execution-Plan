@@ -1,5 +1,5 @@
 {% extends "/templates/softwares/revit.md" %}
-{% set logiciel = "Revit" %}
+
 
 {# Donne un exemple de découpage pour le lot #}
 {% block lot_decoupage %}{% endblock %}

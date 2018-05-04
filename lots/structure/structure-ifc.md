@@ -1,5 +1,5 @@
 {% extends "/templates/softwares/ifc.md" %}
-{% set logiciel = "IFC" %}
+
 
 {# Donne un exemple de découpage pour le lot #}
 {% block lot_decoupage %}Votre modèle peut ainsi être séparé en 2 modèles, Infrastructe et Superstructure, par exemple.{% endblock %}
