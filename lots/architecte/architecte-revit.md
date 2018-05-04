@@ -16,9 +16,24 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 {% block specific_toc %}* [Plans de surface](#surface)
 * [Pièces](#piece)
 * [Logements](#logements)
-* [Places de parking](#parking)
+* [Modélisation des places de parking](#parking)
+* [Modélisation des Placards](#placards)
 * [Modélisation des murs](#murs)
-* [Placards](#placards){% endblock %}
+* [Modélisation des poteaux](#poteaux)
+* [Modélisation des poutres](#poutres)
+* [Modélisation des planchers](#planchers)
+* [Modélisation des toitures](#toitures)
+* [Modélisation des fenetres](#fenetres)
+* [Modélisation des murs rideaux](#murs rideaux)
+* [Modélisation des cloisons](#cloisons)
+* [Modélisation des plafonds](#plafonds)
+* [Modélisation des portes](#portes)
+* [Modélisation des brises soleil](#brises soleil)
+* [Modélisation des stores](#stores)
+* [Modélisation des appareils élévateurs](#appareils élévateurs)
+* [Modélisation des escaliers](#escaliers)
+* [Modélisation des gardes-corps](#gardes-corps)
+* [Modélisation des voiries](#voiries){% endblock %}
 
 {# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
 {% block lot_specifique_content %}
@@ -226,7 +241,7 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 {% include "/categories/architecte/stores.md"  %}
 
-### Modélisation des voiries/parkings{#voiries/parkings}
+### Modélisation des voiries{#voiries}
 
 {% include "/categories/architecte/voiries.md"  %}
 {% endblock %}

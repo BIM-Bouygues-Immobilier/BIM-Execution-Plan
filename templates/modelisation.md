@@ -4,8 +4,7 @@
 * [Livrables](#livrables)
 * [Découpage des modèles](#découpage)
 * [Positionnement des modèles](#position)
-* [Modélisation des niveaux](#niveaux)
-{% block specific_toc %}{% endblock %}
+* [Modélisation des niveaux](#niveaux){% block specific_toc %}{% endblock %}
 * [Export au format IFC](#export)
 
 ## Généralités{#generalites}
