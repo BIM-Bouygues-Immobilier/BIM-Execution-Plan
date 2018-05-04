@@ -6,7 +6,7 @@ Les propriétés de type suivantes sont à compléter pour tout les types de mur
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Nom du type | Voir « Nom des types de mur »  |  |
+| Nom du type | Voir « Nom des types de mur »  |
 
 #### Nom des types de mur
 
