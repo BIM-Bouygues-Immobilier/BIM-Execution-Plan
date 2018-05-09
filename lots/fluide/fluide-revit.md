@@ -89,7 +89,7 @@
 
 ### Modélisation des réseaux d'eaux usées{#reseaux d'eau usees}
 
-{% include "/categories/plomberie/reseaux eau usees.md"  %}
+{% include "/categories/plomberie/reseaux eaux usees.md"  %}
 
 ### Modélisation des réseaux d'eaux vannes{#reseaux d'eaux vannes}
 
@@ -101,7 +101,7 @@
 
 ### Modélisation des accessoires sanitaires{#sanitaires}
 
-{% include "/categories/plomberie/sanitaires.md"  %}
+{% include "/categories/plomberie/accessoires sanitaires.md"  %}
 
 ### Modélisation des colonnes sèches{#colonnes seches}
 
@@ -121,6 +121,6 @@
 
 ### Modélisation des équipements sûreté sécurité{equipements surete securite}
 
-{% include "/categories/electricite/equipements surete securite.md"  %}
+{% include "/categories/surete securite/equipements surete securite.md"  %}
 
 {% endblock %}

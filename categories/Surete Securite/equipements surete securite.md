@@ -8,4 +8,4 @@ Les valeurs possibles sont indiquées ci-dessous :
 
 #### Nom des types d'équipements Sûreté Sécurité
 
-{% include "/00_Referentiel/SSI/NomDesEquipementsSureteSecurite.md" %}
+{% include "/00_Referentiel/surete securite/NomDesEquipementsSureteSecurite.md" %}
