@@ -30,7 +30,7 @@
 * [Modélisation des équipements électriques](#equipements electriques)
 * [Modélisation des chemins de câbles](#chemin de cable)
 * [Modélisation des équipements SSI](#equipements SSI)
-* [Modélisation des équipements sûreté sécurité](#equipements surete securite)
+* [Modélisation des équipements sûreté sécurité](#equipements-surete-securite)
 {% endblock %}
 
 {# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
@@ -120,8 +120,8 @@
 
 {% include "/categories/SSI/equipements SSI.md"  %}
 
-### Modélisation des équipements sûreté sécurité{equipements surete securite}
+### Modélisation des équipements sûreté sécurité{#equipements-surete-securite}
 
-{% include "/categories/surete securite/equipements surete securite.md"  %}
+{% include "/categories/surete-securite/equipements surete securite.md"  %}
 
 {% endblock %}
