@@ -205,7 +205,7 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 ### Modélisation des murs rideaux{#murs rideaux}
 
-{% include "/categories/architecte/murs rideaux.md"  %}
+{% include "/categories/architecte/murs-rideaux.md"  %}
 
 ### Modélisation des cloisons{#cloisons}
 
@@ -221,7 +221,7 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 ### Modélisation des brises soleil{#brises soleil}
 
-{% include "/categories/architecte/brises soleil.md"  %}
+{% include "/categories/architecte/brises-soleil.md"  %}
 
 ### Modélisation des stores{#stores}
 
@@ -229,7 +229,7 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 ### Modélisation des appareils élévateurs{#appareils élévateurs}
 
-{% include "/categories/architecte/appareils elevateurs.md"  %}
+{% include "/categories/architecte/appareils-elevateurs.md"  %}
 
 ### Modélisation des escaliers{#escaliers}
 

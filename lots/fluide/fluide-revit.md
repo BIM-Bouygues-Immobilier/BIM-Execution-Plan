@@ -77,7 +77,7 @@
 
 ### Modélisation des bouches de VMC{#bouches-de-VMC}
 
-{% include "/categories/CVC/bouches-de-VMC.md"  %}
+{% include "/categories/CVC/bouche-de-VMC.md"  %}
 
 ### Modélisation des équipements CVC{#equipements-CVC}
 
@@ -121,6 +121,6 @@
 
 ### Modélisation des équipements sûreté sécurité{equipements-surete-securite}
 
-{% include "/categories/surete securite/equipements-surete-securite.md"  %}
+{% include "/categories/surete-securite/equipements-surete-securite.md"  %}
 
 {% endblock %}
