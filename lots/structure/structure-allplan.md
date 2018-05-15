@@ -8,7 +8,8 @@
 {% block lot_specifique_generalites %}{% endblock %}
 
 {# Ajoute la table des matières pour le lot#}
-{% block specific_toc %}* [Modélisation des voiles](#murs)
+{% block specific_toc %}
+* [Modélisation des voiles](#murs)
 * [Modélisation des planchers](#sols)
 * [Modélisation des poteaux](#poteaux)
 * [Modélisation des poutres](#poutres)

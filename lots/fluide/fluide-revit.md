@@ -9,28 +9,27 @@
 {# Ajoute la table des matières pour le lot#}
 {% block specific_toc %}
 * [Modélisation des CVC](#CVC)
-* [Modélisation des unités de production d'eau chaude](#unites-de-production-d'eau-chaude)
+* [Modélisation des unités de production d'eau chaude](#unites-de-production-eau-chaude)
 * [Modélisation des réseaux de chauffage](#reseaux-de-chauffage)
 * [Modélisation des aérothermes convecteurs](#aerothermes-convecteurs)
 * [Modélisation des extracteurs insuflateurs désemfumage](#extracteurs-insuflateurs-desemfumage)
 * [Modélisation des réseaux de désemfumage](#reseaux-de-desemfumage)
 * [Modélisation des CVF](#VCF)
 * [Modélisation des CTA](#CTA)
-* [Modélisation des réseaux de ventilation CVC](reseaux-de-ventilation CVC#)
+* [Modélisation des réseaux de ventilation CVC](#reseaux-de-ventilation-CVC)
 * [Modélisation des ventilo-convecteurs](#ventilo-convecteurs)
 * [Modélisation des bouches de VMC](#bouches-de-VMC)
 * [Modélisation des équipements CVC](#equipements-CVC)
 * [Modélisation des équipements plomberie](#equipements-plomberie)
-* [Modélisation des réseaux d'eaux usées](#reseaux-d'eau-usees)
-* [Modélisation des réseaux d'eaux vannes](#reseaux-d'eau-vannes)
+* [Modélisation des réseaux d'eaux usées](#reseaux-eaux-usees)
+* [Modélisation des réseaux d'eaux vannes](#reseaux-eaux-vannes)
 * [Modélisation des pompes](#pompes)
 * [Modélisation des accessoires sanitaires](#accessoires-sanitaires)
 * [Modélisation des colonnes sèches](#colonnes-seches)
 * [Modélisation des équipements électriques](#equipements-electriques)
-* [Modélisation des chemins de câbles](#chemin-de-cable)
+* [Modélisation des chemins de câbles](#chemins-de-cables)
 * [Modélisation des équipements SSI](#equipements-SSI)
-* [Modélisation des équipements sûreté sécurité](#equipements-surete-securite)
-{% endblock %}
+* [Modélisation des équipements sûreté sécurité](#equipements-surete-securite){% endblock %}
 
 {# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
 {% block lot_specifique_content %}
@@ -39,7 +38,7 @@
 
 {% include "/categories/CVC/CVC.md"  %}
 
-### Modélisation des unités de production d'eau chaude{#unites-de-production-d'eau-chaude}
+### Modélisation des unités de production d'eau chaude{#unites-de-production-eau-chaude}
 
 {% include "/categories/CVC/unites-production-eau-chaude.md"  %}
 
@@ -87,11 +86,11 @@
 
 {% include "/categories/plomberie/equipements-plomberie.md"  %}
 
-### Modélisation des réseaux d'eaux usées{#reseaux-d'eau-usees}
+### Modélisation des réseaux d'eaux usées{#reseaux-eaux-usees}
 
 {% include "/categories/plomberie/reseaux-eaux-usees.md"  %}
 
-### Modélisation des réseaux d'eaux vannes{#reseaux-d'eaux-vannes}
+### Modélisation des réseaux d'eaux vannes{#reseaux-eaux-vannes}
 
 {% include "/categories/plomberie/reseaux-eaux-vannes.md"  %}
 
@@ -119,8 +118,7 @@
 
 {% include "/categories/SSI/equipements-SSI.md"  %}
 
-### Modélisation des équipements sûreté sécurité{equipements-surete-securite}
+### Modélisation des équipements sûreté sécurité{#equipements-surete-securite}
 
 {% include "/categories/surete-securite/equipements-surete-securite.md"  %}
-
 {% endblock %}

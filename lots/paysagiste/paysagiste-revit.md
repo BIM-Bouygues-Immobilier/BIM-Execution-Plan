@@ -11,7 +11,7 @@
 {% block specific_toc %}
 * [Modélisation des site](#sites)
 * [Modélisation des sols](#sols)
-* [Modélisation des équipements spécialisés](#equipements sepcialises)
+* [Modélisation des équipements spécialisés](#equipements-specialises)
 * [Modélisation des parkings](#parkings)
 * [Modélisation du mobilier](#mobilier)
 * [Modélisation des plantes](#plantes){% endblock %}
@@ -27,7 +27,7 @@
 
 {% include "/categories/paysagiste/sols.md"  %}
 
-### Modélisation des équipements spécialisés{#equipements specialises}
+### Modélisation des équipements spécialisés{#equipements-specialises}
 
 {% include "/categories/paysagiste/equipements-specialises.md"  %}
 

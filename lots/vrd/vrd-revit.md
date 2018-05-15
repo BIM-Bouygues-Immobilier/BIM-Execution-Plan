@@ -9,7 +9,7 @@
 
 {# Ajoute la table des matières pour le lot#}
 {% block specific_toc %}
-* [Modélisation des équipements VRD](#equipements VRD)
+* [Modélisation des équipements VRD](#equipements-VRD)
 * [Modélisation du mobilier](#mobilier)
 * [Modélisation des réseaux](#reseaux)
 * [Modélisation de la topographie](#topographie)
@@ -19,7 +19,7 @@
 {# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
 {% block lot_specifique_content %}
 
-### Modélisation des équipements VRD{#equipements VRD}
+### Modélisation des équipements VRD{#equipements-VRD}
 
 {% include "/categories/VRD/equipements-VRD.md"  %}
 
