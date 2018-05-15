@@ -86,15 +86,15 @@
 
 ### Modélisation des équipements plomberie{#equipements plomberie}
 
-{% include "/categories/plomberie/equipements plomberie.md"  %}
+{% include "/categories/plomberie/equipements-plomberie.md"  %}
 
 ### Modélisation des réseaux d'eaux usées{#reseaux d'eau usees}
 
-{% include "/categories/plomberie/reseaux eaux usees.md"  %}
+{% include "/categories/plomberie/reseaux-eaux-usees.md"  %}
 
 ### Modélisation des réseaux d'eaux vannes{#reseaux d'eaux vannes}
 
-{% include "/categories/plomberie/reseaux eaux vannes.md"  %}
+{% include "/categories/plomberie/reseaux-eaux-vannes.md"  %}
 
 ### Modélisation des pompes{#pompes}
 
@@ -102,11 +102,11 @@
 
 ### Modélisation des accessoires sanitaires{#sanitaires}
 
-{% include "/categories/plomberie/accessoires sanitaires.md"  %}
+{% include "/categories/plomberie/accessoires-sanitaires.md"  %}
 
 ### Modélisation des colonnes sèches{#colonnes seches}
 
-{% include "/categories/plomberie/colonnes seches.md"  %}
+{% include "/categories/plomberie/colonnes-seches.md"  %}
 
 ### Modélisation des équipements électriques{#equipements electriques}
 
@@ -118,10 +118,10 @@
 
 ### Modélisation des équipements SSI{#equipements SSI}
 
-{% include "/categories/SSI/equipements SSI.md"  %}
+{% include "/categories/SSI/equipements-SSI.md"  %}
 
 ### Modélisation des équipements sûreté sécurité{#equipements-surete-securite}
 
-{% include "/categories/surete-securite/equipements surete securite.md"  %}
+{% include "/categories/surete-securite/equipements-surete-securite.md"  %}
 
 {% endblock %}
