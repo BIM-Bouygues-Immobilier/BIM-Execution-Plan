@@ -9,15 +9,15 @@
 
 {# Ajoute la table des matières pour le lot#}
 {% block specific_toc %}
-* [Modélisation des cages d'ascenseurs](#cages ascenseurs)
+* [Modélisation des cages d'ascenseurs](#cages-ascenseurs)
 * [Modélisation des ascenseurs](#ascenseurs)
 {% endblock %}
 
 {# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
 {% block lot_specifique_content %}
-### Modélisation des cages d'ascenseurs{#cages ascenseurs}
+### Modélisation des cages d'ascenseurs{#cages-ascenseurs}
 
-{% include "/categories/ascenseurs/cages ascenseurs.md"  %}
+{% include "/categories/ascenseurs/cages-ascenseurs.md"  %}
 
 ### Modélisation des ascenseurs{#ascenseurs}
 

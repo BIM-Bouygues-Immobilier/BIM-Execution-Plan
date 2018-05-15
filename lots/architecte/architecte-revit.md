@@ -24,13 +24,13 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 * [Modélisation des planchers](#planchers)
 * [Modélisation des toitures](#toitures)
 * [Modélisation des fenetres](#fenetres)
-* [Modélisation des murs rideaux](#murs rideaux)
+* [Modélisation des murs rideaux](#murs-rideaux)
 * [Modélisation des cloisons](#cloisons)
 * [Modélisation des plafonds](#plafonds)
 * [Modélisation des portes](#portes)
-* [Modélisation des brises soleil](#brises soleil)
+* [Modélisation des brises soleil](#brises-soleil)
 * [Modélisation des stores](#stores)
-* [Modélisation des appareils élévateurs](#appareils élévateurs)
+* [Modélisation des appareils élévateurs](#appareils-elevateurs)
 * [Modélisation des escaliers](#escaliers)
 * [Modélisation des gardes-corps](#gardes-corps)
 * [Modélisation des voiries](#voiries){% endblock %}
@@ -205,9 +205,9 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 {% include "/categories/architecte/fenetres.md"  %}
 
-### Modélisation des murs rideaux{#murs rideaux}
+### Modélisation des murs rideaux{#murs-rideaux}
 
-{% include "/categories/architecte/murs rideaux.md"  %}
+{% include "/categories/architecte/murs-rideaux.md"  %}
 
 ### Modélisation des cloisons{#cloisons}
 
@@ -221,17 +221,17 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 {% include "/categories/architecte/portes.md"  %}
 
-### Modélisation des brises soleil{#brises soleil}
+### Modélisation des brises soleil{#brises-soleil}
 
-{% include "/categories/architecte/brises soleil.md"  %}
+{% include "/categories/architecte/brises-soleil.md"  %}
 
 ### Modélisation des stores{#stores}
 
 {% include "/categories/architecte/stores.md"  %}
 
-### Modélisation des appareils élévateurs{#appareils élévateurs}
+### Modélisation des appareils élévateurs{#appareils-elevateurs}
 
-{% include "/categories/architecte/appareils elevateurs.md"  %}
+{% include "/categories/architecte/appareils-elevateurs.md"  %}
 
 ### Modélisation des escaliers{#escaliers}
 
