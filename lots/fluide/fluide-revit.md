@@ -8,7 +8,7 @@
 
 {# Ajoute la table des matières pour le lot#}
 {% block specific_toc %}
-* [Modélisation des CVC](#CVC)
+* [Modélisation des équipements de CVC](#CVC)
 * [Modélisation des unités de production d'eau chaude](#unites-de-production-eau-chaude)
 * [Modélisation des réseaux de chauffage](#reseaux-de-chauffage)
 * [Modélisation des aérothermes convecteurs](#aerothermes-convecteurs)

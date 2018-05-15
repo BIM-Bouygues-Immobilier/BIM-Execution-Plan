@@ -12,7 +12,7 @@ Le nom du type du réseau de ventilation CVC  doit suivre le schéma suivant :
 
 > CVC-VEN-RES-_CODE ELEMENT_
 
-{% include \00_Referentiel\CVC\NomDesReseauxDeVentilationCVC.md %}
+{% include "/00_Referentiel/CVC/NomDesReseauxDeVentilationCVC.md" %}
 
 ### Couleur des systèmes
 
