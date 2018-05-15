@@ -21,7 +21,7 @@
 
 ### Modélisation des équipements VRD{#equipements VRD}
 
-{% include "/categories/VRD/equipements VRD.md"  %}
+{% include "/categories/VRD/equipements-VRD.md"  %}
 
 ### Modélisation du mobilier{#mobilier}
 

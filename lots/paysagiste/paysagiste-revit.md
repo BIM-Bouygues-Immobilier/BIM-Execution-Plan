@@ -1,11 +1,14 @@
 {% extends "/templates/softwares/revit.md" %}
 
-
 {# Donne un exemple de découpage pour le lot #}
 {% block lot_decoupage %}Votre modèle peut ainsi être séparé en 2 modèles, Voirie et Jardin, par exemple.{% endblock %}
 
 {# Donne des recommendation de modélisaiton générales propre au lot#}
 {% block lot_specifique_generalites %}
+{% endblock %}
+
+{# Ajoute la table des matières pour le lot#}
+{% block specific_toc %}
 * [Modélisation des site](#sites)
 * [Modélisation des sols](#sols)
 * [Modélisation des équipements spécialisés](#equipements sepcialises)
@@ -13,8 +16,9 @@
 * [Modélisation du mobilier](#mobilier)
 * [Modélisation des plantes](#plantes){% endblock %}
 
-{# Ajoute la table des matières pour le lot#}
-{% block specific_toc %}
+{# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
+{% block lot_specifique_content %}
+
 ### Modélisation des sites{#sites}
 
 {% include "/categories/paysagiste/sites.md"  %}
@@ -25,7 +29,7 @@
 
 ### Modélisation des équipements spécialisés{#equipements specialises}
 
-{% include "/categories/paysagiste/equipements specialises.md"  %}
+{% include "/categories/paysagiste/equipements-specialises.md"  %}
 
 ### Modélisation des parkings{#parkings}
 
@@ -40,9 +44,3 @@
 {% include "/categories/paysagiste/plantes.md"  %}
 
 {% endblock %}
-
-{# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
-{% block lot_specifique_content %}
-
-
-{% endblock %} 
