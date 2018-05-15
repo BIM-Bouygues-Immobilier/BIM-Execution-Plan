@@ -1,4 +1,5 @@
 {% extends "/templates/modelisation.md" %}
+{% set logiciel = "Revit" %}
 
 {# Décrit le format de fichier du logiciel #}
 {% block logicel_format %}Autodesk Revit (.rvt){% endblock %}

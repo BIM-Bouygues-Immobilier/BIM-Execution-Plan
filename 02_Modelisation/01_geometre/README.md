@@ -20,7 +20,7 @@ Ces articles regroupent les recommandations de modélisation pour les géomètre
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/01_geometre/georeferencement-rvt.md)
-* Les modèles déposés sur la plateforme collaborative Bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
+* Les modèles déposés sur la plateforme collaborative bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md)
 * La modélisation des éléments de l'environnement doivent respecter des règles précises, décrites ici : [Modélisation de l'environnement](/02_Modelisation/01_geometre/modelisation-rvt.md)
 * Dans le cas d'une intervention de réhabilitation, la modélisation du bâtiment avant curage doit respecter les recommandations décrites ici : [Modélisation avant curage](/02_Modelisation/01_geometre/modelisation-existant-batiment.md#avant)
 * La modélisation du bâtiment après curage doit également respecter des recommandations, décrites ici : [Modélisation après curage](/02_Modelisation/01_geometre/modelisation-existant-batiment.md#apres)
@@ -33,7 +33,7 @@ Chaque intervenant est responsable du paramétrage de son logiciel.
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres.
-* Les modèles déposés sur la plateforme collaborative Bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
+* Les modèles déposés sur la plateforme collaborative bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
 * Dans le cas d'une intervention de réhabilitation, la modélisation du bâtiment avant curage doit respecter les recommandations décrites ici : [Modélisation avant curage](/02_Modelisation/01_geometre/modelisation-existant-batiment.md#avant)
 * La modélisation du bâtiment après curage doit également respecter des recommandations, décrites ici : [Modélisation après curage](/02_Modelisation/01_geometre/modelisation-existant-batiment.md#apres)
 

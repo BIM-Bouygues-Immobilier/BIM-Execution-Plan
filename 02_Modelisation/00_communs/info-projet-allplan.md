@@ -20,8 +20,8 @@ Les "Attributs de projet" devront être complétés en suivant le schéma qui su
 
 | Groupe et nom de la propriété | Valeur |
 | :---: | :---: |
-| Général\_Nom du projet | Le nom du projet, tel que indiqué sur Bimsync |
-| Général\_Numéro du projet | Le numéro du projet, tel que indiqué sur Bimsync |
+| Général\_Nom du projet | Le nom du projet, tel que indiqué sur bimsync |
+| Général\_Numéro du projet | Le numéro du projet, tel que indiqué sur bimsync |
 | Général\_Description du projet | Type d'intervention \(Rénovation, Nouvelle construction, ...\) |
 | Général\_Phase de travaux/d'étude | La phase du projet |
 | Général\_Degré de latitude | La latitude du projet |

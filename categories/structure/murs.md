@@ -4,10 +4,8 @@ Les propriétés de type suivantes sont à compléter pour tout les types de mur
 
 ![TypeDeMur](/02_Modelisation/02_architecte/images/TypeDeMur.png)
 
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Nom du type | Voir « Nom des types de mur »  |  |
+Les valeurs possibles sont indiquées ci-dessous :
 
 #### Nom des types de mur
 
-{% include "/00_Referentiel/NomDesMurs.md" %}
+{% include "/00_Referentiel/structure/NomDesMurs.md" %}

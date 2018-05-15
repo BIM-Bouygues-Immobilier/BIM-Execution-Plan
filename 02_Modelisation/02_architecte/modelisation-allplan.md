@@ -53,7 +53,7 @@ Le renseignement de la destination des pièces devra se faire dans la propriét�
 ### ... et pour le calcul de la SDP {#SDP}
 
 Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Surface de Plancher \(SDP\) sont calculées en additionnant les différents types de surfaces du projet. 
-Des objets "Pièces" devront être modélisés spécifiquement pour permettre ce calcul. 
+Des objets "Pièces" devront être modélisés spécifiquement pour permettre ce calcul.
 
 Contrairement aux pièces qui représentent les locaux, le nom des pièces pour le calcul des surfaces associé à la propriété "Fonction" devra être choisi parmi la liste suivante:
 
@@ -64,21 +64,4 @@ Le renseignement de la destination de la surface suivra le même logique décrit
 Le plan suivant montre un exemple de la modélisation des pièces finalisée au calcul de la SDP:
 
 ![](/02_Modelisation/02_architecte/images/Surfaces_ExempleNiveauCourant.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

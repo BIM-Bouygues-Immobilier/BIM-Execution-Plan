@@ -27,7 +27,7 @@ Par exemple :
 * Un modèle Fluides peut ainsi être séparé en 3 modèles distincts, Climatisation, Plomberie et Electricité.
 * Un modèle Architecte peut être séparé en 2 modèles, Façades et Intérieur.
 
-L'intervenant demandera alors au BIM Manager la création des modèles correspondants sur la plateforme d’échange Bimsync.
+L'intervenant demandera alors au BIM Manager la création des modèles correspondants sur la plateforme d’échange bimsync.
 
 Les modèles sont nommés de la façon suivante : CODE DISCIPLINE - CODE BATIMENT
 

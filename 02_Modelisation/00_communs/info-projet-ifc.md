@@ -9,9 +9,9 @@ Les propriétés suivantes doivent apparaitre dans le fichier IFC.
 
 En IFC:
 
-IfcProject.Name = Numéro du projet, tel que indiqué sur Bimsync
+IfcProject.Name = Numéro du projet, tel que indiqué sur bimsync
 
-IfcProject.LongName = Nom du projet tel que indiqué sur Bimsync
+IfcProject.LongName = Nom du projet tel que indiqué sur bimsync
 
 IfcProject.Phase = Phase du projet
 

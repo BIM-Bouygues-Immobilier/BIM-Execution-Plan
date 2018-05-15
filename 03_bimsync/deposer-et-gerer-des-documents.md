@@ -1,6 +1,6 @@
 # Déposer et gérer des documents
 
-Bimsync permet le partage de l’ensemble des documents d’un projet \(plans, notes, descriptifs, documents administratifs, …\). Ces documents sont accessibles depuis l’onglet « Document » \(1\).
+bimsync permet le partage de l’ensemble des documents d’un projet \(plans, notes, descriptifs, documents administratifs, …\). Ces documents sont accessibles depuis l’onglet « Document » \(1\).
 
 ![](/03_bimsync/deposer-et-gerer-des-documents-images/deposer-et-gerer-des-documents-01.PNG)
 bimsync facilite la gestion des documents en affichant la date de dépôt \(2\), le dépositaire \(3\) et les différentes versions d’un document \(4\) :

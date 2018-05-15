@@ -1,5 +1,5 @@
 {% extends "/templates/softwares/revit.md" %}
-{% set categorie_logiciel = "Revit 2017.4" %}
+
 
 {# Donne un exemple de découpage pour le lot #}
 {% block lot_decoupage %}Votre modèle peut ainsi être séparé en 2 modèles, Façades et Intérieur.{% endblock %}
@@ -8,7 +8,7 @@
 {% block lot_specifique_generalites %}
 
 De manière générale, dans les modèles Architecte les éléments de structure (dalles, poteaux, poutres, voiles ...) devront être modélisées sur un sous-projet à part de manière à pouvoir les isoler facilement.
-Dans le cas où des intervenants spécifiques pour les lots façade et décoration soient soient présents dans l'équipe, de principe devra s'appliquer également pour les éléments de façade et de décoration.
+Dans le cas où des intervenants spécifiques pour les lots façade et décoration soient soient présents dans l'équipe, ce principe devra s'appliquer également pour les éléments de façade et de décoration.
 
 {% endblock %}
 
@@ -158,6 +158,10 @@ Les places de parking sont modélisées à l’aide d’une famille de la catég
 
 ![Parking](/02_Modelisation/02_architecte/images/Parking.PNG)
 
+#### Nom des types de parking
+
+{% include "/00_Referentiel/NomDesParkings.md" %}
+
 ### Modélisation des façades de placards{#placards}
 
 Les placards doivent être modélisé à l'aide de la famille de placard fournie, disponible [en cliquant ici](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/Placard.rfa)
@@ -168,10 +172,65 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 ### Modélisation des murs{#murs}
 
-{% include "/categories/murs.md"  %}
+{% include "/categories/architecte/murs.md"  %}
 
 ### Modélisation des poteaux{#poteaux}
 
-{% include "/categories/poteaux.md"  %}
+{% include "/categories/architecte/poteaux.md"  %}
 
+### Modélisation des poutres{#poutres}
+
+{% include "/categories/architecte/poutres.md"  %}
+
+### Modélisation des planchers{#planchers}
+
+{% include "/categories/architecte/planchers.md"  %}
+
+### Modélisation des toitures{#toitures}
+
+{% include "/categories/architecte/toitures.md"  %}
+
+### Modélisation des fenetres{#fenetres}
+
+{% include "/categories/architecte/fenetres.md"  %}
+
+### Modélisation des murs rideaux{#murs rideaux}
+
+{% include "/categories/architecte/murs rideaux.md"  %}
+
+### Modélisation des cloisons{#cloisons}
+
+{% include "/categories/architecte/cloisons.md"  %}
+
+### Modélisation des plafonds{#plafonds}
+
+{% include "/categories/architecte/plafonds.md"  %}
+
+### Modélisation des portes{#portes}
+
+{% include "/categories/architecte/portes.md"  %}
+
+### Modélisation des brises soleil{#brises soleil}
+
+{% include "/categories/architecte/brises soleil.md"  %}
+
+### Modélisation des stores{#stores}
+
+{% include "/categories/architecte/stores.md"  %}
+
+### Modélisation des appareils élévateurs{#appareils élévateurs}
+
+{% include "/categories/architecte/appareils elevateurs.md"  %}
+
+### Modélisation des escaliers{#escaliers}
+
+{% include "/categories/architecte/escaliers.md"  %}
+
+### Modélisation des gardes-corps{#gardes-corps}
+
+{% include "/categories/architecte/gardes-corps.md"  %}
+
+### Modélisation des voiries{#voiries}
+
+{% include "/categories/architecte/voiries.md"  %}
 {% endblock %}

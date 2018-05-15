@@ -20,7 +20,7 @@ Ces articles regroupent les recommandations de modélisation pour les paysagiste
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres, la méthodologie est décrite ici : [Coordonnées Partagées](/02_Modelisation/00_communs/georeferencement-rvt.md)
-* Les modèles déposés sur la plateforme collaborative Bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md
+* Les modèles déposés sur la plateforme collaborative bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-rvt.md
 * La modélisation des éléments du lot paysagiste doivent respecter des règles précises, décrites ici : [Modélisation](/02_Modelisation/05_Paysagiste/modelisation-rvt.md)
 * Enfin, on précise les paramètres d'exports aux format IFC [Exports](/02_Modelisation/00_communs/export-rvt.md) et la méthodologie pour importer les fichiers IFC des autres intervenants [Import](/02_Modelisation/00_communs/Import-IFC-rvt.md)
 
@@ -31,7 +31,7 @@ Chaque intervenant est responsable du paramétrage de son logiciel.
 
 * L'organisation des modèles suit une logique spécifique, décrite ici : [Généralités](/02_Modelisation/00_communs/generalites.md)
 * Les modèles doivent être correctement positionnés les uns par rapport aux autres.
-* Les modèles déposés sur la plateforme collaborative Bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
+* Les modèles déposés sur la plateforme collaborative bimsync doivent comporter un ensemble d'informations, détaillées ici : [Renseignement des informations de projet](/02_Modelisation/00_communs/info-projet-ifc.md)
 * La modélisation des éléments du lot paysagiste doivent respecter des règles précises, décrites ici : [Modélisation](/02_Modelisation/05_Paysagiste/modelisation-rvt.md)
 
 ---
