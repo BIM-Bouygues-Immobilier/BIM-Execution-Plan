@@ -7,7 +7,7 @@ SOL-CHAPE-RATTRAPAGE-_épaisseur    (en cm)_|Chape de rattrapage
 SOL-CHAPE-THERMOACOUSTIQUE-_épaisseur  (en cm)_|Chape thermo-acoustique	
 SOL-CUVELAGE-_épaisseur_  /  MUR-CUVELAGE-_épaisseur_|Cuvelage		
 SOL-DALLAGE-PORTE-_épaisseur    (en cm)_|Dallage porté	
-SOL-DALLAGE-TERRE  PLEIN-_épaisseur  cm|Dallage sur terre-plein	
+SOL-DALLAGE-TERRE  PLEIN-_épaisseur  cm_|Dallage sur terre-plein	
 SOL-DALLE-BETON-_épaisseur  (en cm)_|Dalle balcon	
 SOL-DALLE-BETON-_épaisseur  (en cm)_|Dalle courante - épaisseur >22 cm	
 SOL-DALLE-BETON-_épaisseur  (en cm)_|Dalle courante - épaisseur 20 à 22 cm	

@@ -239,7 +239,7 @@ Cette famille de placard, basée sur une ligne, permet de représenter les faça
 
 ### Modélisation des gardes-corps{#gardes-corps}
 
-{% include "/categories/architecte/stores.md"  %}
+{% include "/categories/architecte/gardes-corps.md"  %}
 
 ### Modélisation des voiries{#voiries}
 

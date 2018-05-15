@@ -2,4 +2,4 @@ Les accesoires sanitaires sont modélisés à l'aide d'une famille de la catégo
 
 Le nom du type du réseau  doit suivre le schéma suivant :
 
-> CVC-FRO-EQU-_CODE ELEMENT_
+> PLO-AE-TER-_CODE ELEMENT_
