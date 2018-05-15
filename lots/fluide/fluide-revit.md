@@ -99,9 +99,9 @@
 
 {% include "/categories/plomberie/pompes.md"  %}
 
-### Modélisation des accessoires sanitaires{#sanitaires}
+### Modélisation des accessoires sanitaires{#accessoires-sanitaires}
 
-{% include "/categories/plomberie/accessoires sanitaires.md"  %}
+{% include "/categories/plomberie/accessoires-sanitaires.md"  %}
 
 ### Modélisation des colonnes sèches{#colonnes-seches}
 
