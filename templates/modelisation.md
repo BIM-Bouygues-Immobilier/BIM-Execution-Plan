@@ -33,15 +33,7 @@ Les deux formats doivent être produits en même temps afin de garantir leur coh
 
 ## Découpage des modèles{#découpage}
 
-Vous devrez produire à minima un modèle par bâtiment. Vous êtes ensuite libre de découper votre modèle en plusieurs disciplines en fonction de vos contraintes de modélisations :
-
-{% block lot_decoupage %}{% endblock %}
-
-Vous demanderez alors au BIM Manager la création des modèles correspondants sur la plateforme d’échange bimsync.
-
-Les modèles sont nommés de la façon suivante :
-
-{% include "/00_Referentiel/NomDesModeles.md"  %}
+{% include "/templates/procedures/decoupage.md"  %}
 
 ## Positionnement des modèles{#position}
 
