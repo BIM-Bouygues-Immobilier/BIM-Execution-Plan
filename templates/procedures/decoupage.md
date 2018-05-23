@@ -23,6 +23,10 @@ La règle est la suivante :
 La zone de coupe doit être grossierement placée autour du produit à isoler, puis isoler à la main tous les éléments qui "dépassent".
 Voici un exemple de découpage, d'abord le projet complet consituté de deux bâtiments et d'un parking, puis le bâtiment 1 isolé grâce à la méthode décrite précédement.
 
+![](/templates/procedures/decoupage-images/decoupage-Revit.PNG)
+
+![](/templates/procedures/decoupage-images/decoupage-Revit2.PNG)
+
 {% elif logiciel == "ArchiCAD" %}
 
 {% elif logiciel == "Allplan" %}
