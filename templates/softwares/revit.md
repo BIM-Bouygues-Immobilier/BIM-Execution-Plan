@@ -69,7 +69,9 @@ Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
 #### Configuration de l'export
 
-Télécharger la configuration "Configuration Cahier des Charges BIM BI" fournie par Bouygues Immobilier, et la définir comme configuration courante pour vos futurs exports IFC. Ensuite,  aller dans l'interface d'export IFC, et cliquer sur l'icône "Importer Configuration" (1), puis dans le dossier de téléchargements, sélectionner le fichier Configuration Cahier des Charges BIM BI (2) et cliquer sur Ouvrir (3). 
+Télécharger la configuration d'export : [Configuration Cahier des Charges BIM BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json)
+
+Dans l'interface d'export IFC, cliquer sur l'icône "Importer Configuration" (1), puis dans le dossier de téléchargements, sélectionner le fichier Configuration Cahier des Charges BIM BI (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
 
 ![ExportIFCRevit6](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit8.PNG)
 
@@ -79,9 +81,9 @@ La Configuration Cahier des Charges BIM BI va alors apparaître dans la liste de
 
 #### Configuration manuelle
 
-_Si vous ne souhaitez pas utiliser la configuration automatique,_ vous pourvez utiliser les réglages décrit ci-dessous :
+_Si vous ne souhaitez pas utiliser la configuration automatique,_ vous pourrez utiliser les réglages décrit ci-dessous :
 
-Pour configurer manuellement l'export IFC, cliquer sur "Modifier réglages", la fenêtre de configuration de l'export va s'ouvrir. Il est recomandé de créer une nouvelle configuration. Pour cela, cliquer sur l'icône "Créer un nouveau régalge" en bas à gauche de la fenêtre, renseigner le nom de la configuration (par exemple, Configuration Cahier des Charges BIM BI), puis régler les paramètres de la façon suivante:   
+Pour configurer manuellement l'export IFC, cliquer sur "Modifier réglages", la fenêtre de configuration de l'export va s'ouvrir. Il est recomandé de créer une nouvelle configuration. Pour cela, cliquer sur l'icône "Créer un nouveau régalge" en bas à gauche de la fenêtre, renseigner le nom de la configuration (par exemple, Configuration Cahier des Charges BIM BI), puis régler les paramètres de la façon suivante:
 
 | Général |
 | :--- |
