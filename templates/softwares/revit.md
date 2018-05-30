@@ -67,27 +67,34 @@ Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
 ### Réglages de l’export IFC
 
-Il est demandé d’effectuer les réglages suivants lors de l’export :
+#### Configuration de l'export
+
+Concernant les réglages à effectuer lors de l'export, vous pouvez Télécharger le Setup "Configuration Cahier des Charges BIM BI" fournis par Bouygues Immobilier, et le définir comme setup courant pour vos futures export IFC. Une fois le fichier de configuration téléchargé, 
+
+#### Configuration manuelle
+
+_Si vous ne souhaitez pas_
+Vous pouvez également configurer manuelement l'export. Pour cela, lors de l'export IFC, cliquer sur "Modify setup", la fenêtre de configuration de l'export va s'ouvrir. Il est recomandé de créer un nouveau setup, puis de le configurer comme demandé. Pour cela, cliquer sur l'icône "Creat a new setup" en bas à gauche de la fenêtre, renseigner le nom du setup (par exemple, Configuration Cahier des Charges BIM BI), puis régler les paramètres de cette façon: 
 
 | General |
 | :---: |
-| ![Général](/02_Modelisation/00_communs/images/export-rvt/Export_03.png) |
+| ![Général](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit.PNG) |
 
 | Additional contents |
 | :--- |
-| ![Additional contents](/02_Modelisation/00_communs/images/export-rvt/Export_04.png) |
+| ![Additional contents](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit2.PNG) |
 
 | Property Sets |
 | :--- |
-| ![Property Sets](/02_Modelisation/00_communs/images/export-rvt/Export_05.png) |
+| ![Property Sets](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit3.PNG) |
 
 | Level of Detail |
 | :--- |
-| ![Level of Detail](/02_Modelisation/00_communs/images/export-rvt/Export_06.png) |
+| ![Level of Detail](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit4.PNG) |
 
 | Advanced |
 | :--- |
-| ![Advanced](/02_Modelisation/00_communs/images/export-rvt/Export_07.png) |
+| ![Advanced](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit5.PNG) |
 
 ### Renseignement de l'adresse du projet
 
