@@ -20,7 +20,7 @@ Voici un exemple de découpage, d'abord le projet complet constitué de deux bâ
 
 ![decoupageRevit2](/templates/procedures/decoupage-images/decoupageRevit2.PNG)
 
-![decoupageRevit](/templates/procedures/decoupage-images/decoupageRevit.PNG)
+![decoupageRevit](/templates/procedures/decoupage-images/decoupageRevit.PNG)    
 
 {% elif logiciel == "ArchiCAD" %}
 

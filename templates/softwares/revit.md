@@ -69,30 +69,37 @@ Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
 #### Configuration de l'export
 
-Concernant les réglages à effectuer lors de l'export, vous pouvez Télécharger le Setup "Configuration Cahier des Charges BIM BI" fournis par Bouygues Immobilier, et le définir comme setup courant pour vos futures export IFC. Une fois le fichier de configuration téléchargé, 
+Télécharger la configuration "Configuration Cahier des Charges BIM BI" fournie par Bouygues Immobilier, et la définir comme configuration courante pour vos futurs exports IFC. Ensuite,  aller dans l'interface d'export IFC, et cliquer sur l'icône "Importer Configuration" (1), puis dans le dossier de téléchargements, sélectionner le fichier Configuration Cahier des Charges BIM BI (2) et cliquer sur Ouvrir (3). 
+
+![ExportIFCRevit6](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit8.PNG)
+
+La Configuration Cahier des Charges BIM BI va alors apparaître dans la liste des configurations disponibles (4). Sélectionnez la, et cliquez sur OK (5).
+
+![ExportIFCRevit6](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit9.PNG)
 
 #### Configuration manuelle
 
-_Si vous ne souhaitez pas_
-Vous pouvez également configurer manuelement l'export. Pour cela, lors de l'export IFC, cliquer sur "Modify setup", la fenêtre de configuration de l'export va s'ouvrir. Il est recomandé de créer un nouveau setup, puis de le configurer comme demandé. Pour cela, cliquer sur l'icône "Creat a new setup" en bas à gauche de la fenêtre, renseigner le nom du setup (par exemple, Configuration Cahier des Charges BIM BI), puis régler les paramètres de cette façon: 
+_Si vous ne souhaitez pas utiliser la configuration automatique,_ vous pourvez utiliser les réglages décrit ci-dessous :
 
-| General |
-| :---: |
+Pour configurer manuellement l'export IFC, cliquer sur "Modifier réglages", la fenêtre de configuration de l'export va s'ouvrir. Il est recomandé de créer une nouvelle configuration. Pour cela, cliquer sur l'icône "Créer un nouveau régalge" en bas à gauche de la fenêtre, renseigner le nom de la configuration (par exemple, Configuration Cahier des Charges BIM BI), puis régler les paramètres de la façon suivante:   
+
+| Général |
+| :--- |
 | ![Général](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit.PNG) |
 
-| Additional contents |
+| Contenu additionnel |
 | :--- |
 | ![Additional contents](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit2.PNG) |
 
-| Property Sets |
+| Export jeux de propriétés |
 | :--- |
 | ![Property Sets](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit3.PNG) |
 
-| Level of Detail |
+| Niveau de détail |
 | :--- |
 | ![Level of Detail](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit4.PNG) |
 
-| Advanced |
+| Avancé |
 | :--- |
 | ![Advanced](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit5.PNG) |
 
