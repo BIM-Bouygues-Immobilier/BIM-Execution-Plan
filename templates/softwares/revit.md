@@ -67,27 +67,43 @@ Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
 ### Réglages de l’export IFC
 
-Il est demandé d’effectuer les réglages suivants lors de l’export :
+#### Configuration de l'export
 
-| General |
-| :---: |
-| ![Général](/02_Modelisation/00_communs/images/export-rvt/Export_03.png) |
+Télécharger la configuration d'export : [Configuration Cahier des Charges BIM BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
 
-| Additional contents |
+Dans l'interface d'export IFC, cliquer sur l'icône "Importer Configuration" (1), puis dans le dossier de téléchargements, sélectionner le fichier Configuration Cahier des Charges BIM BI (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
+
+![ExportIFCRevit6](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit8.PNG)
+
+La Configuration Cahier des Charges BIM BI va alors apparaître dans la liste des configurations disponibles (4). Sélectionnez la, et cliquez sur OK (5).
+
+![ExportIFCRevit6](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit9.PNG)
+
+#### Configuration manuelle
+
+_Si vous ne souhaitez pas utiliser la configuration automatique,_ vous pourrez utiliser les réglages décrit ci-dessous :
+
+Pour configurer manuellement l'export IFC, cliquer sur "Modifier réglages", la fenêtre de configuration de l'export va s'ouvrir. Il est recomandé de créer une nouvelle configuration. Pour cela, cliquer sur l'icône "Créer un nouveau régalge" en bas à gauche de la fenêtre, renseigner le nom de la configuration (par exemple, Configuration Cahier des Charges BIM BI), puis régler les paramètres de la façon suivante:
+
+| Général |
 | :--- |
-| ![Additional contents](/02_Modelisation/00_communs/images/export-rvt/Export_04.png) |
+| ![Général](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit.PNG) |
 
-| Property Sets |
+| Contenu additionnel |
 | :--- |
-| ![Property Sets](/02_Modelisation/00_communs/images/export-rvt/Export_05.png) |
+| ![Additional contents](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit2.PNG) |
 
-| Level of Detail |
+| Export jeux de propriétés |
 | :--- |
-| ![Level of Detail](/02_Modelisation/00_communs/images/export-rvt/Export_06.png) |
+| ![Property Sets](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit3.PNG) |
 
-| Advanced |
+| Niveau de détail |
 | :--- |
-| ![Advanced](/02_Modelisation/00_communs/images/export-rvt/Export_07.png) |
+| ![Level of Detail](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit4.PNG) |
+
+| Avancé |
+| :--- |
+| ![Advanced](/02_Modelisation/00_communs/images/export-rvt/ExportIFCRevit5.PNG) |
 
 ### Renseignement de l'adresse du projet
 
@@ -109,6 +125,48 @@ Les paramètres sont à renseigner de la façon suivante:
 | Postal code | Le code postal du projet |
 | State | La région du projet |
 | Country | France |
+
+### Noms des modèles IFC
+
+Les modèles IFC sont nommés de la façon suivante :
+
+> _CODE PROJET_-_CODE DISCIPLINE_-_CODE ILOT_-_CODE OUVRAGE_-_CODE PRODUIT_-_CODE PHASE_
+
+Pour définir chaque code, se référer aux règles de nomenclatures qui suivent :
+
+#### Code Projet
+
+Il s'agit du code du projet, attribué par Bouygues Immobilier en début de projet, qui restera le même jusqu'à la fin.
+
+#### Code Discipline
+
+{% include "/00_Referentiel/NomDesModeles/CodeDiscipline.md" %}
+
+#### Code Ilot
+
+{% include "/00_Referentiel/NomDesModeles/CodeIlot.md" %}
+
+Dans le cas où il existe plusieurs îlots, le code îlot est implémenté de la manière suivante ILOT A, ILOT B,….
+
+#### Code Ouvrage
+
+{% include "/00_Referentiel/NomDesModeles/CodeOuvrage.md" %}
+
+Dans le cas où il existe plusieurs bâtiments, le code ouvrage est implémenté de la manière suivante BAT01, BAT02,…
+
+#### Code Nature Poduit
+
+{% include "/00_Referentiel/NomDesModeles/CodeNatureProduit.md" %}
+
+Dans le cas où il existe plusieurs zones de même nature de produit pour un même bâtiment, le code nature de produit est implémenté de la manière suivante APT01, APT02,…, COM01, COM02,…
+
+#### Code Phase
+
+Le découpage temporel d’une opération se base sur 10 phases bien distinctes.
+
+{% include "/00_Referentiel/NomDesModeles/CodePhase.md" %}
+
+**Note :** Il est interdit de créer de nouveaux codes sans l’autorisation du BIM Manager de la MOA.
 
 ### Réglages des catégories à exporter
 

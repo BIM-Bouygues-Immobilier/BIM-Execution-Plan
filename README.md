@@ -2,6 +2,7 @@
 
 Le Cahier des Charges BIM Logement présente la méthodologie de travail autour des modèles numériques proposée par Bouygues Immobilier sur l’ensemble de ses opérations.
 Le Cahier des Charges BIM Logement permet à l'équipe du projet de mettre en application les objectifs BIM de l'opération.
+
 > Les prescriptions de ce document sont indicatives, et n’enlèvent pas au prestataire la responsabilité de les adapter au contexte du projet et au logiciel utilisé.
 
 Ce guide est téléchargeable au format PDF [*ici*](https://legacy.gitbook.com/download/pdf/book/bim-bouygues-immobilier/bim-execution-plan)

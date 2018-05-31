@@ -1,6 +1,12 @@
 {
-    "plugins": ["collapsible-chapters"],
+    "plugins": ["collapsible-chapters","insert-logo"],
     "variables": {
         "bu": "logement"
+    },
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/Cahier-Des-Charges-BIM-Immobilier-Entreprise/master/images/bi-logo-bl-rvb-150.png",
+            "style": "background: none;width: 100%;"
+        }
     }
 }
