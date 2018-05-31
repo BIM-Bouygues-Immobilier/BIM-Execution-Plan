@@ -129,9 +129,10 @@ Les paramètres sont à renseigner de la façon suivante:
 ### Noms des modèles IFC
 
 Les modèles IFC sont nommés de la façon suivante :
-_CODE PROJET_-_CODE DISCIPLINE_-_CODE ILOT_-_CODE OUVRAGE_-_CODE PRODUIT_-_CODE PHASE_
 
-Pour définir chaque code, se référer aux règles de nomenclatures qui suivent: 
+> _CODE PROJET_-_CODE DISCIPLINE_-_CODE ILOT_-_CODE OUVRAGE_-_CODE PRODUIT_-_CODE PHASE_
+
+Pour définir chaque code, se référer aux règles de nomenclatures qui suivent :
 
 #### Code Projet
 
@@ -141,7 +142,6 @@ Il s'agit du code du projet, attribué par Bouygues Immobilier en début de proj
 
 | **Nom Discipline** | **Description** | **Code Discipline** |
 | :--- | :--- | :--- |
-| Bâtiment | Tout ouvrage unique construit | BAT |
 | BIM Manager | Assemblage de maquettes | ASS |
 | Géomètre | Maquette du site existant | SIT |
 | Architecte | Travaux des architectes | ARC |
