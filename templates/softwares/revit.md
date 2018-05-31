@@ -140,77 +140,31 @@ Il s'agit du code du projet, attribué par Bouygues Immobilier en début de proj
 
 #### Code Discipline
 
-| **Nom Discipline** | **Description** | **Code Discipline** |
-| :--- | :--- | :--- |
-| BIM Manager | Assemblage de maquettes | ASS |
-| Géomètre | Maquette du site existant | SIT |
-| Architecte | Travaux des architectes | ARC |
-| Structure | Structure par bâtiment | STR |
-| Fluides | Ventilation | CVC |
-| Fluides | Plomberie | PLO |
-| Électricité | Électricité | ELE |
-| Sécurité incendie | Sécurité incendie | SSI |
-| VRD | Réseaux, Voirie | VRD |
-| Paysage | Aménagement et végétaux | PAY |
-| Mobilier | Ensemble des mobiliers | MOB |
+{% include "/00_Referentiel/NomDesModeles/CodeDiscipline.md" %}
 
 #### Code Ilot
 
-| **Nom Ilot** | **Description** | **Code Ilot** |
-| :--- | :--- | :--- |
-| Ilot | Tout ensemble d’ouvrages communs | ILOT |
+{% include "/00_Referentiel/NomDesModeles/CodeIlot.md" %}
 
 Dans le cas où il existe plusieurs îlots, le code îlot est implémenté de la manière suivante ILOT A, ILOT B,….
 
-
 #### Code Ouvrage
 
-| **Nom Ouvrage** | **Description** | **Code Ouvrage** |
-| :--- | :--- | :--- |
-| Bâtiment | Tout ouvrage unique construit | BAT |
+{% include "/00_Referentiel/NomDesModeles/CodeOuvrage.md" %}
 
 Dans le cas où il existe plusieurs bâtiments, le code ouvrage est implémenté de la manière suivante BAT01, BAT02,…
 
 #### Code Nature Poduit
 
-| **Nom Famille Produit** | **Code Famille Produit** | **Nom Nature Produit** | **Code Nature Produit** |
-| :--- | :--- | :--- | :--- |
-| Logement | LOG | Maison individuelle | MIG |
-| Logement | LOG | Maison jumelée | MJG |
-| Logement | LOG | Maison en bande | MBG |
-| Logement | LOG | Appartement | APT |
-| Logement | LOG | Intermédiaire | INT |
-| Logement | LOG | Social | SOC |
-| Logement | LOG | Lots à bâtir | LOB |
-| Logement | LOG | Résidence service | RES |
-| Logement | LOG | Résidence étudiante | REE |
-| Tertiaire | TER | Bureaux | BUR |
-| Tertiaire | TER | Commerce | COM |
-| Tertiaire | TER | Hôtel | HOT |
-| Tertiaire | TER | Restaurant | RES |
-| Tertiaire | TER | Restaurant Inter-Entreprises | RIE |
-| Tertiaire | TER | Equipement culturel | ECU |
-| Tertiaire | TER | Equipement petite enfance | EPE |
-| Accessoire | ACC | Parking | PAR |
+{% include "/00_Referentiel/NomDesModeles/CodeNatureProduit.md" %}
 
-Dans le cas où il existe plusieurs zones de même nature de produit pour un même bâtiment, le code nature de produit est implémenté de la manière suivante APT01, APT02,…., COM01, COM02,…
+Dans le cas où il existe plusieurs zones de même nature de produit pour un même bâtiment, le code nature de produit est implémenté de la manière suivante APT01, APT02,…, COM01, COM02,…
 
 #### Code Phase
 
 Le découpage temporel d’une opération se base sur 10 phases bien distinctes.
 
-| **Nom Phase** | **Description** | **Code Phase** |
-| :--- | :--- | :--- |
-| Etude Capacitaire | Correspond à une phase de modélisation  | ECA |
-| Esquisse | prérequis de l'optimisation capacitaire | ESQ |
-| Avant-Projet Sommaire | Correspond à la phase Faisabilité | APS |
-| Avant-Projet Détaillé | Correspond à une phase de modélisation prérequis de l'optimisation de la Conception sommaire | APD |
-| Lancement Commercial | Correspond à une phase de modélisation prérequis de l'optimisation de la Conception détaillée | LCO |
-| Projet | Correspond à une phase de modélisation prérequis de la commercialisation | PRO |
-| Appel d'Offres | Correspond à la phase Projet | AO |
-| Exécution | Correspond à une phase de modélisation intégrant les corrections et variantes éventuelles | EXE |
-| Livraison | Correspond à la phase Exécution des travaux | LIV |
-| Exploitation | Correspond à la phase de gestion de la qualité | EXPL |
+{% include "/00_Referentiel/NomDesModeles/CodePhase.md" %}
 
 **Note :** Il est interdit de créer de nouveaux codes sans l’autorisation du BIM Manager de la MOA.
 
