@@ -5,7 +5,7 @@
   "SpaceBoundaries": 1,
   "SitePlacement": 0,
   "ActivePhaseId": {
-    "IntegerValue": 140817
+    "IntegerValue": 0
   },
   "ExportBaseQuantities": true,
   "SplitWallsAndColumns": false,
@@ -29,7 +29,7 @@
   "TessellationLevelOfDetail": 0.25,
   "UseOnlyTriangulation": false,
   "StoreIFCGUID": true,
-  "ExportRoomsInView": false,
+  "ExportRoomsInView": true,
   "ExportLinkedFiles": false,
   "ActiveViewId": 0,
   "ExcludeFilter": "",
