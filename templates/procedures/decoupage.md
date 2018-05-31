@@ -3,7 +3,7 @@ Dans un même projet, s'il y a plusieurs lots à représenter ou plusieurs bâti
 * Paroi horizontale commune : le pancher doit être modélisé dans la maquette du dessous
 * Paroi verticale commune : le mur doit être dessiné dans une des deux maquettes (choix arbitraire n’ayant aucune conséquence)
 
-Voici un exemple de découpage pour un bâtiment ayant plusieurs lots, répartit sur chacun un étage: 
+Voici un exemple de découpage pour un bâtiment ayant plusieurs lots, répartits sur chacun un étage: 
 
 ![decoupageRevitSchema3](/templates/procedures/decoupage-images/decoupageRevitSchema3.png)
 
@@ -33,10 +33,5 @@ Manipulation dans Allplan: {#methode}
 {% else %}
 
 {% endif %}
-
-//Le nommage des modèles va dans la notice d'export en IFC
-Les modèles sont nommés de la façon suivante :
-
-{% include "/00_Referentiel/NomDesModeles.md"  %}
 
 Une fois vos vues correctement préparées, suivre la [méthode d'export en IFC](#export) pour exporter ces vues.
