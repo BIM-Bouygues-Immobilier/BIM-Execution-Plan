@@ -1,7 +1,8 @@
 {
-    "plugins": ["collapsible-chapters","insert-logo"],
+    "plugins": ["collapsible-chapters","insert-logo","youtube"],
     "variables": {
-        "bu": "logement"
+        "bu": "logement",
+        "baseurl": "https://raw.githubusercontent.com/bimsync/bimsync-documentation/master"
     },
     "pluginsConfig": {
         "insert-logo": {
