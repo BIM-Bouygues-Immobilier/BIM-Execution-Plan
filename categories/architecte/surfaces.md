@@ -1,5 +1,3 @@
-### Modélisation des surfaces de plancher{#surface}
-
 Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Surface de Plancher \(SDP\) sont calculées en additionnant les différents types de surfaces du projet. De plus, la représentation des surfaces de parkings extérieurs est attendue.
 
 #### Modélisation

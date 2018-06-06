@@ -50,63 +50,13 @@ Afin de différencier les différentes surfaces du projet, il est nécéssaire d
 
 ![](/02_Modelisation/02_architecte/images/CréationDesCatégoriesDeZones.png)
 
+### Modélisation des surfaces de plancher{#surface}
+
 {% include "/categories/architecte/surfaces.md" %}
 
 ### Modélisation des pièces{#piece}
 
-#### Généralités
-
-Les Surfaces Utiles Brutes Locatives \(SUBL\), Surfaces Utiles Brutes Bureaux \(SUBB\), Surfaces Utiles Nettes \(SUN\) et Surfaces Nettes Bureaux \(SNB\) sont calculées à partir de la modélisation des locaux du projet.
-
-L’ensemble des locaux du projet doivent être présents dans la maquette numérique. En plus des locaux « nobles » du programme, cette modélisation doit inclure tous les autres types de locaux, tel que les circulations, les locaux techniques, les gaines techniques, …
-
-Les locaux doivent être représentés et décomposés en locaux fonctionnels \(Bureau, Salle de Réunion, Hall, …\), même si ces locaux appartiennent à un espace physique plus important. Par exemple, un hall et une circulation partageant le même espace physique devront être représentés comme deux locaux distincts.
-
-Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini. En l’absence de faux-plafonds, les locaux doivent être modélisés jusqu’à la hauteur libre prévue par le programme. Les locaux doivent être identifiés par leur nom, en suivant les valeurs du tableau "Nom des pièces" ci-dessous.
-
-#### Modélisation
-
-Dans ArchiCAD, ces locaux doivent être modélisé à l’aide de l’outil Zone :
-
-![](/02_Modelisation/02_architecte/images/Zones.png)
-
-Les propriétés suivantes sont à compléter :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Catégorie de Zone | Rooms| Toutes les zones sont dans la catégorie Rooms |
-| Nom | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
-| Hauteur | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local.|
-
-#### Zones
-
-Afin de regrouper ces pièces, il est nécéssaire d'ajouter les propriétés suivantes à l'aide d'un paramètre partagé :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| ZoneDescription | Voir « Nom des zones » | Cette propriété permet de regrouper plusiseurs pièces en une seule zone, par exemple un appartement. Ce paramètre peut n'être saisi qu'une seule fois par zone. |
-| ZoneName | Un numéro unique | Cette propriété permet d'identifier la zone.|
-{% include "../../00_Referentiel/NomDesZones.md"  %}
-
-#### Pièces sous 1,80 m
-
-On découpe la pièce en séparant les espaces sous 1,80 m. On appele ces espaces "COMBLE".
-
-#### Nom des pièces{#Nom_pieces}
-
-Le tableau ci-dessous liste les noms de pièces à utiliser sur l'operation:
-
-{% include "/00_Referentiel/NomDesPieces.md" %}
-
-#### Revêtements de sols{#revêtements_sols}
-
-{% include "/00_Referentiel/TypesDeRevetements.md" %}
-
-#### Destination des pièces{#destination_piece}
-
-Le tableau ci-dessous liste les destinations possible pour une pièces:
-
-{% include "/00_Referentiel/NomDesProduits.md" %}
+{% include "/categories/architecte/pieces.md" %}
 
 ### Modélisation des logements{#logements}
 
