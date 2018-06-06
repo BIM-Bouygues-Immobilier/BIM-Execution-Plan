@@ -13,7 +13,7 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 
 {# Ajoute la table des matières pour le lot#}
 {% block specific_toc %}
-* [Plans de surface](#surface)
+* [Surface de plancher](#surface)
 * [Pièces](#piece)
 * [Logements](#logements)
 * [Modélisation des places de parking](#parking)
@@ -38,44 +38,7 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 {# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
 {% block lot_specifique_content %}
 
-### Modélisation des plans de surfaces{#surface}
-
-Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Surface de Plancher \(SDP\) sont calculées en additionnant les différents types de surfaces du projet. De plus, la représentation des surfaces de parkings extérieurs est attendue.
-
-#### Modélisation
-
-L’ensemble de ces surfaces SHOB/SHON/SDP est représenté à l’aide d’un unique plan de surface par niveau :
-
-![Plan de surface](/02_Modelisation/02_architecte/images/SURFACE_01.PNG)
-
-Les surfaces modélisées doivent couvrir l'ensemble de l'emprise du projet, à tout les niveaux. Le niveau N00 (Rez-De-Chaussé) doit également contenir les surfaces extérieures au bâtiment lui-même (VRD, parking extérieur, ...).
-
-Chaque surface dessinée dans ces plans doit avoir les propriétés suivantes :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Nom | Voir [« Noms des surfaces »](#nom_surface) ci-dessous | Cette propriété indique le type de surface, suivant la décomposition décrite ci-dessus. |
-| Commentaire | Voir [« Types de surfaces »](#types_surface) ci-dessous| Cette propriété indique la destination des surfaces réalisées. |
-
-Si un même niveau contient des surfaces ayant des usages différents (par exemple, surface de plancher de commerce et de logement), chaque usage doit être réprésenté par une surface distincte.
-
-#### Exemples
-
-##### Niveau de parking
-
-![Niveau de parking](/02_Modelisation/02_architecte/images/Surfaces_ExempleNiveauParking.png)
-
-##### Niveau courant
-
-![Niveau courant](/02_Modelisation/02_architecte/images/Surfaces_ExempleNiveauCourant.png)
-
-#### Noms des surfaces{#nom_surface}
-
-{% include "/00_Referentiel/NomDesSurfaces.md"  %}
-
-#### Types de surface{#types_surface}
-
-{% include "/00_Referentiel/NomDesProduits.md"  %}
+{% include "/categories/architecte/surfaces.md" %}
 
 ### Modélisation des pièces{#piece}
 

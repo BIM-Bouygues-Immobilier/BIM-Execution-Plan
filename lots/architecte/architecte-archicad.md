@@ -13,7 +13,7 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 
 {# Ajoute la table des matières pour le lot#}
 {% block specific_toc %}
-* [Plans de surface](#surface)
+* [Surface de plancher](#surface)
 * [Pièces](#piece)
 * [Logements](#logements)
 * [Modélisation des places de parking](#parking)
@@ -50,32 +50,7 @@ Afin de différencier les différentes surfaces du projet, il est nécéssaire d
 
 ![](/02_Modelisation/02_architecte/images/CréationDesCatégoriesDeZones.png)
 
-### Modélisation des surfaces de plancher{#surface}
-
-#### Généralités
-
-Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Surface de Plancher \(SDP\) sont calculées en additionnant les différents types de surfaces du projet. De plus, la représentation des surfaces de parkings extérieurs est attendue.
-
-#### Modélisation
-
-L’ensemble de ces surfaces SHOB/SHON/SDP est modélisé à l’aide de l'outil Zone :
-
-![](/02_Modelisation/02_architecte/images/Zones.png)
-
-Chaque Zone dessinée doit alors avoir les propriétés suivantes :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Catégorie de Zone | Area | Toutes les zones sont dans la catégorie Area |
-| Nom | Voir "Noms des surfaces" ci-dessous | Cette propriété indique le type de surface, suivant la décomposition décrite ci-dessus. |
-
-La propriété « Description » est accessible en faisant un clic-droit sur une zone sélectionnée (1), puis « Options Zones sélectionnées » (2), puis « Gérer propriétés IFC... » (3), puis en cochant « Description » (4). La propriété est alors disponible dans « Options Zones sélectionnées » (5):
-
-![](/02_Modelisation/02_architecte/images/Description.png)
-
-#### Noms des surfaces
-
-{% include "../../00_Referentiel/NomDesSurfaces.md"  %}
+{% include "/categories/architecte/surfaces.md" %}
 
 ### Modélisation des pièces{#piece}
 

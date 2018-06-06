@@ -13,7 +13,7 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 
 {# Ajoute la table des matières pour le lot#}
 {% block specific_toc %}
-* [Plans de surface](#surface)
+* [Surface de plancher](#surface)
 * [Pièces](#piece)
 * [Logements](#logements)
 * [Modélisation des places de parking](#parking)
@@ -38,49 +38,7 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 {# Décrit les recommendations de modélisation spécifiques au lot et au logiciel #}
 {% block lot_specifique_content %}
 
-### Modélisation des plans de surfaces{#surface}
-
-Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Surface de Plancher \(SDP\) sont calculées en additionnant les différents types de surfaces du projet. De plus, la représentation des surfaces de parkings extérieurs est attendue.
-
-#### Modélisation
-
-Des objets "Pièces" devront être modélisés spécifiquement pour permettre ce calcul.
-
-Les pièces modélisées doivent couvrir l'ensemble de l'emprise du projet, à tout les niveaux. Le niveau N00 (Rez-De-Chaussé) doit également contenir les surfaces extérieures au bâtiment lui-même (VRD, parking extérieur, ...).
-
-Chaque surface dessinée dans ces plans doit avoir les propriétés suivantes :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Fonction | Voir [« Noms des surfaces »](#nom_surface) ci-dessous | Cette propriété indique le type de surface, suivant la décomposition décrite ci-dessus. |
-| Description | Voir [« Types de surfaces »](#types_surface) ci-dessous| Cette propriété indique la destination des surfaces réalisées. |
-
-Si un même niveau contient des surfaces ayant des usages différents (par exemple, surface de plancher de commerce et de logement), chaque usage doit être réprésenté par une surface distincte.
-
-Le renseignement de la destination des pièces devra se faire dans la propriété IFC "Description":
-* Pour assigner cette propriété aux pièces du projet, aller dans l'interface "Attributs" dans la palette des propriétés de la pièce, dans le champs "Attributs généraux". 
-* Cliquer ensuite sur l'option "Assigner un nouvel attributs" pour accéder à la palette "Définir et assigner des attributs":
-![](/02_Modelisation/02_architecte/images/ROOM2.PNG)
-* Aller dans les groupe des attributs "IFC" et choisir l'attribut "Description"
-![](/02_Modelisation/02_architecte/images/ROOM3.PNG)
-* Remplir enfin le paramètre avec la valeur correcte parmi celles listées ci-dessous:
-![](/02_Modelisation/02_architecte/images/ROOM4.PNG)
-
-#### Exemples
-
-##### Niveau courant
-
-Le plan suivant montre un exemple de la modélisation des pièces finalisée au calcul de la SDP:
-
-![](/02_Modelisation/02_architecte/images/Surfaces_ExempleNiveauCourant.png)
-
-#### Noms des surfaces{#nom_surface}
-
-{% include "/00_Referentiel/NomDesSurfaces.md"  %}
-
-#### Types de surface{#types_surface}
-
-{% include "/00_Referentiel/NomDesProduits.md"  %}
+{% include "/categories/architecte/surfaces.md" %}
 
 ### Modélisation des pièces{#piece}
 
