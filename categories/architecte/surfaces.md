@@ -1,5 +1,15 @@
 Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Surface de Plancher \(SDP\) sont calculées en additionnant les différents types de surfaces du projet. De plus, la représentation des surfaces de parkings extérieurs est attendue.
 
+{% if logiciel == "Revit" %}
+
+####Préparation
+
+Avant la création d'un plan de surfaces, créer un type de plan de surfaces (l'appeler BI par exemple (1) ), et s'assurer que tous les plans de surfaces crées soient de ce type. Pour créer un nouveau type de plan de surfaces, utiliser la fonctionalité Calculs des surfaces et des volumes dans l'onglet Pièces et surfaces (2), puis cliquer sur Nouveau (3) comme dans l'image suivante: 
+
+![Plan de surface](/02_Modelisation/02_architecte/images/SURFACE_03.PNG)
+
+{% endif %}
+
 #### Modélisation
 
 {% if logiciel == "Revit" %}
@@ -7,10 +17,6 @@ Les Surface Hors Œuvre Brut \(SHOB\), Surface Hors Œuvre Nette \(SHON\) et Sur
 L’ensemble de ces surfaces SHOB/SHON/SDP est représenté à l’aide d’un unique plan de surface par niveau :
 
 ![Plan de surface](/02_Modelisation/02_architecte/images/SURFACE_01.PNG)
-
-Avant la création d'un plan de surfaces, créer un type de plan de surfaces (l'appeler BI par exemple), et s'assurer que tous les plans de surfaces crées soient de ce type. pour créer un nouveau type de plan de surfaces, utiliser la fonctionalité Calculs des surfaces et des volumes, comme dans l'image suivante: 
-
-![Plan de surface](/02_Modelisation/02_architecte/images/SURFACE_03.PNG)
 
 Les surfaces modélisées doivent couvrir l'ensemble de l'emprise du projet, à tout les niveaux. Le niveau N00 (Rez-De-Chaussé) doit également contenir les surfaces extérieures au bâtiment lui-même (VRD, parking extérieur, ...).
 
@@ -22,10 +28,6 @@ Chaque surface dessinée dans ces plans doit avoir les propriétés suivantes :
 | Commentaire | Voir [« Types de surfaces »](#types_surface) ci-dessous| Cette propriété indique la destination des surfaces réalisées. |
 
 Si un même niveau contient des surfaces ayant des usages différents (par exemple, surface de plancher de commerce et de logement), chaque usage doit être réprésenté par une surface distincte.
-
-#### Types de surface{#types_surface}
-
-{% include "/00_Referentiel/NomDesProduits.md"  %}
 
 {% elif logiciel == "ArchiCAD" %}
 
@@ -87,3 +89,7 @@ Les surfaces doivent être nommée de la façon suivante :
 #### Noms des surfaces{#nom_surface}
 
 {% include "/00_Referentiel/NomDesSurfaces.md"  %}
+
+#### Types de surface{#types_surface}
+
+{% include "/00_Referentiel/NomDesProduits.md" %}
