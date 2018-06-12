@@ -20,20 +20,24 @@ Avant d'exporter, il est nécessaire de ramener les offset en X et Y dans la fen
 
 Ouvrir « Configuration de traduction IFC » pour créer une nouvelle configuration d’export en IFC
 
-![](/02_Modelisation/00_communs/images/export-archicad/ARCHICAD_01.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad.PNG)
 
 Dupliquer le traducteur général pour créer un nouveau traducteur. Vous pouvez alors renommer ce nouveau traducteur :
 
-![](/02_Modelisation/00_communs/images/export-archicad/ARCHICAD_02.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad0.PNG)
 
-Les propriétés suivantes doivent être sélectionnée :
+Les propriétés sont configurables grâces aux 6 paramètres de l'onglet Prédéfinition de conversion (1). Régler ces paramètres en cliquant sur les "..." à droites de chaque paramètre (2)  :
 
-![](/02_Modelisation/00_communs/images/export-archicad/ARCHICAD_03.PNG)
-![](/02_Modelisation/00_communs/images/export-archicad/ARCHICAD_04.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad1.PNG)
 
-Régler les unités en mètre :
+Chaque paramètre doit être réglé de la façon suivante : 
 
-![](/02_Modelisation/00_communs/images/export-archicad/ARCHICAD_05.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad2.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad3.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad4.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad5.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad6.PNG)
+![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad7.PNG)
 
 Cliquer sur enregistrer réglages et fermer pour sauvegarder votre configuration d’export en IFC.
 
