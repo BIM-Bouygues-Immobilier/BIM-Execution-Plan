@@ -26,7 +26,7 @@ Dupliquer le traducteur général pour créer un nouveau traducteur. Vous pouvez
 
 ![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad0.PNG)
 
-Les propriétés sont configurables grâces aux 6 paramètres de l'onglet Prédéfinition de conversion (1). Régler ces paramètres en cliquant sur les "..." à droites de chaque paramètre (2)  :
+Les propriétés sont configurables grâces aux 6 paramètres de l'onglet Prédéfinition de conversion (1). Régler ces paramètres en cliquant sur les "..." à droites de l'écran (2)  :
 
 ![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad1.PNG)
 
@@ -39,11 +39,11 @@ Chaque paramètre doit être réglé de la façon suivante :
 ![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad6.PNG)
 ![](/02_Modelisation/00_communs/images/export-archicad/ExportIFCArchicad7.PNG)
 
-Cliquer sur enregistrer réglages et fermer pour sauvegarder votre configuration d’export en IFC.
+Cliquer sur OK pour sauvegarder votre configuration d’export en IFC.
 
 ## Export en IFC
 
-Ouvrer une vue ne contenant que les éléments que vous souhaitez exporter \(un seul bâtiment par exemple\) :
+Ouvrir une vue ne contenant que les éléments que vous souhaitez exporter \(un seul bâtiment par exemple\) :
 
 ![](/02_Modelisation/00_communs/images/export-archicad/ARCHICAD_06.PNG)
 
