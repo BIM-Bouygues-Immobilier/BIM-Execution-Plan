@@ -55,11 +55,11 @@
   * [Archicad](/lots/vrd/vrd-archicad.md)
   * [Allplan](/lots/vrd/vrd-allplan.md)
   * [Autre logiciel](/lots/vrd/vrd-ifc.md)
-* [Plateforme collaborative](/03_bimsync/README.md)
-  * [Démarrage](/03_bimsync/demarrage.md)
-  * [Manipuler les modèles](/03_bimsync/manipuler-les-modeles.md)
-  * [Déposer et gérer des modèles](/03_bimsync/deposer-et-gerer-des-modeles.md)
-  * [Déposer et gérer des documents](/03_bimsync/deposer-et-gerer-des-documents.md)
-  * [Poser et répondre aux questions](/03_bimsync/poser-et-repondre-aux-questions.md)
-  * [Inviter des membres et gérer un projet](/03_bimsync/inviter-des-membres-et-gerer-un-projet.md)
+{# * [Plateforme collaborative](/03_bimsync/README.md) #}
+{#   * [Démarrage](/03_bimsync/demarrage.md)#}
+{#   * [Manipuler les modèles](/03_bimsync/manipuler-les-modeles.md)#}
+{#   * [Déposer et gérer des modèles](/03_bimsync/deposer-et-gerer-des-modeles.md)#}
+{#   * [Déposer et gérer des documents](/03_bimsync/deposer-et-gerer-des-documents.md) #}
+{#   * [Poser et répondre aux questions](/03_bimsync/poser-et-repondre-aux-questions.md) #}
+{#   * [Inviter des membres et gérer un projet](/03_bimsync/inviter-des-membres-et-gerer-un-projet.md) #}
 * [Crédits](CREDITS.md)
