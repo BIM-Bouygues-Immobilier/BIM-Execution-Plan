@@ -41,3 +41,36 @@ La listes des sujet va alors apparaitre dans la fenêtre BCF Manager sous forme 
 Les commentaires sont visibles en bas de la fenêtre du BCF Manager, cliquer sur le "+" (9) pour en ajouter un nouveau. Ecrire le commentaire dans la zone prévu à cet effet, changer l'image si besoin grâce aux outils sur la droite (10), puis valider en cliquant sur "Sauvegarder" (11). Ce nouveau commentaire sera ajouté à la liste des commentaires, ainsi que le nom de son auteur et sa date de création.
 
 ![importBCFRevit04](/02_Modelisation/00_communs/images/import-bcf/ImportBCFRevit04.PNG)
+
+#### Export d'un fichier BCFZIP depuis Revit
+
+Après avoir apporté des modifications à un fichier BCF à l'aide de BCF Manager, cliquer sur "Exporter un fichier BCF" (1).
+Choisir un dossier d'exportation (2), un nom pour le fichier à exporter, puis cliquer sur "Enregistrer" (3). Le fichier BCF mis à jour est maintenant prêt à être réimporté dans bimsync.
+
+![ExportBCFRevit05](/02_Modelisation/00_communs/images/export-bcf/ExportBCFRevit05.PNG)
+
+{% elif logiciel == "ArchiCAD" %}
+
+Avec archicad...
+
+{% elif logiciel == "Allplan" %}
+
+Avec allplan...
+
+{% endif %}
+
+#### Import d'un fichier BCFZIP dans bimsync
+
+Pour importer un fichier BCFZIP dans bimsync, aller dans l'onglet sujets (1), cliquer sur l'icône "..." (2), puis sur "Importer" (3).
+
+![ImportBCFbimsync01](/02_Modelisation/00_communs/images/import-bcf/ImportBCFbimsync01.PNG)
+
+Dans l'interface d'import de fichiers BCF, cliquer sur "Envoyer un fichier BCF" (4), parcourez vos documents puis sélectionner le fichier à importer (5), puis cliquer sur "Ouvrir" (6). Veiller à choisir la bonne liste de sujets dans laquelle les sujets seront importés, la même qu'au départ si les fichiers BCF ont été importé initialement depuis bimsync (7).
+
+![ImportBCFbimsync02](/02_Modelisation/00_communs/images/import-bcf/ImportBCFbimsync02.PNG)
+
+L'importation BCF est lancée (8), dès qu'elle sera fini les nouveau sujets seront visibles dans la liste choisie lors de l'importation, et les sujets existants seront mis à jours (les nouveaux commentaires seront ajoutés automatiquement (9) )
+
+![ImportBCFbimsync03](/02_Modelisation/00_communs/images/import-bcf/ImportBCFbimsync03.PNG)
+
+![ImportBCFbimsync04](/02_Modelisation/00_communs/images/import-bcf/ImportBCFbimsync04.PNG)
