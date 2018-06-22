@@ -20,8 +20,6 @@ Une fois l'exportation terminée, cliquer sur l'icône flèche pour télécharge
 
 ![ExportBCFRevit04](/02_Modelisation/00_communs/images/export-bcf/ExportBCFRevit04.PNG)
 
-{% if logiciel == "Revit" %}
-
 #### Import d'un fichier BCFZIP dans Revit
 
 Pour pouvoir manipuler le format BCF dans Revit, il faut passer par l'intermédiaire d'un plugin (par exemple, BIMcollab) qui doit être téléchargé puis installé sur votre poste. Dans le cas de BIMcollab, il faut se créer un compte, et l'activer avant de pouvoir ouvrir utiliser le BCF Manager, qui est l'interface permettant de manipuler les fichiers BCF. 
@@ -30,7 +28,7 @@ Une fois passé tous ces impératifs, aller dans l'onglet nouvellement créé BI
 
 ![importBCFRevit01](/02_Modelisation/00_communs/images/import-bcf/ImportBCFRevit01.PNG)
 
-Pour ouvrir un fichier au format BCFZIP dans le BCF Manager, cliquer sur l'icône "Importer un fichier BCF (4), puis naviguer jusque dans votre dossier de téléchargement (5), sélectioner le fichier précédemment téléchargé et cliquer sur Ouvrir (6).
+Pour ouvrir un fichier au format BCFZIP dans le BCF Manager, cliquer sur l'icône "Importer un fichier BCF" (4), puis naviguer jusque dans le dossier de téléchargement (5), sélectioner le fichier précédemment téléchargé et cliquer sur Ouvrir (6).
 
 ![importBCFRevit02](/02_Modelisation/00_communs/images/import-bcf/ImportBCFRevit02.PNG)
 
