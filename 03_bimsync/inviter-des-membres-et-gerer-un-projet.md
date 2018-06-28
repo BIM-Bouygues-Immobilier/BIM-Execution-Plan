@@ -1,1 +1,0 @@
-{% include "git+https://github.com/bimsync/bimsync-documentation.git/06 - Inviter des membres et gerer un projet/inviter-des-membres-et-gerer-un-projet.md#master" %}
