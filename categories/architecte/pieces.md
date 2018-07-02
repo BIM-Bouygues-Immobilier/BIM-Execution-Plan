@@ -64,6 +64,8 @@ Afin de regrouper ces pièces, il est nécéssaire d'ajouter les propriétés su
 
 Dans Allplan, ces locaux doivent être modélisé à l’aide de l’outil Pièce.
 
+![PiecesAllplan](/02_Modelisation/02_architecte/images/PiecesAllplan.PNG)
+
 Les propriétés suivantes sont à compléter :
 
 | Propriété | Valeurs possibles | Explication |

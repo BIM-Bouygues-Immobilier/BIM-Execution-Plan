@@ -90,6 +90,8 @@ Les surfaces doivent être nommée de la façon suivante :
 
 {% include "/00_Referentiel/NomDesSurfaces.md"  %}
 
+Les différents types de surfaces sont indiquées dans le tableau suivant :
+
 #### Types de surface{#types_surface}
 
 {% include "/00_Referentiel/NomDesProduits.md" %}
