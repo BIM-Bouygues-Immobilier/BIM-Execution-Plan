@@ -37,7 +37,7 @@ Si nécessaire, il est possible d'accèder aux paramètres supplémentaires d'ex
 
 #### Configuration de l'export
 
-Télécharger la configuration d'export : [Paramètres import export IFC BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+Télécharger la configuration d'export : [Paramètres import export IFC BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Param%C3%A8tres%20import%20export%20IFC%20BI.nth) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
 
 Dans l'interface de paramètres avancés, cliquer sur l'icône "Rechercher" (1), puis dans le dossier de téléchargements, sélectionner le fichier Paramètres import export IFC BI (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
 Paramètre import export IFC BI va alors apparaître dans la liste des Favoris disponibles (4). Sélectionnez le, et cliquez sur OK (5).
