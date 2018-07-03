@@ -24,11 +24,11 @@ Voici un exemple de découpage, d'abord le projet complet constitué de deux bâ
 
 {% elif logiciel == "ArchiCAD" %}
 
-Manipulation dans Archicad:{#methode}
+Créer une vue par lot et par bâtiment, et y regrouper les éléments que vous souhaitez exporter.
 
 {% elif logiciel == "Allplan" %}
 
-Manipulation dans Allplan: {#methode}
+Au début de la conception, créer un claque par lot et par bâtiment. Veiller à bien assigner chaque objet dans le claque correspondant. Ainsi, lors de l'export IFC, vous pourrez choisir les calques à exporter pour chacun des modèles.
 
 {% else %}
 
