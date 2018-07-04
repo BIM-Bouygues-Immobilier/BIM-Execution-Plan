@@ -8,27 +8,32 @@ Les locaux doivent être représentés et décomposés en locaux fonctionnels (C
 
 Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini. En l’absence de faux-plafonds, les locaux doivent être modélisés jusqu’à la hauteur libre prévue par le programme. Les locaux doivent être identifiés par leur nom, en suivant les valeurs du tableau ["Nom des pièces"](#Nom_pieces) ci-dessous.
 
+#### Tableaux de valeurs Revit BI
+
+Avant de modéliser, assurer vous de charger les Tableaux de valeurs Revit BI dans votre protjet. Télécharger les tableaux : [les Tableaux de valeurs Revit BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+
+Pour charger les Tableaux de valeurs Revit BI dans votre projet, aller dans l'onglet Insérer (1), cliquer sur Insérer à partir du fichier, puis sur Insérer des vues à partir du fichier (2).
+
+![Pièces02](/02_Modelisation/02_architecte/images/PiecesRevit02.PNG)
+
+Parcourir l'explorateur de fichiers jusqu'au dossier où est stocker le fichier Tableaux de valeurs Revit BI, le sélectionner, puis cliquer sur Ouvrir (4).
+
+![Pièces03](/02_Modelisation/02_architecte/images/PiecesRevit03.PNG)
+
 #### Modélisation
 
 {% if logiciel == "Revit" %}
 
-Dans Revit, ces locaux doivent être modélisé à l’aide de l’outil Pièce :
+Dans Revit, ces locaux doivent être modélisés à l’aide de l’outil Espace (1), situé dans l'onglet Analyser (2) :
 
-![Pièces](/02_Modelisation/02_architecte/images/SURFACE_02.PNG)
+![Pièces01](/02_Modelisation/02_architecte/images/PiecesRevit01.PNG)
 
 Les propriétés suivantes sont à compléter :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
 | Nom | Voir [« Nom des pièces »](#Nom_pieces) ci-dessous | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
-| Commentaire | Voir [« Destination des pièces »](#destination_piece) ci-dessous| Cette propriété indique la destination des pièces réalisées. |
 | Décalage limite | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local. Les propriétés « Niveau » et « Limite supérieure » doivent donc également avoir la même valeur. |
-
-On completera également le revêtement de sol :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Finition du sol | Voir [« Revêtements de sols »](#revêtements_sols) ci-dessous | Cette propriété indique le type de revêtement de sol dans la pièce. |
 
 #### Exemple
 
@@ -96,14 +101,3 @@ On découpe la pièce en séparant les espaces sous 1,80 m. On appele ces espace
 Le tableau ci-dessous liste les noms de pièces à utiliser sur l'operation:
 
 {% include "/00_Referentiel/NomDesPieces.md" %}
-
-#### Revêtements de sols{#revêtements_sols}
-
-{% include "/00_Referentiel/TypesDeRevetements.md" %}
-
-#### Destination des pièces{#destination_piece}
-
-Le tableau ci-dessous liste les destinations possible pour une pièces:
-
-{% include "/00_Referentiel/NomDesProduits.md" %}
-
