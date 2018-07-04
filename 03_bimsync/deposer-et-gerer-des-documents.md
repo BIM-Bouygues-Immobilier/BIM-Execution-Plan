@@ -1,1 +1,0 @@
-{% include "git+https://github.com/bimsync/bimsync-documentation.git/04 - Deposer et gerer des documents/deposer-et-gerer-des-documents.md#master" %}

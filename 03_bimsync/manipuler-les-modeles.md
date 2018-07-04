@@ -1,1 +1,0 @@
-{% include "git+https://github.com/bimsync/bimsync-documentation.git/02 - Manipuler des modeles/manipuler-les-modeles.md#master" %}
