@@ -12,7 +12,7 @@ Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini.
 
 #### Tableaux de valeurs Revit BI
 
-Avant de modéliser, assurez vous de charger les Tableaux de valeurs Revit BI dans votre protjet. Télécharger les tableaux : [les Tableaux de valeurs Revit BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+Avant de modéliser, assurez vous de charger les Tableaux de valeurs Revit BI dans votre protjet. Télécharger les tableaux : [les Tableaux de valeurs Revit BI](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/categories/architecte/Tableaux%20de%20valeurs%20Revit%20BI.rvt?raw=true)
 
 Pour charger les Tableaux de valeurs Revit BI dans votre projet, aller dans l'onglet Insérer (1), cliquer sur Insérer à partir du fichier, puis sur Insérer des vues à partir du fichier (2).
 
