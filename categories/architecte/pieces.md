@@ -99,10 +99,16 @@ On completera également le revêtement de sol :
 
 #### Pièces sous 1,80 m
 
-On découpe la pièce en séparant les espaces sous 1,80 m. On appele ces espaces "COMBLE".
+Concernant les combles, l'espace dont la hauteur sous plafond est de moins d'1,80m n'est pas pris en compte dans le calcul de la surface. Dans l'image ci dessous, il s'agit de l'espace à l’extérieur des deux droites en pointillés verts.
+
+![Combles1](/02_Modelisation/02_architecte/images/Combles1.PNG)
+
+ Il faut créer une ou plusieurs pièces supplémentaires (avec l'outil Espace), que l'on va nommer Combles, regroupant tous ces espaces dont la hauteur sous plafond est inférieure à 1,80m. Pour cela, utiliser l'outil Séparateur d'espaces.  Enfin, renommer correctement vos pièces. Vous devez avoir une pièce principale, et une ou plusieurs pièces nommées Combles, comme sur l'image ci dessous:
+
+![Combles2](/02_Modelisation/02_architecte/images/Combles2.PNG)
 
 #### Nom des pièces{#Nom_pieces}
 
-Le tableau ci-dessous liste les noms de pièces à utiliser sur l'operation:
+Le tableau ci-dessous liste les noms de pièces à utiliser sur l'opération:
 
 {% include "/00_Referentiel/NomDesPieces.md" %}
