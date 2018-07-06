@@ -52,6 +52,7 @@ Ce plug-in est disponible aux adresses suivantes :
 
 | Version du logiciel | Adresse |
 | :--- | :--- |
+| Revit 2019 | [https://apps.autodesk.com/RVT/en/Detail/Index?id=1763588736399554049&appLang=en&os=Win64](https://apps.autodesk.com/RVT/en/Detail/Index?id=1763588736399554049&appLang=en&os=Win64) |
 | Revit 2018 | [https://apps.autodesk.com/RVT/en/Detail/Index?id=6193770166503453647&appLang=en&os=Win64](https://apps.autodesk.com/RVT/en/Detail/Index?id=6193770166503453647&appLang=en&os=Win64) |
 | Revit 2017 | [https://apps.autodesk.com/RVT/en/Detail/Index?id=1049118595309324136&appLang=en&os=Win64](https://apps.autodesk.com/RVT/en/Detail/Index?id=1049118595309324136&appLang=en&os=Win64) |
 | Revit 2016 | [https://apps.autodesk.com/RVT/en/Detail/Index?id=3754730560173591798&appLang=en&os=Win32\_64](https://apps.autodesk.com/RVT/en/Detail/Index?id=3754730560173591798&appLang=en&os=Win32_64) |
