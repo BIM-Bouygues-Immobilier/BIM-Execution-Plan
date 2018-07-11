@@ -42,6 +42,23 @@ Vous trouverez la liste complète des types de pièces dans le tableau ci-dessou
 
 {% elif logiciel == "ArchiCAD" %}
 
+#### Réglages et imports préliminaires
+
+Avant de modéliser, assurez vous d'avoir:
+
+* Importé le Traducteur général Bouygues Immobilier comme traducteur IFC, ou fait la configuration manuellement comme demandé (voir [Procédure d'export en IFC](#export))
+* Importé le paramètre "Type de la pièce". Pour cela, aller dans l'onglet Option (1), puis ouvrir le Gestionaire de propriétés (2)
+
+![Pièces06](/02_Modelisation/02_architecte/images/PiecesArchicad01.png)
+
+Après avoir téléchargé le fichier ["Propriété ArchiCAD Type de pièce"](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json)  _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_ cliquer sur Importer (3), puis dans le dossier de téléchargements, sélectionner le fichier "Propriété ArchiCAD Type de pièce" (4) que vous venez de télécharger et cliquer sur Ouvrir (5). 
+
+![Pièces07](/02_Modelisation/02_architecte/images/PiecesArchicad02.png)
+
+la nouvelle propriété sera disposible dans la liste des proriété de zone (6). cliquer enfin sur OK pour valider l'importation (8).
+
+![Pièces08](/02_Modelisation/02_architecte/images/PiecesArchicad03.png)
+
 #### Modélisation
 
 Dans ArchiCAD, ces locaux doivent être modélisé à l’aide de l’outil Zone :
@@ -52,8 +69,7 @@ Les propriétés suivantes sont à compléter :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Catégorie de Zone | Rooms| Toutes les zones sont dans la catégorie Rooms |
-| Nom | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
+| Type de la pièce | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
 | Hauteur | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local.|
 
 #### Zones
