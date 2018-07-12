@@ -51,7 +51,7 @@ Avant de modéliser, assurez vous d'avoir:
 
 ![Pièces06](/02_Modelisation/02_architecte/images/PiecesArchicad01.png)
 
-Après avoir téléchargé le fichier ["Propriété ArchiCAD Type de pièce"](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json)  _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_ cliquer sur Importer (3), puis dans le dossier de téléchargements, sélectionner le fichier "Propriété ArchiCAD Type de pièce" (4) que vous venez de télécharger et cliquer sur Ouvrir (5). 
+Après avoir téléchargé le fichier ["Propriété ArchiCAD Type de pièce"](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/archicad/Propri%C3%A9t%C3%A9%20ArchiCAD%20Type%20de%20pi%C3%A8ce.xml)  _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_ cliquer sur Importer (3), puis dans le dossier de téléchargements, sélectionner le fichier "Propriété ArchiCAD Type de pièce" (4) que vous venez de télécharger et cliquer sur Ouvrir (5). 
 
 ![Pièces07](/02_Modelisation/02_architecte/images/PiecesArchicad02.png)
 
@@ -63,7 +63,7 @@ la nouvelle propriété sera disposible dans la liste des proriété de zone (6)
 
 Dans ArchiCAD, ces locaux doivent être modélisé à l’aide de l’outil Zone :
 
-![](/02_Modelisation/02_architecte/images/Zones.png)
+![Pièces09](/02_Modelisation/02_architecte/images/Zones.png)
 
 Les propriétés suivantes sont à compléter :
 
@@ -72,17 +72,10 @@ Les propriétés suivantes sont à compléter :
 | Type de la pièce | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
 | Hauteur | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local.|
 
-#### Zones
+Pour nommer chaque pièce et renseigner son type, se référer au tableau [Nom des pièces](#Nom_pieces). Ouvrir les options de la zone (sélectioner la zone, clique droit puis sur Options zones sélectionnées (1)), indiquer le nom de la pièce dans la case Nom (2) et le numéro de la pièce dans la case N° (3). Pour la hauteur de la pièces, utiliser les cases juste en dessous (4) pour la configurer comme souhaité.
+Pour renseigner le paramètre Type de la pièce, aller dans l'onglet Classification et propriétés (5), puis le sous onlget Zone et indiquer manuellement le code à trois lettre correspondant au type de la pièce (6).
 
-Afin de regrouper ces pièces, il est nécéssaire d'ajouter les propriétés suivantes à l'aide d'un paramètre partagé :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| ZoneDescription | Voir « Nom des zones » | Cette propriété permet de regrouper plusiseurs pièces en une seule zone, par exemple un appartement. Ce paramètre peut n'être saisi qu'une seule fois par zone. |
-| ZoneName | Un numéro unique | Cette propriété permet d'identifier la zone.|
-{% include "../../00_Referentiel/NomDesZones.md"  %}
-
-{% include "/00_Referentiel/NomDesProduits.md" %}
+![Pièces10](/02_Modelisation/02_architecte/images/PiecesArchicad04.png)
 
 {% elif logiciel == "Allplan" %}
 
