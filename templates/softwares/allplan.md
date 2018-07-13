@@ -20,7 +20,7 @@ Avant d'exporter, il est nécessaire de ramener les offset en X et Y dans la fen
 
 Pour pouvoir exporter le projet en format IFC2X3:
 
-* Aller dans le browser de projet et sélectionner la commande "Exporter" et ensuite "Exportation des données IFC 2X3":
+* Aller dans le browser de projet et sélectionner la commande "Exporter" et ensuite "Exportation des données IFC...":
 
 ![EXP1](/02_Modelisation/00_communs/images/EXP1.png)
 
@@ -42,7 +42,7 @@ Télécharger la configuration d'export : [Paramètres import export IFC BI](htt
 Dans l'interface de paramètres avancés, cliquer sur l'icône "Rechercher" (1), puis dans le dossier de téléchargements, sélectionner le fichier Paramètres import export IFC BI (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
 Paramètre import export IFC BI va alors apparaître dans la liste des Favoris disponibles (4). Sélectionnez le, et cliquez sur OK (5).
 
-![ExportIFCRevit6](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan01.PNG)
+![ExportIFCAllplan01](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan01.PNG)
 
 #### Configuration manuelle
 
@@ -50,6 +50,17 @@ _Si vous ne souhaitez pas utiliser la configuration automatique,_ vous pourrez u
 
 Pour configurer manuellement l'export IFC, cliquer sur "Paramètres", la fenêtre de paramètres d'import et d'export va s'ouvrir. Régler les paramètres de la façon suivante:
 
-![ExportIFCRevit6](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan1.PNG)
+![ExportIFCAllplan02](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan1.PNG)
+
+### Configuration du dossier d'exportation des paramètres IFC
+
+Pour que les attributs Allplan soient correctement reliés aux paramètres IFC lors de l'export, il faut ajouter un fichier texte à un endroit précis dans les dossier d'Allplan. Commencer par télécharger le fichier texte en question : [User_PropertyMap_Allplan_TO_Ifc2x3.cfg](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/allplan/User_PropertyMap_Allplan_TO_Ifc2x3.cfg) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+Ouvrir ensuite l'application Allmenu 2018 (Allmenu 2017 pour une version Allplan 2017, etc), aller dans l'onglet Maintenance, puis cliquer sur Explorateur Windows, et enfin sur Documents CAO personnalisés (USR).
+
+![ExportIFCAllplan03](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan03.PNG)
+
+Un dossier nommé Local va s'ouvrir, c'est ici que vous devez importer le fichier User_PropertyMap_Allplan_TO_Ifc2x3.cfg (1). Veiller à ne pas éditer ce fichier texte, ni son contenu, ni son nom.
+
+![ExportIFCAllplan04](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan04.PNG)
 
 {% endblock %}
