@@ -79,28 +79,38 @@ Pour renseigner le paramètre Type de la pièce, aller dans l'onglet Classificat
 
 {% elif logiciel == "Allplan" %}
 
+#### Réglages préliminaires
+
+Avant de modéliser, assurez-vous d'avoir créé l'attribut Code_Bouygues_Immobilier. Lors de la création de la première pièce, la sélectionner, cliquer droit dessus, puis sur Modifier des attributs (1). Cliquer ensuite sur Assigner un nouvel attribut (2).
+
+![PiecesAllplan01](/02_Modelisation/02_architecte/images/PiecesAllplan01.png)
+
+Dans la fenêtre qui s'ouvre, sélectionner l'onglet Utilisateur (3). Pour créer un nouvel attribut, cliquer sur l'icône du milieu en haut à droite (4), puis dans la nouvelle fenêtre qui s'ouvre, remplir les information comme indiqué (5). Soyer **très** vigilant au nom de l'attribut, il doit précisément être "Code_Bouygues_Immobilier", ne pas hésiter à le copier-coller. Cliquer sur OK (6), puis l'attribut sera ajouté à la liste des attributs disponibles (7). Cliquer enfin sur OK (8) pour que l'attribut soit ajouté aux attributs de la pièce (9).
+
+![PiecesAllplan02](/02_Modelisation/02_architecte/images/PiecesAllplan02.png)
+
+![PiecesAllplan03](/02_Modelisation/02_architecte/images/PiecesAllplan03.png)
+
+Vous devrez ajouter l'attribut Code_Bouygues_Immobilier manuellement à chaque fois que vous créez une nouvelle pièce; vous pouvez également utiliser la fonction Reprendre les propriétés (10), en cliquant sur une pièce précédemment crée. Cette nouvelle pièce disposera automatiquement de l'attribut Code_Bouygues_Immobilier parmi sa liste d'attributs.
+
+![PiecesAllplan04](/02_Modelisation/02_architecte/images/PiecesAllplan04.png)
+
 #### Modélisation
 
 Dans Allplan, ces locaux doivent être modélisé à l’aide de l’outil Pièce.
 
 ![PiecesAllplan](/02_Modelisation/02_architecte/images/PiecesAllplan.PNG)
 
-Les propriétés suivantes sont à compléter :
+Les attributs suivants sont à compléter :
 
-| Propriété | Valeurs possibles | Explication |
+| Attribut | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Fonction | Voir [« Nom des pièces »](#Nom_pieces) ci-dessous | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
-| Description | Voir [« Destination des pièces »](#destination_piece) ci-dessous| Cette propriété indique la destination des pièces réalisées. |
+| Code_Bouygues_Immobilier | Voir [« Nom des pièces »](#Nom_pieces) ci-dessous | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
+| Hauteur | Hauteur libre \(en m\) | Cet attribut permet d’indiquer la hauteur libre dans le local.|
 
-On completera également le revêtement de sol :
+Lors de la création de chaque pièce, renseigner manuellement l'attribut Code_Bouygues_Immobilier (1), avec le code correspondant à la fonction de la pièce. Pour cela, se référer au tableau [Nom des pièces](#Nom_pieces) où sont listés les codes des pièces.
 
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Finition du sol | Voir [« Revêtements de sols »](#revêtements_sols) ci-dessous | Cette propriété indique le type de revêtement de sol dans la pièce. |
-
-#### Exemple
-
-![Propriétés des pièces](/02_Modelisation/02_architecte/images/ROOM1.PNG)
+![PiecesAllplan05](/02_Modelisation/02_architecte/images/PiecesAllplan05.png)
 
 {% else %}
 
