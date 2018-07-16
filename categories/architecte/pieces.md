@@ -12,7 +12,7 @@ Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini.
 
 #### Tableaux de valeurs Revit BI
 
-Avant de modéliser, assurez vous de charger les Tableaux de valeurs Revit BI dans votre protjet. Télécharger les tableaux : [les Tableaux de valeurs Revit BI](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/categories/architecte/Tableaux%20de%20valeurs%20Revit%20BI.rvt?raw=true)
+Avant de modéliser, assurez vous de charger les Tableaux de valeurs Revit BI dans votre protjet. Télécharger les tableaux : _[Tableaux de valeurs Revit BI](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/categories/architecte/Tableaux%20de%20valeurs%20Revit%20BI.rvt?raw=true)_
 
 Pour charger les Tableaux de valeurs Revit BI dans votre projet, aller dans l'onglet Insérer (1), cliquer sur Insérer à partir du fichier, puis sur Insérer des vues à partir du fichier (2).
 
@@ -22,7 +22,7 @@ Parcourir l'explorateur de fichiers jusqu'au dossier où est stocké le fichier 
 
 ![Pièces03](/02_Modelisation/02_architecte/images/PiecesRevit03.PNG)
 
-Dans la nouvelle fenêtre qui s'affiche, sélectionner la ou les nomenclatures proposées (5), puis cliquer sur OK (6).
+Dans la nouvelle fenêtre qui s'affiche, sélectionner toutes les nomenclatures proposées (5), puis cliquer sur OK (6).
 
 ![Pièces04](/02_Modelisation/02_architecte/images/PiecesRevit04.PNG)
 
@@ -51,11 +51,11 @@ Avant de modéliser, assurez vous d'avoir:
 
 ![Pièces06](/02_Modelisation/02_architecte/images/PiecesArchicad01.png)
 
-Après avoir téléchargé le fichier ["Propriété ArchiCAD Type de pièce"](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/archicad/Propri%C3%A9t%C3%A9%20ArchiCAD%20Type%20de%20pi%C3%A8ce.xml)  _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_ cliquer sur Importer (3), puis dans le dossier de téléchargements, sélectionner le fichier "Propriété ArchiCAD Type de pièce" (4) que vous venez de télécharger et cliquer sur Ouvrir (5). 
+Après avoir téléchargé le fichier _[Propriété ArchiCAD Type de pièce](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/archicad/Propri%C3%A9t%C3%A9%20ArchiCAD%20Type%20de%20pi%C3%A8ce.xml)_  _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_ cliquer sur Importer (3), puis dans le dossier de téléchargements, sélectionner le fichier "Propriété ArchiCAD Type de pièce" (4) que vous venez de télécharger et cliquer sur Ouvrir (5). 
 
 ![Pièces07](/02_Modelisation/02_architecte/images/PiecesArchicad02.png)
 
-la nouvelle propriété sera disposible dans la liste des proriété de zone (6). cliquer enfin sur OK pour valider l'importation (8).
+La nouvelle propriété sera disposible dans la liste des propriété de zone (6). cliquer enfin sur OK pour valider l'importation (8).
 
 ![Pièces08](/02_Modelisation/02_architecte/images/PiecesArchicad03.png)
 
@@ -69,11 +69,11 @@ Les propriétés suivantes sont à compléter :
 
 | Propriété | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Type de la pièce | Voir « Nom des pièces » | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
+| Type de la pièce | Voir [« Nom des pièces »](#Nom_pieces) | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
 | Hauteur | Hauteur libre \(en m\) | Cette propriété permet d’indiquer la hauteur libre dans le local.|
 
 Pour nommer chaque pièce et renseigner son type, se référer au tableau [Nom des pièces](#Nom_pieces). Ouvrir les options de la zone (sélectioner la zone, clique droit puis sur Options zones sélectionnées (1)), indiquer le nom de la pièce dans la case Nom (2) et le numéro de la pièce dans la case N° (3). Pour la hauteur de la pièces, utiliser les cases juste en dessous (4) pour la configurer comme souhaité.
-Pour renseigner le paramètre Type de la pièce, aller dans l'onglet Classification et propriétés (5), puis le sous onlget Zone et indiquer manuellement le code à trois lettre correspondant au type de la pièce (6).
+Pour renseigner le paramètre Type de la pièce, aller dans l'onglet Classification et propriétés (5), puis le sous onglet Zone et indiquer manuellement le code à trois lettre correspondant au type de la pièce (6).
 
 ![Pièces10](/02_Modelisation/02_architecte/images/PiecesArchicad04.png)
 
@@ -85,7 +85,7 @@ Avant de modéliser, assurez-vous d'avoir créé l'attribut Code_Bouygues_Immobi
 
 ![PiecesAllplan01](/02_Modelisation/02_architecte/images/PiecesAllplan01.png)
 
-Dans la fenêtre qui s'ouvre, sélectionner l'onglet Utilisateur (3). Pour créer un nouvel attribut, cliquer sur l'icône du milieu en haut à droite (4), puis dans la nouvelle fenêtre qui s'ouvre, remplir les information comme indiqué (5). Soyer **très** vigilant au nom de l'attribut, il doit précisément être "Code_Bouygues_Immobilier", ne pas hésiter à le copier-coller. Cliquer sur OK (6), puis l'attribut sera ajouté à la liste des attributs disponibles (7). Cliquer enfin sur OK (8) pour que l'attribut soit ajouté aux attributs de la pièce (9).
+Dans la fenêtre qui s'ouvre, sélectionner l'onglet Utilisateur (3). Pour créer un nouvel attribut, cliquer sur l'icône du milieu en haut à droite (4), puis dans la nouvelle fenêtre qui s'ouvre, remplir les information comme indiqué (5). Soyez _très_ vigilant au nom de l'attribut, il doit précisément être "Code_Bouygues_Immobilier", ne pas hésiter à le copier-coller. Cliquer sur OK (6), puis l'attribut sera ajouté à la liste des attributs disponibles (7). Cliquer enfin sur OK (8) pour que l'attribut soit ajouté aux attributs de la pièce (9).
 
 ![PiecesAllplan02](/02_Modelisation/02_architecte/images/PiecesAllplan02.png)
 
@@ -97,7 +97,7 @@ Vous devrez ajouter l'attribut Code_Bouygues_Immobilier manuellement à chaque f
 
 #### Modélisation
 
-Dans Allplan, ces locaux doivent être modélisé à l’aide de l’outil Pièce.
+Dans Allplan, ces locaux doivent être modélisés à l’aide de l’outil Pièce.
 
 ![PiecesAllplan](/02_Modelisation/02_architecte/images/PiecesAllplan.PNG)
 
@@ -105,7 +105,7 @@ Les attributs suivants sont à compléter :
 
 | Attribut | Valeurs possibles | Explication |
 | :--- | :--- | :--- |
-| Code_Bouygues_Immobilier | Voir [« Nom des pièces »](#Nom_pieces) ci-dessous | Cette propriété indique le type de local, suivant la décomposition décrite ci-dessus. |
+| Code_Bouygues_Immobilier | Voir [« Nom des pièces »](#Nom_pieces) ci-dessous | Cet attribut indique le type de local, suivant la décomposition décrite ci-dessus. |
 | Hauteur | Hauteur libre \(en m\) | Cet attribut permet d’indiquer la hauteur libre dans le local.|
 
 Lors de la création de chaque pièce, renseigner manuellement l'attribut Code_Bouygues_Immobilier (1), avec le code correspondant à la fonction de la pièce. Pour cela, se référer au tableau [Nom des pièces](#Nom_pieces) où sont listés les codes des pièces.
@@ -122,7 +122,7 @@ Concernant les combles, l'espace dont la hauteur sous plafond est de moins d'1,8
 
 ![Combles1](/02_Modelisation/02_architecte/images/Combles1.PNG)
 
- Il faut créer une ou plusieurs pièces supplémentaires (avec l'outil Espace), que l'on va nommer Combles, regroupant tous ces espaces dont la hauteur sous plafond est inférieure à 1,80m. Pour cela, utiliser l'outil Séparateur d'espaces.  Enfin, renommer correctement vos pièces. Vous devez avoir une pièce principale, et une ou plusieurs pièces nommées Combles, comme sur l'image ci dessous:
+ Il faut créer une ou plusieurs pièces supplémentaires (avec l'outil Espace), que l'on va nommer Combles, regroupant tous ces espaces dont la hauteur sous plafond est inférieure à 1,80m. Pour cela, utiliser l'outil Séparateur d'espaces.  Enfin, renommer correctement les pièces. Vous devez avoir une pièce principale, et une ou plusieurs pièces nommées Combles, comme sur l'image ci dessous:
 
 ![Combles2](/02_Modelisation/02_architecte/images/Combles2.PNG)
 

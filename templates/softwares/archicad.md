@@ -24,7 +24,7 @@ Ouvrir « Configuration de traduction IFC » pour créer une nouvelle configurat
 
 #### Configuration du traducteur IFC
 
-Télécharger le traducteur pour l'exportation  : [Traducteur général Bouygues Immobilier](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+Télécharger le traducteur pour l'exportation  : _[Traducteur général Bouygues Immobilier](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json)_ _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
 
 Il s'agit d'un projet ArchiCAD vide, contenant le Traducteur général Bouygues Immobilier que vous allez importer dans votre propre projet.
 Dans l'interface Traducteurs IFC, cliquer sur l'icône "Importer traducteur de fichier externe" (1), puis dans le dossier de téléchargements, sélectionner le fichier Configuration Cahier des Charges BIM BI (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
