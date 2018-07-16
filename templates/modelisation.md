@@ -61,10 +61,4 @@ Les niveaux sont nommés de la façon suivante :
 
 ## Export au format IFC{#export}
 
-### Généralités
-
-Pour chaque lot, il est nécessaire de déposer un seul fichier, au format IFC2X3, incluant tous les éléments nécessaires à la bonne compréhension du projet pour la phase en cours, et purgé de tous les éléments non nécessaires au sujet en cours.
-
-Les paramètres d'export décrit ci-dessous doivent être réglés une seule fois, puis réutilisés à l'identique pour tout les exports suivants.
-
 {% block logiciel_export %}{% endblock %}
