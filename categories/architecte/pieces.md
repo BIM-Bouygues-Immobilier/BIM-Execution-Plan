@@ -55,7 +55,7 @@ Après avoir téléchargé le fichier _[Propriété ArchiCAD Type de pièce](htt
 
 ![Pièces07](/02_Modelisation/02_architecte/images/PiecesArchicad02.png)
 
-La nouvelle propriété sera disposible dans la liste des propriété de zone (6). cliquer enfin sur OK pour valider l'importation (8).
+La nouvelle propriété sera disposible dans la liste des propriété de zone (6). cliquer enfin sur OK pour valider l'importation (7).
 
 ![Pièces08](/02_Modelisation/02_architecte/images/PiecesArchicad03.png)
 
