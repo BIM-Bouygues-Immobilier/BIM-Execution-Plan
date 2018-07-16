@@ -37,10 +37,10 @@ Si nécessaire, il est possible d'accèder aux paramètres supplémentaires d'ex
 
 #### Configuration de l'export
 
-Télécharger la configuration d'export : _[Paramètres import export IFC BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/allplan/Param%C3%A8tres%20import%20export%20IFC%20BI.nth)_ _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+Télécharger la configuration d'export : _[Paramètres import export IFC Bouygues Immobilier](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/allplan/Param%C3%A8tres%20import%20export%20IFC%20Bouygues%20Immobilier.nth)_ _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
 
-Dans l'interface de paramètres avancés, cliquer sur l'icône "Rechercher" (1), puis dans le dossier de téléchargements, sélectionner le fichier Paramètres import export IFC BI (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
-Paramètre import export IFC BI va alors apparaître dans la liste des Favoris disponibles (4). Sélectionnez le, et cliquez sur OK (5).
+Dans l'interface de paramètres avancés, cliquer sur l'icône "Rechercher" (1), puis dans le dossier de téléchargements, sélectionner le fichier Paramètres import export IFC Bouygues Immobilier (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
+Paramètres import export IFC Bouygues Immobilier va alors apparaître dans la liste des Favoris disponibles (4). Sélectionnez le, et cliquez sur OK (5).
 
 ![ExportIFCAllplan01](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan01.PNG)
 
