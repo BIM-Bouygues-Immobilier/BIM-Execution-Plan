@@ -5,7 +5,7 @@
   "SpaceBoundaries": 1,
   "SitePlacement": 0,
   "ActivePhaseId": {
-    "IntegerValue": 0
+    "IntegerValue": 3
   },
   "ExportBaseQuantities": true,
   "SplitWallsAndColumns": false,
@@ -18,10 +18,10 @@
   "ExportPartsAsBuildingElements": true,
   "ExportSolidModelRep": false,
   "ExportSchedulesAsPsets": false,
-  "ExportUserDefinedPsets": false,
-  "ExportUserDefinedPsetsFileName": "",
+  "ExportUserDefinedPsets": true,
+  "ExportUserDefinedPsetsFileName": "C:\\Users\\aberiot\\OneDrive - Bouygues Immobilier\\Bureau\\Fichiers txt\\BI_IFC_Export_Parameters.txt",
   "ExportUserDefinedParameterMapping": false,
-  "ExportUserDefinedParameterMappingFileName": "",
+  "ExportUserDefinedParameterMappingFileName": "C:\\Users\\aberiot\\OneDrive - Bouygues Immobilier\\Bureau\\BI_IFC_Export_Parameters.txt",
   "ExportBoundingBox": false,
   "IncludeSiteElevation": true,
   "UseActiveViewGeometry": false,
