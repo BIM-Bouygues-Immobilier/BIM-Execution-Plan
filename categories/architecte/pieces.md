@@ -12,7 +12,7 @@ Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini.
 
 #### Tableaux de valeurs Revit Bouygues Immobilier
 
-Avant de modéliser, assurez vous de charger les Tableaux de valeurs Revit Bouygues Immobilier dans votre protjet. Télécharger les tableaux : _[Tableaux de valeurs Revit Bouygues Immobilier](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/categories/architecte/Tableaux%20de%20valeurs%20Revit%20BI.rvt?raw=true)_
+Avant de modéliser, assurez vous de charger les Tableaux de valeurs Revit Bouygues Immobilier dans votre protjet. Télécharger les tableaux : _[Tableaux de valeurs Revit Bouygues Immobilier](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/templates/softwares/revit/Tableaux%20de%20valeurs%20Revit%20Bougyes%20Immobilier.rvt?raw=true)_
 
 Pour charger les Tableaux de valeurs Revit Bouygues Immobilier dans votre projet, aller dans l'onglet Insérer (1), cliquer sur Insérer à partir du fichier, puis sur Insérer des vues à partir du fichier (2).
 
