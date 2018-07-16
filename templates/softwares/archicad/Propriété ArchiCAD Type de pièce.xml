@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+	<Classification>
+		<System>
+			<Name>Classification ARCHICAD</Name>
+			<EditionVersion>21</EditionVersion>
+			<EditionDate>
+				<Year>2017</Year>
+				<Month>6</Month>
+				<Day>1</Day>
+			</EditionDate>
+			<Description/>
+			<Source>www.abvent.com</Source>
+			<Items>
+				<Item>
+					<ID>Elément de construction</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Poutre</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Poteau</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Revêtement</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children>
+								<Item>
+									<ID>Plafond</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Paroi</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Sol</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Isolation</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Etanchéité</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Couverture</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Manchon</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Emballage</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Mur-rideau</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children>
+								<Item>
+									<ID>Panneau Mur-rideau</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Cadre Mur-Rideau</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Fondation</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Membrane</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Pieu</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Plaque</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Garde-corps</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children>
+								<Item>
+									<ID>Main-courante</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Poteau Garde-corps</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Panneau Garde-Corps</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Rampe</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children>
+								<Item>
+									<ID>Volée de rampe</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Palier de rampe</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Toit</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Coque</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Dalle</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Escalier</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children>
+								<Item>
+									<ID>Marche d'escalier</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Contre-marche d'escalier</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Volée d'escalier</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Palier d'escalier</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Finition escalier</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Structure d'escalier</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Mur</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Ouverture</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Porte</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Ouverture de toit</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Fenêtre</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Volume</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Element de construction non défini</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Forme</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Géométrie du site</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Elément d'assemblage</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Accessoire d'assemblage</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Voûte</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Réseau de poutre</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Cadre à contreventement</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Poutrelle</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Cadre rigide</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Pavement</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Ferme</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Composant d'élément</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Accessoire distinct</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Attache</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children>
+								<Item>
+									<ID>Attache mécanique</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Armature</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Barre d'armature</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Treillis d'armature</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Distanceur</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Ancrage</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Mobilier</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Meuble</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Disposition mobilier</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Elément MEP</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Elément de distribution</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children>
+								<Item>
+									<ID>Vérin</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Alarme</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Contrôleur de débit</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Instrument d'écoulement</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Détecteur</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Elément de distribution de fluide</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children>
+								<Item>
+									<ID>Elément de chambre de distribution</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Equipement de conversion d'énérgie</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children>
+										<Item>
+											<ID>Pompe à chaleur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Chauffe-eau</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Refroidisseur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Convecteur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Condensateur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Gaine de refroidissement</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Tour de refroidissement</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Générateur éléctrique</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Moteur éléctrique</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Refroidisseur par évaporation</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Evaporateur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Echangeur de chaleur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Humidificateur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Branchement moteur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Chauffage d'espace</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Transformateur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Faisceau de tubes</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Sytème d'équipement unitaire</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Contrôle de fluide</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children>
+										<Item>
+											<ID>Bouche de ventilation</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Clapet</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Point de distribution éléctrique</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Minuterie éléctrique</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Débimètre</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Appareil de protection</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Appareil de commutation</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Soupape</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Raccord d'installation de fluide</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children>
+										<Item>
+											<ID>Raccord de chemin de câble</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Raccord de gaine</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Boîte de dérivation</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Raccord de tuyauterie</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Dispositif de circulation de fluide</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children>
+										<Item>
+											<ID>Compresseur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Ventilateur</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Pompe</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Tronçon d'installation de fluide</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children>
+										<Item>
+											<ID>Segment de chemin de câble</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Tronçon de câble</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Tronçon de gaine</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Tronçon de tuyauterie</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Appareil de stockage de fluide</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children>
+										<Item>
+											<ID>Appareil de strockage de flux éléctrique</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Citerne</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Elément terminal d'installation de fluide</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children>
+										<Item>
+											<ID>Terminal d'air</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Appareil éléctrique</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Chauffage éléctrique</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Terminal d'évacuation feu</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Terminal de gaz</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Lampe</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Fixation de lampe</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Exutoire</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Terminal sanitaire</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Cheminée</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Terminal de déchets</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Appareil de traitement de fluide</ID>
+									<Name/>
+									<Description/>
+									<Availability>ModelElement</Availability>
+									<Children>
+										<Item>
+											<ID>Silencieux circulaire</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Filtre</ID>
+											<Name/>
+											<Description/>
+											<Availability>ModelElement</Availability>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Elément de transport</ID>
+					<Name/>
+					<Description/>
+					<Availability>ModelElement</Availability>
+					<Children>
+						<Item>
+							<ID>Ascenseur</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Escalier mécanique</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Tapis roulant</ID>
+							<Name/>
+							<Description/>
+							<Availability>ModelElement</Availability>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Espace</ID>
+					<Name/>
+					<Description/>
+					<Availability>Zone</Availability>
+					<Children>
+						<Item>
+							<ID>Espace d'accès</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace commercial</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace de communication</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace culturel</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace éducatif</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace technique</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace médical</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace bureau</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace production</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace loisirs</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace recherche</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace résidentiel</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace stockage</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Espace transport</ID>
+							<Name/>
+							<Description/>
+							<Availability>Zone</Availability>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+			</Items>
+		</System>
+	</Classification>
+	<PropertyDefinitionGroups>
+		<PropertyDefinitionGroup>
+			<Name>Zone</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Type de la pièce</Name>
+					<Description>Code</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<DefaultValue>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value>ACC</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Espace</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace d'accès</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace commercial</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace de communication</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace culturel</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace éducatif</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace technique</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace médical</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace bureau</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace production</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace loisirs</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace recherche</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace résidentiel</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace stockage</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+						<ClassificationID>
+							<ItemID>Espace transport</ItemID>
+							<SystemIDName>Classification ARCHICAD</SystemIDName>
+							<SystemIDVersion>21</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+	</PropertyDefinitionGroups>
+</BuildingInformation>
