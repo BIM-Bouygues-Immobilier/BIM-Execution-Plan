@@ -37,7 +37,7 @@ Si nécessaire, il est possible d'accèder aux paramètres supplémentaires d'ex
 
 #### Configuration de l'export
 
-Télécharger la configuration d'export : [Paramètres import export IFC BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/allplan/Param%C3%A8tres%20import%20export%20IFC%20BI.nth) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+Télécharger la configuration d'export : _[Paramètres import export IFC BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/allplan/Param%C3%A8tres%20import%20export%20IFC%20BI.nth)_ _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
 
 Dans l'interface de paramètres avancés, cliquer sur l'icône "Rechercher" (1), puis dans le dossier de téléchargements, sélectionner le fichier Paramètres import export IFC BI (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
 Paramètre import export IFC BI va alors apparaître dans la liste des Favoris disponibles (4). Sélectionnez le, et cliquez sur OK (5).
@@ -54,7 +54,7 @@ Pour configurer manuellement l'export IFC, cliquer sur "Paramètres", la fenêtr
 
 ### Configuration du dossier d'exportation des paramètres IFC
 
-Pour que les attributs Allplan soient correctement reliés aux paramètres IFC lors de l'export, il faut ajouter un fichier texte à un endroit précis dans les dossier d'Allplan. Commencer par télécharger le fichier texte en question : [User_PropertyMap_Allplan_TO_Ifc2x3.cfg](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/allplan/User_PropertyMap_Allplan_TO_Ifc2x3.cfg) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+Pour que les attributs Allplan soient correctement reliés aux paramètres IFC lors de l'export, il faut ajouter un fichier texte à un endroit précis dans les dossier d'Allplan. Commencer par télécharger le fichier texte en question : _[User_PropertyMap_Allplan_TO_Ifc2x3.cfg](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/allplan/User_PropertyMap_Allplan_TO_Ifc2x3.cfg)_ _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
 Ouvrir ensuite l'application Allmenu 2018 (Allmenu 2017 pour une version Allplan 2017, etc), aller dans l'onglet Maintenance, puis cliquer sur Explorateur Windows, et enfin sur Documents CAO personnalisés (USR).
 
 ![ExportIFCAllplan03](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan03.PNG)
