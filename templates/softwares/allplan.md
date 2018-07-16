@@ -14,13 +14,14 @@
 ### Généralités
 
 Pour chaque lot, il est nécessaire de déposer un seul fichier, au format IFC2X3, incluant tous les éléments nécessaires à la bonne compréhension du projet pour la phase en cours, et purgé de tous les éléments non nécessaires au sujet en cours.
+Pour savoir comment différencier ces éléments, se référer au paragraphe [Découpage des modèles](#découpage).
 Avant d'exporter, il est nécessaire de ramener les offset en X et Y dans la fenêtre des paramètres du projet à zéro.
 
 ### Procédure d’export
 
 Pour pouvoir exporter le projet en format IFC2X3:
 
-* Aller dans le browser de projet et sélectionner la commande "Exporter" et ensuite "Exportation des données IFC...":
+* Aller dans l'onglet Fichier et sélectionner la commande "Exporter" et ensuite "Exportation des données IFC...":
 
 ![EXP1](/02_Modelisation/00_communs/images/EXP1.png)
 
@@ -59,7 +60,7 @@ Ouvrir ensuite l'application Allmenu 2018 (Allmenu 2017 pour une version Allplan
 
 ![ExportIFCAllplan03](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan03.PNG)
 
-Un dossier nommé Local va s'ouvrir, c'est ici que vous devez importer le fichier User_PropertyMap_Allplan_TO_Ifc2x3.cfg (1). Veiller à ne pas éditer ce fichier texte, ni son contenu, ni son nom.
+Un dossier nommé Local va s'ouvrir, c'est ici que vous devez copier le fichier User_PropertyMap_Allplan_TO_Ifc2x3.cfg (1). Veiller à ne pas éditer ce fichier texte, ni son contenu, ni son nom.
 
 ![ExportIFCAllplan04](/02_Modelisation/00_communs/images/export-allplan/ParametresIFCAllplan04.PNG)
 
