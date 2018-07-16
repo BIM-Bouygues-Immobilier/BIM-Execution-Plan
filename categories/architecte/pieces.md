@@ -10,15 +10,15 @@ Les locaux doivent être modélisés depuis le sol fini jusqu’au plafond fini.
 
 {% if logiciel == "Revit" %}
 
-#### Tableaux de valeurs Revit BI
+#### Tableaux de valeurs Revit Bouygues Immobilier
 
-Avant de modéliser, assurez vous de charger les Tableaux de valeurs Revit BI dans votre protjet. Télécharger les tableaux : _[Tableaux de valeurs Revit BI](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/categories/architecte/Tableaux%20de%20valeurs%20Revit%20BI.rvt?raw=true)_
+Avant de modéliser, assurez vous de charger les Tableaux de valeurs Revit Bouygues Immobilier dans votre protjet. Télécharger les tableaux : _[Tableaux de valeurs Revit Bouygues Immobilier](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/categories/architecte/Tableaux%20de%20valeurs%20Revit%20BI.rvt?raw=true)_
 
-Pour charger les Tableaux de valeurs Revit BI dans votre projet, aller dans l'onglet Insérer (1), cliquer sur Insérer à partir du fichier, puis sur Insérer des vues à partir du fichier (2).
+Pour charger les Tableaux de valeurs Revit Bouygues Immobilier dans votre projet, aller dans l'onglet Insérer (1), cliquer sur Insérer à partir du fichier, puis sur Insérer des vues à partir du fichier (2).
 
 ![Pièces02](/02_Modelisation/02_architecte/images/PiecesRevit02.PNG)
 
-Parcourir l'explorateur de fichiers jusqu'au dossier où est stocké le fichier Tableaux de valeurs Revit BI (3), le sélectionner, puis cliquer sur Ouvrir (4).
+Parcourir l'explorateur de fichiers jusqu'au dossier où est stocké le fichier Tableaux de valeurs Revit Bouygues Immobilier (3), le sélectionner, puis cliquer sur Ouvrir (4).
 
 ![Pièces03](/02_Modelisation/02_architecte/images/PiecesRevit03.PNG)
 
