@@ -70,7 +70,7 @@ Ce plug-in remplace les fonctions d’export IFC classique de Revit :
 
 #### Configuration de l'export
 
-Télécharger la configuration d'export : [Configuration Cahier des Charges BIM BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/revit/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json) _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
+Télécharger la configuration d'export : _[Configuration Cahier des Charges BIM BI](https://raw.githubusercontent.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/master/templates/softwares/Configuration%20IFC%20Cahier%20des%20Charges%20BIM%20BI.json)_ _(Clic-droit, puis "Enregistrer le lien/la cible sous...")_
 
 Dans l'interface d'export IFC, cliquer sur l'icône "Importer Configuration" (1), puis dans le dossier de téléchargements, sélectionner le fichier Configuration Cahier des Charges BIM BI (2) que vous venez de télécharger et cliquer sur Ouvrir (3).
 
