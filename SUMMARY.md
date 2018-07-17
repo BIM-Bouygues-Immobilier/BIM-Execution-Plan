@@ -55,11 +55,14 @@
   * [Archicad](/lots/vrd/vrd-archicad.md)
   * [Allplan](/lots/vrd/vrd-allplan.md)
   * [Autre logiciel](/lots/vrd/vrd-ifc.md)
-{# * [Plateforme collaborative](/03_bimsync/README.md) #}
-{#  * [Démarrage](/03_bimsync/demarrage.md) #}
-{#  * [Manipuler les modèles](/03_bimsync/manipuler-les-modeles.md) #}
-{#  * [Déposer et gérer des modèles](/03_bimsync/deposer-et-gerer-des-modeles.md) #}
-{#  * [Déposer et gérer des documents](/03_bimsync/deposer-et-gerer-des-documents.md) #}
-{#  * [Poser et répondre aux questions](/03_bimsync/poser-et-repondre-aux-questions.md) #}
-{#  * [Inviter des membres et gérer un projet](/03_bimsync/inviter-des-membres-et-gerer-un-projet.md) #}
+* [Plateforme collaborative](/03_bimsync/README.md)
+  * [Démarrage](/03_bimsync/01-Demarrage/demarrage.md)
+  * [Manipuler les modèles](/03_bimsync/02-Manipuler_des_modeles/manipuler-les-modeles.md)
+  * [Déposer et gérer des modèles](/03_bimsync/03-Deposer_et_gerer_les_modeles/deposer-et-gerer-des-modeles.md)
+  * [Déposer et gérer des documents](/03_bimsync/04-Deposer_et_gerer_des_documents/deposer-et-gerer-des-documents.md)
+  * [Poser et répondre aux questions](/03_bimsync/05-Poser_et_repondre_aux_questions/poser-et-repondre-aux-questions.md)
+  * [Inviter des membres et gérer un projet](/03_bimsync/06-Inviter_des_membres_et_gerer_un_projet/inviter-des-membres-et-gerer-un-projet.md)
+  * [Echanger via le BCF](/03_bimsync/07-Echanger_en_BCF/echanger-en-bcf.md)
+    * [Dans Revit](/03_bimsync/07-Echanger_en_BCF/echanger-en-bcf-revit.md)
+    * [Dans ArchiCAD](/03_bimsync/07-Echanger_en_BCF/echanger-en-bcf-archicad.md)
 * [Crédits](CREDITS.md)
