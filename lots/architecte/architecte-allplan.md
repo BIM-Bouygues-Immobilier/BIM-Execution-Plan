@@ -64,7 +64,7 @@ Ces trois paramètres permettent de créer des IfcZones au moment de l'export IF
 
 #### Nom des Logements{#nom_logement}
 
-{% include "/00_Referentiel/NomDesLogements.md"  %}
+{% include "/00_Referentiel/NatureDesLogements.md"  %}
 
 #### Typologie des logements{#typologie_logement}
 
