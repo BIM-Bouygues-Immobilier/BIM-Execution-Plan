@@ -60,31 +60,7 @@ Afin de différencier les différentes surfaces du projet, il est nécéssaire d
 
 ### Modélisation des logements{#logements}
 
-Les pièces constituants un logement doivent être regroupées ensembles. Il est nécéssaire d'ajouter les propriétés suivantes aux pièces à l'aide de trois paramètres:
-
-* ZoneName
-* ZoneObjectType
-* ZoneDescription.
-
-Ces trois paramètres permettent de créer des IfcZones au moment de l'export IFC
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| ZoneName | Voir [« Noms des logements »](#nom_logement) ci-dessous | Cette propriété permet de regrouper les pièces d'un logement.|
-| ZoneDescription | Voir [« Typologie des logements »](#typologie_logement) ci-dessous | Cette propriété permet de préciser la typologie du logement (T1, T2, ...).|
-| ZoneObjectType | Voir [« Collections »](#collection) ci-dessous  | Cette propriété permet de préciser la collection du logement.|
-
-#### Nom des Logements{#nom_logement}
-
-{% include "/00_Referentiel/NatureDesLogements.md"  %}
-
-#### Typologie des logements{#typologie_logement}
-
-{% include "/00_Referentiel/TypologieDesLogements.md"  %}
-
-#### Collections{#collection}
-
-{% include "/00_Referentiel/Collection.md"  %}
+{% include "/categories/architecte/zones.md" %}
 
 ### Modélisation des places de parking{#parking}
 
