@@ -42,6 +42,20 @@ Soyez _très_ vigilant au nom de chaque paramètre et codes, il est impératif q
 
 ![ZonesArchiCAD01](/02_Modelisation/02_architecte/images/ZonesArchiCAD01.PNG)
 
+{% elif logiciel == "Allplan" %}
+
+Les pièces constituants un logement doivent être regroupées ensembles. Pour cela, il faut créer un attribut pour les pièces, que vous aller nommer Numéro_du_Logement (1). Puis, renseigner manuelement cet attribut pour chaque pièce avec le numéro de logement correspondant (2).  
+
+![ZonesAallplan01](/02_Modelisation/02_architecte/images/ZonesAllplan01.PNG)
+
+Vous devez de même ajouter les 3 attributs suivants aux pièces, et en renseigner manuelement les valeurs : 
+
+* Nature
+* Typologie
+* Collection
+
+ Pour cela, se référer aux _[tableaux ci-dessous](#nature_logement):_
+
 {% endif %}
 
 ##### Nature des Lots{#nature_logement}
