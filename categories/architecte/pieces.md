@@ -91,7 +91,7 @@ Dans la fenêtre qui s'ouvre, sélectionner l'onglet Utilisateur (3). Pour crée
 
 ![PiecesAllplan03](/02_Modelisation/02_architecte/images/PiecesAllplan03.png)
 
-Vous devrez ajouter l'attribut Code_Bouygues_Immobilier manuellement à chaque fois que vous créez une nouvelle pièce; vous pouvez également utiliser la fonction Reprendre les propriétés (10), en cliquant sur une pièce précédemment crée. Cette nouvelle pièce disposera automatiquement de l'attribut Code_Bouygues_Immobilier parmi sa liste d'attributs.
+Vous pouvez modéliser plusieurs pièces, puis ajouter l'attribut simultanément à toutes les pièces grâce à la fonction "Assigner des attributs à plusieurs éléments" (11). Pour cela, cliquer sur l'icône (11), puis sélectionner les pièces qui n'ont pas encore l'attribut et cliquer sur l'icône en forme de "V"  (12) dans la fenêtre qui vient de s'ouvrir. Ajouter l'attribut Code_Bouygues_Immobilier, comme décrit précédemment pour une seule pièce. Pour s'assurer que l'attribut soit bien ajouté, renseigner une valeur provisoire pour l'attribut Code_Bouygues_Immobilier, que vous modifierez par la suite. Une fois que vous avez validé l'ajout de l'attribut en ayant cliqué sur OK (13), cliquer sur Appliquer (14) pour que l'attribut soit ajouté à l'ensemble des pièces sélectionnées.
 
 ![PiecesAllplan04](/02_Modelisation/02_architecte/images/PiecesAllplan04.png)
 
