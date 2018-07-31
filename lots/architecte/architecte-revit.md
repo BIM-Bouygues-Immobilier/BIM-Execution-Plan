@@ -52,21 +52,18 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 
 ### Modélisation des places de parking{#parking}
 
-Les places de parking sont modélisées à l’aide d’une famille de la catégorie Parking (Par exemple, la famille "Place de parking.rfa" incluse avec Revit). La propriété suivante est alors à compléter :
+Les places de parking sont modélisées à l'aide des familles suivantes : [Place Parking Interieur Standard](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20Standard.rfa?raw=true) et [Place Parking Interieur PMR](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20PMR.rfa?raw=true)
+Télécharger les familles, puis les charger dans votre projet.
 
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Commentaire | Un numéro unique | Cette propriété permet d’identifier la places de parking. |
-
-![Parking](/02_Modelisation/02_architecte/images/Parking.PNG)
+![Parking](/02_Modelisation/02_architecte/images/ParkingRevit.PNG)
 
 ### Modélisation des façades de placards{#placards}
 
-Les placards doivent être modélisé à l'aide de la famille de placard fournie, disponible [en cliquant ici](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/Placard.rfa)
+Les placards doivent être modélisés à l'aide des familles de placard fournies : vous pouvez utiliser la famille [Placard Portes Pivotantes](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Placard%20Portes%20Pivotantes.rfa?raw=true) , et la famille [Placard Portes Coulissantes](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Placard%20Portes%20Coulissantes.rfa?raw=true).
 
-Cette famille de placard, basée sur une ligne, permet de représenter les façades de placards. La profondeur du placard est un paramètre de type.
+Ces familles de placard permettent de représenter les portes de placards. les dimensions de ces portes peuvent être adaptées en fonction de la taille du placard.
 
-![Placard](/02_Modelisation/02_architecte/images/Placard.png)
+![Placard](/02_Modelisation/02_architecte/images/PlacardRevit.png)
 
 ### Modélisation des murs{#murs}
 
