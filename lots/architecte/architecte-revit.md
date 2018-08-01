@@ -52,10 +52,7 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 
 ### Modélisation des places de parking{#parking}
 
-Les places de parking sont modélisées à l'aide des familles suivantes : [Place Parking Interieur Standard](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20Standard.rfa?raw=true) et [Place Parking Interieur PMR](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20PMR.rfa?raw=true)
-Télécharger les familles, puis les charger dans votre projet.
-
-![Parking](/02_Modelisation/02_architecte/images/ParkingRevit.PNG)
+{% include "/categories/architecte/parkings.md" %}
 
 ### Modélisation des façades de placards{#placards}
 

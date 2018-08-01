@@ -64,13 +64,7 @@ Afin de différencier les différentes surfaces du projet, il est nécéssaire d
 
 ### Modélisation des places de parking{#parking}
 
-Les places de parking sont modélisées à l’aide d’une famille de la catégorie Parking. La propriété suivante est alors à compléter :
-
-| Propriété | Valeurs possibles | Explication |
-| :--- | :--- | :--- |
-| Commentaire | Un numéro unique | Cette propriété permet d’identifier la places de parking. |
-
-![Parking](/02_Modelisation/02_architecte/images/Parking.PNG)
+{% include "/categories/architecte/parkings.md" %}
 
 ### Modélisation des façades de placards{#placards}
 
