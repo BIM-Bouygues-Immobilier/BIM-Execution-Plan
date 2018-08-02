@@ -1,7 +1,7 @@
 # Déposer et gérer des documents
 
 {% youtube %}
-https://youtu.be/A3-y664LWoQ
+https://www.youtube.com/watch?v=-6-X06hhZiM
 {% endyoutube %}
 
 Bimsync permet le partage de l’ensemble des documents d’un projet \(plans, notes, descriptifs, documents administratifs, …\). Ces documents sont accessibles depuis l’onglet « Document » \(1\).
