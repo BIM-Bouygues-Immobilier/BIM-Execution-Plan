@@ -1,7 +1,7 @@
 # Déposer et gérer les modèles
 
 {% youtube %}
-https://youtu.be/A3-y664LWoQ
+https://www.youtube.com/watch?v=-6-X06hhZiM
 {% endyoutube %}
 
 
