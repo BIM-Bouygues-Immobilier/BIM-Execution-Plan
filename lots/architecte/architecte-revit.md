@@ -56,11 +56,7 @@ Dans le cas où des intervenants spécifiques pour les lots façade et décorati
 
 ### Modélisation des façades de placards{#placards}
 
-Les placards doivent être modélisés à l'aide des familles de placard fournies : vous pouvez utiliser la famille [Placard Portes Pivotantes](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Placard%20Portes%20Pivotantes.rfa?raw=true) , et la famille [Placard Portes Coulissantes](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Placard%20Portes%20Coulissantes.rfa?raw=true).
-
-Ces familles de placard permettent de représenter les portes de placards. les dimensions de ces portes peuvent être adaptées en fonction de la taille du placard.
-
-![Placard](/02_Modelisation/02_architecte/images/PlacardRevit.png)
+{% include "/categories/architecte/placards.md" %}
 
 ### Modélisation des murs{#murs}
 

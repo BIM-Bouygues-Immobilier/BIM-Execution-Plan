@@ -62,11 +62,7 @@ Les places de parking sont modélisées à l’aide d’une famille de la catég
 
 ### Modélisation des façades de placards{#placards}
 
-Les placards doivent être modélisé à l'aide de la famille de placard fournie, disponible [en cliquant ici](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/raw/master/02_Modelisation/02_architecte/images/Placard.rfa)
-
-Cette famille de placard, basée sur une ligne, permet de représenter les façades de placards. La profondeur du placard est un paramètre de type.
-
-![Placard](/02_Modelisation/02_architecte/images/Placard.png)
+{% include "/categories/architecte/placards.md" %}
 
 ### Modélisation des murs{#murs}
 

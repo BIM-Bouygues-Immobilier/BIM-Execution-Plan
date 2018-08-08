@@ -1,7 +1,7 @@
 {% if logiciel == "Revit" %}
 
 Les places de parking sont modélisées à l'aide des familles suivantes : _[Place Parking Interieur Standard](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20Standard.rfa?raw=true)_ et _[Place Parking Interieur PMR](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20PMR.rfa?raw=true)_
-Télécharger les familles, puis les charger dans votre projet.
+Télécharger les familles, puis les charger dans votre projet. La dimension des places peuvent être ajustée à l'aide des paramètre de la famille.
 
 ![ParkingRevit](/02_Modelisation/02_architecte/images/ParkingRevit.PNG)
 
