@@ -1,7 +1,7 @@
 {% if logiciel == "Revit" %}
 
-Les places de parking sont modélisées à l'aide des familles suivantes : _[Place Parking Interieur Standard](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20Standard.rfa?raw=true)_ et _[Place Parking Interieur PMR](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20PMR.rfa?raw=true)_
-Télécharger les familles, puis les charger dans votre projet. La dimension des places peuvent être ajustée à l'aide des paramètre de la famille.
+Les places de parking sont modélisées à l'aide de la famille suivante : _[Place Parking Interieur Standard](https://github.com/BIM-Bouygues-Immobilier/BIM-Execution-Plan/blob/master/02_Modelisation/02_architecte/images/Place%20Parking%20Interieur%20Standard.rfa?raw=true)
+Télécharger la famille, puis la charger dans votre projet.Il y à deux types de places (Standard et PMR), et la dimension des places peut être ajustée à l'aide des paramètres de la famille.
 
 ![ParkingRevit](/02_Modelisation/02_architecte/images/ParkingRevit.PNG)
 
@@ -14,6 +14,10 @@ Les places de parkings sont modélisées à l'aide de l'outil Objet (1). Il faut
 Pour ajouter des places de parking à votre maquette, cliquer sur l'outil Objet (8), puis sur l'icône en forme de chaise (9). Dans la fenêtre que s'ouvre, sélectionner la bibliothèque emboitée (10), la place de parking à ajouter à la maquette (11), puis cliquer sur OK (12). Enfin, cliquer à l'endroit de la maquette où doit être positionnée la place de parking.
 
 ![ParkingArchicad02](/02_Modelisation/02_architecte/images/ParkingArchicad02.PNG)
+
+la dimension des places peut être ajustée à l'aide des paramètres de l'objet. Cliquer droit sur la place, puis sur Opitions Objets sélectionnés (13); les dimensions peuvent être changée dans l'onglet Prévisualisation et position (14). vous pouvez également utiliser la fonction Déplacer les noeuds. 
+
+![ParkingArchicad03](/02_Modelisation/02_architecte/images/ParkingArchicad03.PNG)
 
 {% elif logiciel == "Allplan" %}
 
