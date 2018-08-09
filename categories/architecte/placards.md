@@ -19,6 +19,10 @@ La dimension des portes peut être ajustée à l'aide des paramètres de l'objet
 
 ![PlacardArchicad03](/02_Modelisation/02_architecte/images/PlacardArchicad03.PNG)
 
+Une fois votre placard en place, vous devez changer sa classification IFC. Pour cela, cliquer droit sur le placard, puis sur Options Objets sélectionnés. Ensuite, aller dans l'onglet Classifications et cocher la case Calssification ArchiCAD - 21 (15). Une flèche va apparaitre à droite, cliquer dessus, puis choisir la classification Mobilier (16). cliquer enfin sur choisir, puis OK (17) pour valider le changement de classification IFC.
+
+![PlacardArchicad04](/02_Modelisation/02_architecte/images/PlacardArchicad04.PNG)
+
 {% elif logiciel == "Allplan" %}
 
 TO DO
